@@ -1,13 +1,17 @@
 {
  "standings": [
   {
-   "lastAccept": 1573234123, 
+   "lastAccept": 1573238181, 
    "pos": 1, 
-   "score": 830, 
+   "score": 1330, 
    "taskStats": {
     "full_troll": {
      "points": 500, 
      "time": 1573234004
+    }, 
+    "future_message_pt1": {
+     "points": 500, 
+     "time": 1573238181
     }, 
     "g00d_b0y": {
      "points": 183, 
@@ -1252,6 +1256,7 @@
  "tasks": [
   "g00d_b0y", 
   "the_last_resort", 
-  "full_troll"
+  "full_troll", 
+  "future_message_pt1"
  ]
 }
