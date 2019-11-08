@@ -1,36 +1,8 @@
 {
  "standings": [
   {
-   "lastAccept": 1573243507, 
-   "pos": 1, 
-   "score": 1715, 
-   "taskStats": {
-    "full_troll": {
-     "points": 474, 
-     "time": 1573239530
-    }, 
-    "g00d_b0y": {
-     "points": 152, 
-     "time": 1573236673
-    }, 
-    "random_vault": {
-     "points": 474, 
-     "time": 1573243403
-    }, 
-    "roots_before_branches": {
-     "points": 500, 
-     "time": 1573243507
-    }, 
-    "the_last_resort": {
-     "points": 115, 
-     "time": 1573237044
-    }
-   }, 
-   "team": "RPISEC"
-  }, 
-  {
    "lastAccept": 1573239514, 
-   "pos": 2, 
+   "pos": 1, 
    "score": 1689, 
    "taskStats": {
     "full_troll": {
@@ -57,6 +29,34 @@
    "team": "Balsn"
   }, 
   {
+   "lastAccept": 1573243507, 
+   "pos": 2, 
+   "score": 1689, 
+   "taskStats": {
+    "full_troll": {
+     "points": 474, 
+     "time": 1573239530
+    }, 
+    "g00d_b0y": {
+     "points": 152, 
+     "time": 1573236673
+    }, 
+    "random_vault": {
+     "points": 474, 
+     "time": 1573243403
+    }, 
+    "roots_before_branches": {
+     "points": 474, 
+     "time": 1573243507
+    }, 
+    "the_last_resort": {
+     "points": 115, 
+     "time": 1573237044
+    }
+   }, 
+   "team": "RPISEC"
+  }, 
+  {
    "lastAccept": 1573242319, 
    "pos": 3, 
    "score": 741, 
@@ -77,8 +77,28 @@
    "team": "shablul"
   }, 
   {
-   "lastAccept": 1573231287, 
+   "lastAccept": 1573245898, 
    "pos": 4, 
+   "score": 741, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 152, 
+     "time": 1573231398
+    }, 
+    "roots_before_branches": {
+     "points": 474, 
+     "time": 1573245898
+    }, 
+    "the_last_resort": {
+     "points": 115, 
+     "time": 1573231346
+    }
+   }, 
+   "team": "[USP] Ganesh"
+  }, 
+  {
+   "lastAccept": 1573231287, 
+   "pos": 5, 
    "score": 267, 
    "taskStats": {
     "g00d_b0y": {
@@ -94,7 +114,7 @@
   }, 
   {
    "lastAccept": 1573231293, 
-   "pos": 5, 
+   "pos": 6, 
    "score": 267, 
    "taskStats": {
     "g00d_b0y": {
@@ -110,7 +130,7 @@
   }, 
   {
    "lastAccept": 1573231332, 
-   "pos": 6, 
+   "pos": 7, 
    "score": 267, 
    "taskStats": {
     "g00d_b0y": {
@@ -126,7 +146,7 @@
   }, 
   {
    "lastAccept": 1573231369, 
-   "pos": 7, 
+   "pos": 8, 
    "score": 267, 
    "taskStats": {
     "g00d_b0y": {
@@ -142,7 +162,7 @@
   }, 
   {
    "lastAccept": 1573231373, 
-   "pos": 8, 
+   "pos": 9, 
    "score": 267, 
    "taskStats": {
     "g00d_b0y": {
@@ -158,7 +178,7 @@
   }, 
   {
    "lastAccept": 1573231385, 
-   "pos": 9, 
+   "pos": 10, 
    "score": 267, 
    "taskStats": {
     "g00d_b0y": {
@@ -171,22 +191,6 @@
     }
    }, 
    "team": "Ne0Lux-C1Ph3r"
-  }, 
-  {
-   "lastAccept": 1573231398, 
-   "pos": 10, 
-   "score": 267, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 152, 
-     "time": 1573231398
-    }, 
-    "the_last_resort": {
-     "points": 115, 
-     "time": 1573231346
-    }
-   }, 
-   "team": "[USP] Ganesh"
   }, 
   {
    "lastAccept": 1573231432, 
