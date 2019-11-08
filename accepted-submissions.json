@@ -3,14 +3,14 @@
   {
    "lastAccept": 1573246480, 
    "pos": 1, 
-   "score": 2078, 
+   "score": 2060, 
    "taskStats": {
     "full_troll": {
      "points": 435, 
      "time": 1573239530
     }, 
     "future_message_pt1": {
-     "points": 453, 
+     "points": 435, 
      "time": 1573246480
     }, 
     "g00d_b0y": {
@@ -35,14 +35,14 @@
   {
    "lastAccept": 1573239514, 
    "pos": 2, 
-   "score": 1604, 
+   "score": 1586, 
    "taskStats": {
     "full_troll": {
      "points": 435, 
      "time": 1573234004
     }, 
     "future_message_pt1": {
-     "points": 453, 
+     "points": 435, 
      "time": 1573238181
     }, 
     "g00d_b0y": {
@@ -103,10 +103,10 @@
   {
    "lastAccept": 1573242319, 
    "pos": 5, 
-   "score": 695, 
+   "score": 677, 
    "taskStats": {
     "future_message_pt1": {
-     "points": 453, 
+     "points": 435, 
      "time": 1573242319
     }, 
     "g00d_b0y": {
@@ -161,8 +161,28 @@
    "team": "LEGOFAN"
   }, 
   {
-   "lastAccept": 1573231287, 
+   "lastAccept": 1573249792, 
    "pos": 8, 
+   "score": 677, 
+   "taskStats": {
+    "future_message_pt1": {
+     "points": 435, 
+     "time": 1573249792
+    }, 
+    "g00d_b0y": {
+     "points": 139, 
+     "time": 1573231639
+    }, 
+    "the_last_resort": {
+     "points": 103, 
+     "time": 1573231689
+    }
+   }, 
+   "team": "teampowerprinter"
+  }, 
+  {
+   "lastAccept": 1573231287, 
+   "pos": 9, 
    "score": 242, 
    "taskStats": {
     "g00d_b0y": {
@@ -178,7 +198,7 @@
   }, 
   {
    "lastAccept": 1573231293, 
-   "pos": 9, 
+   "pos": 10, 
    "score": 242, 
    "taskStats": {
     "g00d_b0y": {
@@ -194,7 +214,7 @@
   }, 
   {
    "lastAccept": 1573231332, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 242, 
    "taskStats": {
     "g00d_b0y": {
@@ -210,7 +230,7 @@
   }, 
   {
    "lastAccept": 1573231373, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 242, 
    "taskStats": {
     "g00d_b0y": {
@@ -226,7 +246,7 @@
   }, 
   {
    "lastAccept": 1573231385, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 242, 
    "taskStats": {
     "g00d_b0y": {
@@ -242,7 +262,7 @@
   }, 
   {
    "lastAccept": 1573231432, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 242, 
    "taskStats": {
     "g00d_b0y": {
@@ -258,7 +278,7 @@
   }, 
   {
    "lastAccept": 1573231501, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 242, 
    "taskStats": {
     "g00d_b0y": {
@@ -274,7 +294,7 @@
   }, 
   {
    "lastAccept": 1573231520, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 242, 
    "taskStats": {
     "g00d_b0y": {
@@ -290,7 +310,7 @@
   }, 
   {
    "lastAccept": 1573231583, 
-   "pos": 16, 
+   "pos": 17, 
    "score": 242, 
    "taskStats": {
     "g00d_b0y": {
@@ -306,7 +326,7 @@
   }, 
   {
    "lastAccept": 1573231603, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 242, 
    "taskStats": {
     "g00d_b0y": {
@@ -322,7 +342,7 @@
   }, 
   {
    "lastAccept": 1573231606, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 242, 
    "taskStats": {
     "g00d_b0y": {
@@ -338,7 +358,7 @@
   }, 
   {
    "lastAccept": 1573231619, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 242, 
    "taskStats": {
     "g00d_b0y": {
@@ -354,7 +374,7 @@
   }, 
   {
    "lastAccept": 1573231629, 
-   "pos": 20, 
+   "pos": 21, 
    "score": 242, 
    "taskStats": {
     "g00d_b0y": {
@@ -367,22 +387,6 @@
     }
    }, 
    "team": "technic"
-  }, 
-  {
-   "lastAccept": 1573231639, 
-   "pos": 21, 
-   "score": 242, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 139, 
-     "time": 1573231639
-    }, 
-    "the_last_resort": {
-     "points": 103, 
-     "time": 1573231689
-    }
-   }, 
-   "team": "teampowerprinter"
   }, 
   {
    "lastAccept": 1573231640, 
