@@ -3,10 +3,10 @@
   {
    "lastAccept": 1573231398, 
    "pos": 1, 
-   "score": 814, 
+   "score": 800, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573231398
     }, 
     "the_last_resort": {
@@ -19,10 +19,10 @@
   {
    "lastAccept": 1573231098, 
    "pos": 2, 
-   "score": 420, 
+   "score": 406, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573231098
     }
    }, 
@@ -31,10 +31,10 @@
   {
    "lastAccept": 1573231309, 
    "pos": 3, 
-   "score": 420, 
+   "score": 406, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573231309
     }
    }, 
@@ -43,10 +43,10 @@
   {
    "lastAccept": 1573231333, 
    "pos": 4, 
-   "score": 420, 
+   "score": 406, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573231333
     }
    }, 
@@ -55,18 +55,30 @@
   {
    "lastAccept": 1573231422, 
    "pos": 5, 
-   "score": 420, 
+   "score": 406, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573231422
     }
    }, 
    "team": "TheF0rce"
   }, 
   {
-   "lastAccept": 1573231196, 
+   "lastAccept": 1573231449, 
    "pos": 6, 
+   "score": 406, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 406, 
+     "time": 1573231449
+    }
+   }, 
+   "team": "Balsn"
+  }, 
+  {
+   "lastAccept": 1573231196, 
+   "pos": 7, 
    "score": 394, 
    "taskStats": {
     "the_last_resort": {
@@ -78,7 +90,7 @@
   }, 
   {
    "lastAccept": 1573231280, 
-   "pos": 7, 
+   "pos": 8, 
    "score": 394, 
    "taskStats": {
     "the_last_resort": {
@@ -90,7 +102,7 @@
   }, 
   {
    "lastAccept": 1573231320, 
-   "pos": 8, 
+   "pos": 9, 
    "score": 394, 
    "taskStats": {
     "the_last_resort": {
@@ -102,7 +114,7 @@
   }, 
   {
    "lastAccept": 1573231370, 
-   "pos": 9, 
+   "pos": 10, 
    "score": 394, 
    "taskStats": {
     "the_last_resort": {
@@ -114,7 +126,7 @@
   }, 
   {
    "lastAccept": 1573231383, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 394, 
    "taskStats": {
     "the_last_resort": {
@@ -126,7 +138,7 @@
   }, 
   {
    "lastAccept": 1573231405, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 394, 
    "taskStats": {
     "the_last_resort": {
