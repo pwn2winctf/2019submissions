@@ -1,8 +1,36 @@
 {
  "standings": [
   {
-   "lastAccept": 1573239514, 
+   "lastAccept": 1573243507, 
    "pos": 1, 
+   "score": 1732, 
+   "taskStats": {
+    "full_troll": {
+     "points": 474, 
+     "time": 1573239530
+    }, 
+    "g00d_b0y": {
+     "points": 163, 
+     "time": 1573236673
+    }, 
+    "random_vault": {
+     "points": 474, 
+     "time": 1573243403
+    }, 
+    "roots_before_branches": {
+     "points": 500, 
+     "time": 1573243507
+    }, 
+    "the_last_resort": {
+     "points": 121, 
+     "time": 1573237044
+    }
+   }, 
+   "team": "RPISEC"
+  }, 
+  {
+   "lastAccept": 1573239514, 
+   "pos": 2, 
    "score": 1706, 
    "taskStats": {
     "full_troll": {
@@ -27,30 +55,6 @@
     }
    }, 
    "team": "Balsn"
-  }, 
-  {
-   "lastAccept": 1573243403, 
-   "pos": 2, 
-   "score": 1232, 
-   "taskStats": {
-    "full_troll": {
-     "points": 474, 
-     "time": 1573239530
-    }, 
-    "g00d_b0y": {
-     "points": 163, 
-     "time": 1573236673
-    }, 
-    "random_vault": {
-     "points": 474, 
-     "time": 1573243403
-    }, 
-    "the_last_resort": {
-     "points": 121, 
-     "time": 1573237044
-    }
-   }, 
-   "team": "RPISEC"
   }, 
   {
    "lastAccept": 1573242319, 
@@ -1566,6 +1570,7 @@
   "the_last_resort", 
   "full_troll", 
   "future_message_pt1", 
-  "random_vault"
+  "random_vault", 
+  "roots_before_branches"
  ]
 }
