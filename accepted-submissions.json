@@ -3,14 +3,14 @@
   {
    "lastAccept": 1573231398, 
    "pos": 1, 
-   "score": 800, 
+   "score": 789, 
    "taskStats": {
     "g00d_b0y": {
      "points": 406, 
      "time": 1573231398
     }, 
     "the_last_resort": {
-     "points": 394, 
+     "points": 383, 
      "time": 1573231346
     }
    }, 
@@ -79,10 +79,10 @@
   {
    "lastAccept": 1573231196, 
    "pos": 7, 
-   "score": 394, 
+   "score": 383, 
    "taskStats": {
     "the_last_resort": {
-     "points": 394, 
+     "points": 383, 
      "time": 1573231196
     }
    }, 
@@ -91,10 +91,10 @@
   {
    "lastAccept": 1573231280, 
    "pos": 8, 
-   "score": 394, 
+   "score": 383, 
    "taskStats": {
     "the_last_resort": {
-     "points": 394, 
+     "points": 383, 
      "time": 1573231280
     }
    }, 
@@ -103,10 +103,10 @@
   {
    "lastAccept": 1573231320, 
    "pos": 9, 
-   "score": 394, 
+   "score": 383, 
    "taskStats": {
     "the_last_resort": {
-     "points": 394, 
+     "points": 383, 
      "time": 1573231320
     }
    }, 
@@ -115,10 +115,10 @@
   {
    "lastAccept": 1573231370, 
    "pos": 10, 
-   "score": 394, 
+   "score": 383, 
    "taskStats": {
     "the_last_resort": {
-     "points": 394, 
+     "points": 383, 
      "time": 1573231370
     }
    }, 
@@ -127,10 +127,10 @@
   {
    "lastAccept": 1573231383, 
    "pos": 11, 
-   "score": 394, 
+   "score": 383, 
    "taskStats": {
     "the_last_resort": {
-     "points": 394, 
+     "points": 383, 
      "time": 1573231383
     }
    }, 
@@ -139,14 +139,26 @@
   {
    "lastAccept": 1573231405, 
    "pos": 12, 
-   "score": 394, 
+   "score": 383, 
    "taskStats": {
     "the_last_resort": {
-     "points": 394, 
+     "points": 383, 
      "time": 1573231405
     }
    }, 
    "team": "flagbot"
+  }, 
+  {
+   "lastAccept": 1573231466, 
+   "pos": 13, 
+   "score": 383, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 383, 
+     "time": 1573231466
+    }
+   }, 
+   "team": "bluehens"
   }
  ], 
  "tasks": [
