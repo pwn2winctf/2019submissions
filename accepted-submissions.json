@@ -15,14 +15,26 @@
   {
    "lastAccept": 1573231196, 
    "pos": 2, 
-   "score": 500, 
+   "score": 474, 
    "taskStats": {
     "the_last_resort": {
-     "points": 500, 
+     "points": 474, 
      "time": 1573231196
     }
    }, 
    "team": "Zemows Industries"
+  }, 
+  {
+   "lastAccept": 1573231280, 
+   "pos": 3, 
+   "score": 474, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 474, 
+     "time": 1573231280
+    }
+   }, 
+   "team": "Dragon Sector"
   }
  ], 
  "tasks": [
