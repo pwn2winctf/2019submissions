@@ -1,12 +1,28 @@
 {
  "standings": [
   {
-   "lastAccept": 1573231098, 
+   "lastAccept": 1573231398, 
    "pos": 1, 
-   "score": 453, 
+   "score": 841, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 453, 
+     "points": 435, 
+     "time": 1573231398
+    }, 
+    "the_last_resort": {
+     "points": 406, 
+     "time": 1573231346
+    }
+   }, 
+   "team": "[USP] Ganesh"
+  }, 
+  {
+   "lastAccept": 1573231098, 
+   "pos": 2, 
+   "score": 435, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 435, 
      "time": 1573231098
     }
    }, 
@@ -14,11 +30,11 @@
   }, 
   {
    "lastAccept": 1573231309, 
-   "pos": 2, 
-   "score": 453, 
+   "pos": 3, 
+   "score": 435, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 453, 
+     "points": 435, 
      "time": 1573231309
     }
    }, 
@@ -26,11 +42,11 @@
   }, 
   {
    "lastAccept": 1573231333, 
-   "pos": 3, 
-   "score": 453, 
+   "pos": 4, 
+   "score": 435, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 453, 
+     "points": 435, 
      "time": 1573231333
     }
    }, 
@@ -38,7 +54,7 @@
   }, 
   {
    "lastAccept": 1573231196, 
-   "pos": 4, 
+   "pos": 5, 
    "score": 406, 
    "taskStats": {
     "the_last_resort": {
@@ -50,7 +66,7 @@
   }, 
   {
    "lastAccept": 1573231280, 
-   "pos": 5, 
+   "pos": 6, 
    "score": 406, 
    "taskStats": {
     "the_last_resort": {
@@ -62,7 +78,7 @@
   }, 
   {
    "lastAccept": 1573231320, 
-   "pos": 6, 
+   "pos": 7, 
    "score": 406, 
    "taskStats": {
     "the_last_resort": {
@@ -71,18 +87,6 @@
     }
    }, 
    "team": "LEGOFAN"
-  }, 
-  {
-   "lastAccept": 1573231346, 
-   "pos": 7, 
-   "score": 406, 
-   "taskStats": {
-    "the_last_resort": {
-     "points": 406, 
-     "time": 1573231346
-    }
-   }, 
-   "team": "[USP] Ganesh"
   }, 
   {
    "lastAccept": 1573231370, 
