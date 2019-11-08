@@ -1963,6 +1963,18 @@
     }
    }, 
    "team": "APA Razi"
+  }, 
+  {
+   "lastAccept": 1573253406, 
+   "pos": 129, 
+   "score": 100, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 100, 
+     "time": 1573253406
+    }
+   }, 
+   "team": "WkRKVloyRkhSakJhVTBKcUNnPT0K"
   }
  ], 
  "tasks": [
