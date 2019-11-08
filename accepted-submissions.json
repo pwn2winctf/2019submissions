@@ -3,10 +3,10 @@
   {
    "lastAccept": 1573246480, 
    "pos": 1, 
-   "score": 2139, 
+   "score": 2118, 
    "taskStats": {
     "full_troll": {
-     "points": 474, 
+     "points": 453, 
      "time": 1573239530
     }, 
     "future_message_pt1": {
@@ -35,10 +35,10 @@
   {
    "lastAccept": 1573239514, 
    "pos": 2, 
-   "score": 1665, 
+   "score": 1644, 
    "taskStats": {
     "full_troll": {
-     "points": 474, 
+     "points": 453, 
      "time": 1573234004
     }, 
     "future_message_pt1": {
@@ -101,8 +101,28 @@
    "team": "shablul"
   }, 
   {
-   "lastAccept": 1573231287, 
+   "lastAccept": 1573246734, 
    "pos": 5, 
+   "score": 717, 
+   "taskStats": {
+    "full_troll": {
+     "points": 453, 
+     "time": 1573246734
+    }, 
+    "g00d_b0y": {
+     "points": 149, 
+     "time": 1573232068
+    }, 
+    "the_last_resort": {
+     "points": 115, 
+     "time": 1573231369
+    }
+   }, 
+   "team": "NoPwnIntended"
+  }, 
+  {
+   "lastAccept": 1573231287, 
+   "pos": 6, 
    "score": 264, 
    "taskStats": {
     "g00d_b0y": {
@@ -118,7 +138,7 @@
   }, 
   {
    "lastAccept": 1573231293, 
-   "pos": 6, 
+   "pos": 7, 
    "score": 264, 
    "taskStats": {
     "g00d_b0y": {
@@ -134,7 +154,7 @@
   }, 
   {
    "lastAccept": 1573231332, 
-   "pos": 7, 
+   "pos": 8, 
    "score": 264, 
    "taskStats": {
     "g00d_b0y": {
@@ -147,22 +167,6 @@
     }
    }, 
    "team": "$wag"
-  }, 
-  {
-   "lastAccept": 1573231369, 
-   "pos": 8, 
-   "score": 264, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 149, 
-     "time": 1573232068
-    }, 
-    "the_last_resort": {
-     "points": 115, 
-     "time": 1573231369
-    }
-   }, 
-   "team": "NoPwnIntended"
   }, 
   {
    "lastAccept": 1573231373, 
