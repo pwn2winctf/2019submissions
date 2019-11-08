@@ -10,5 +10,9 @@
  {
   "msg": "If you suffer connectivity problems to the UFSCar network (200.136.252.0/22 and 200.136.213.0/24), you may use https://ufscar-bkp.pwn2.win/ufscar-bkp.ovpn to get an alternative route.", 
   "time": 1573241121
+ }, 
+ {
+  "msg": "AstroBot is being fixed, wait pls", 
+  "time": 1573242338
  }
 ]
