@@ -13,32 +13,8 @@
    "team": "Ne0Lux-C1Ph3r"
   }, 
   {
-   "lastAccept": 1573231196, 
-   "pos": 2, 
-   "score": 453, 
-   "taskStats": {
-    "the_last_resort": {
-     "points": 453, 
-     "time": 1573231196
-    }
-   }, 
-   "team": "Zemows Industries"
-  }, 
-  {
-   "lastAccept": 1573231280, 
-   "pos": 3, 
-   "score": 453, 
-   "taskStats": {
-    "the_last_resort": {
-     "points": 453, 
-     "time": 1573231280
-    }
-   }, 
-   "team": "Dragon Sector"
-  }, 
-  {
    "lastAccept": 1573231309, 
-   "pos": 4, 
+   "pos": 2, 
    "score": 453, 
    "taskStats": {
     "g00d_b0y": {
@@ -49,20 +25,8 @@
    "team": "ThePhills"
   }, 
   {
-   "lastAccept": 1573231320, 
-   "pos": 5, 
-   "score": 453, 
-   "taskStats": {
-    "the_last_resort": {
-     "points": 453, 
-     "time": 1573231320
-    }
-   }, 
-   "team": "LEGOFAN"
-  }, 
-  {
    "lastAccept": 1573231333, 
-   "pos": 6, 
+   "pos": 3, 
    "score": 453, 
    "taskStats": {
     "g00d_b0y": {
@@ -71,6 +35,54 @@
     }
    }, 
    "team": "RedGKFRocket"
+  }, 
+  {
+   "lastAccept": 1573231196, 
+   "pos": 4, 
+   "score": 435, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 435, 
+     "time": 1573231196
+    }
+   }, 
+   "team": "Zemows Industries"
+  }, 
+  {
+   "lastAccept": 1573231280, 
+   "pos": 5, 
+   "score": 435, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 435, 
+     "time": 1573231280
+    }
+   }, 
+   "team": "Dragon Sector"
+  }, 
+  {
+   "lastAccept": 1573231320, 
+   "pos": 6, 
+   "score": 435, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 435, 
+     "time": 1573231320
+    }
+   }, 
+   "team": "LEGOFAN"
+  }, 
+  {
+   "lastAccept": 1573231346, 
+   "pos": 7, 
+   "score": 435, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 435, 
+     "time": 1573231346
+    }
+   }, 
+   "team": "[USP] Ganesh"
   }
  ], 
  "tasks": [
