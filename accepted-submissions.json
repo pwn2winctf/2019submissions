@@ -3,7 +3,7 @@
   {
    "lastAccept": 1573239514, 
    "pos": 1, 
-   "score": 1732, 
+   "score": 1706, 
    "taskStats": {
     "full_troll": {
      "points": 474, 
@@ -18,7 +18,7 @@
      "time": 1573231449
     }, 
     "random_vault": {
-     "points": 500, 
+     "points": 474, 
      "time": 1573239514
     }, 
     "the_last_resort": {
@@ -29,9 +29,9 @@
    "team": "Balsn"
   }, 
   {
-   "lastAccept": 1573239530, 
+   "lastAccept": 1573243403, 
    "pos": 2, 
-   "score": 758, 
+   "score": 1232, 
    "taskStats": {
     "full_troll": {
      "points": 474, 
@@ -40,6 +40,10 @@
     "g00d_b0y": {
      "points": 163, 
      "time": 1573236673
+    }, 
+    "random_vault": {
+     "points": 474, 
+     "time": 1573243403
     }, 
     "the_last_resort": {
      "points": 121, 
