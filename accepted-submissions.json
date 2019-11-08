@@ -3,10 +3,10 @@
   {
    "lastAccept": 1573231398, 
    "pos": 1, 
-   "score": 541, 
+   "score": 536, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 288, 
+     "points": 283, 
      "time": 1573231398
     }, 
     "the_last_resort": {
@@ -19,10 +19,10 @@
   {
    "lastAccept": 1573231501, 
    "pos": 2, 
-   "score": 541, 
+   "score": 536, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 288, 
+     "points": 283, 
      "time": 1573231501
     }, 
     "the_last_resort": {
@@ -35,10 +35,10 @@
   {
    "lastAccept": 1573231520, 
    "pos": 3, 
-   "score": 541, 
+   "score": 536, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 288, 
+     "points": 283, 
      "time": 1573231309
     }, 
     "the_last_resort": {
@@ -51,10 +51,10 @@
   {
    "lastAccept": 1573231583, 
    "pos": 4, 
-   "score": 541, 
+   "score": 536, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 288, 
+     "points": 283, 
      "time": 1573231422
     }, 
     "the_last_resort": {
@@ -67,10 +67,10 @@
   {
    "lastAccept": 1573231619, 
    "pos": 5, 
-   "score": 541, 
+   "score": 536, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 288, 
+     "points": 283, 
      "time": 1573231619
     }, 
     "the_last_resort": {
@@ -83,10 +83,10 @@
   {
    "lastAccept": 1573231629, 
    "pos": 6, 
-   "score": 541, 
+   "score": 536, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 288, 
+     "points": 283, 
      "time": 1573231629
     }, 
     "the_last_resort": {
@@ -99,10 +99,10 @@
   {
    "lastAccept": 1573231792, 
    "pos": 7, 
-   "score": 541, 
+   "score": 536, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 288, 
+     "points": 283, 
      "time": 1573231792
     }, 
     "the_last_resort": {
@@ -115,10 +115,10 @@
   {
    "lastAccept": 1573231833, 
    "pos": 8, 
-   "score": 541, 
+   "score": 536, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 288, 
+     "points": 283, 
      "time": 1573231833
     }, 
     "the_last_resort": {
@@ -131,10 +131,10 @@
   {
    "lastAccept": 1573232011, 
    "pos": 9, 
-   "score": 541, 
+   "score": 536, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 288, 
+     "points": 283, 
      "time": 1573232011
     }, 
     "the_last_resort": {
@@ -147,10 +147,10 @@
   {
    "lastAccept": 1573232019, 
    "pos": 10, 
-   "score": 541, 
+   "score": 536, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 288, 
+     "points": 283, 
      "time": 1573232019
     }, 
     "the_last_resort": {
@@ -163,10 +163,10 @@
   {
    "lastAccept": 1573232238, 
    "pos": 11, 
-   "score": 541, 
+   "score": 536, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 288, 
+     "points": 283, 
      "time": 1573231669
     }, 
     "the_last_resort": {
@@ -179,10 +179,10 @@
   {
    "lastAccept": 1573232276, 
    "pos": 12, 
-   "score": 541, 
+   "score": 536, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 288, 
+     "points": 283, 
      "time": 1573232276
     }, 
     "the_last_resort": {
@@ -195,10 +195,10 @@
   {
    "lastAccept": 1573232289, 
    "pos": 13, 
-   "score": 541, 
+   "score": 536, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 288, 
+     "points": 283, 
      "time": 1573231985
     }, 
     "the_last_resort": {
@@ -209,12 +209,28 @@
    "team": "Shingeki_No_Chikungunya"
   }, 
   {
-   "lastAccept": 1573231098, 
+   "lastAccept": 1573232488, 
    "pos": 14, 
-   "score": 288, 
+   "score": 536, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 288, 
+     "points": 283, 
+     "time": 1573232488
+    }, 
+    "the_last_resort": {
+     "points": 253, 
+     "time": 1573231320
+    }
+   }, 
+   "team": "LEGOFAN"
+  }, 
+  {
+   "lastAccept": 1573231098, 
+   "pos": 15, 
+   "score": 283, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 283, 
      "time": 1573231098
     }
    }, 
@@ -222,11 +238,11 @@
   }, 
   {
    "lastAccept": 1573231333, 
-   "pos": 15, 
-   "score": 288, 
+   "pos": 16, 
+   "score": 283, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 288, 
+     "points": 283, 
      "time": 1573231333
     }
    }, 
@@ -234,11 +250,11 @@
   }, 
   {
    "lastAccept": 1573231449, 
-   "pos": 16, 
-   "score": 288, 
+   "pos": 17, 
+   "score": 283, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 288, 
+     "points": 283, 
      "time": 1573231449
     }
    }, 
@@ -246,11 +262,11 @@
   }, 
   {
    "lastAccept": 1573231528, 
-   "pos": 17, 
-   "score": 288, 
+   "pos": 18, 
+   "score": 283, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 288, 
+     "points": 283, 
      "time": 1573231528
     }
    }, 
@@ -258,11 +274,11 @@
   }, 
   {
    "lastAccept": 1573231720, 
-   "pos": 18, 
-   "score": 288, 
+   "pos": 19, 
+   "score": 283, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 288, 
+     "points": 283, 
      "time": 1573231720
     }
    }, 
@@ -270,11 +286,11 @@
   }, 
   {
    "lastAccept": 1573232068, 
-   "pos": 19, 
-   "score": 288, 
+   "pos": 20, 
+   "score": 283, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 288, 
+     "points": 283, 
      "time": 1573232068
     }
    }, 
@@ -282,11 +298,11 @@
   }, 
   {
    "lastAccept": 1573232089, 
-   "pos": 20, 
-   "score": 288, 
+   "pos": 21, 
+   "score": 283, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 288, 
+     "points": 283, 
      "time": 1573232089
     }
    }, 
@@ -294,11 +310,11 @@
   }, 
   {
    "lastAccept": 1573232182, 
-   "pos": 21, 
-   "score": 288, 
+   "pos": 22, 
+   "score": 283, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 288, 
+     "points": 283, 
      "time": 1573232182
     }
    }, 
@@ -306,11 +322,11 @@
   }, 
   {
    "lastAccept": 1573232443, 
-   "pos": 22, 
-   "score": 288, 
+   "pos": 23, 
+   "score": 283, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 288, 
+     "points": 283, 
      "time": 1573232443
     }
    }, 
@@ -318,7 +334,7 @@
   }, 
   {
    "lastAccept": 1573231280, 
-   "pos": 23, 
+   "pos": 24, 
    "score": 253, 
    "taskStats": {
     "the_last_resort": {
@@ -327,18 +343,6 @@
     }
    }, 
    "team": "Dragon Sector"
-  }, 
-  {
-   "lastAccept": 1573231320, 
-   "pos": 24, 
-   "score": 253, 
-   "taskStats": {
-    "the_last_resort": {
-     "points": 253, 
-     "time": 1573231320
-    }
-   }, 
-   "team": "LEGOFAN"
   }, 
   {
    "lastAccept": 1573231383, 
