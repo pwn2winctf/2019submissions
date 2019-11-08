@@ -3,10 +3,10 @@
   {
    "lastAccept": 1573231398, 
    "pos": 1, 
-   "score": 779, 
+   "score": 767, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573231398
     }, 
     "the_last_resort": {
@@ -17,12 +17,28 @@
    "team": "[USP] Ganesh"
   }, 
   {
-   "lastAccept": 1573231098, 
+   "lastAccept": 1573231501, 
    "pos": 2, 
-   "score": 406, 
+   "score": 767, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 406, 
+     "points": 394, 
+     "time": 1573231501
+    }, 
+    "the_last_resort": {
+     "points": 373, 
+     "time": 1573231196
+    }
+   }, 
+   "team": "Zemows Industries"
+  }, 
+  {
+   "lastAccept": 1573231098, 
+   "pos": 3, 
+   "score": 394, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 394, 
      "time": 1573231098
     }
    }, 
@@ -30,11 +46,11 @@
   }, 
   {
    "lastAccept": 1573231309, 
-   "pos": 3, 
-   "score": 406, 
+   "pos": 4, 
+   "score": 394, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573231309
     }
    }, 
@@ -42,11 +58,11 @@
   }, 
   {
    "lastAccept": 1573231333, 
-   "pos": 4, 
-   "score": 406, 
+   "pos": 5, 
+   "score": 394, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573231333
     }
    }, 
@@ -54,11 +70,11 @@
   }, 
   {
    "lastAccept": 1573231422, 
-   "pos": 5, 
-   "score": 406, 
+   "pos": 6, 
+   "score": 394, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573231422
     }
    }, 
@@ -66,27 +82,15 @@
   }, 
   {
    "lastAccept": 1573231449, 
-   "pos": 6, 
-   "score": 406, 
+   "pos": 7, 
+   "score": 394, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573231449
     }
    }, 
    "team": "Balsn"
-  }, 
-  {
-   "lastAccept": 1573231196, 
-   "pos": 7, 
-   "score": 373, 
-   "taskStats": {
-    "the_last_resort": {
-     "points": 373, 
-     "time": 1573231196
-    }
-   }, 
-   "team": "Zemows Industries"
   }, 
   {
    "lastAccept": 1573231280, 
