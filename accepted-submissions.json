@@ -3,10 +3,10 @@
   {
    "lastAccept": 1573231098, 
    "pos": 1, 
-   "score": 500, 
+   "score": 474, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 500, 
+     "points": 474, 
      "time": 1573231098
     }
    }, 
@@ -35,6 +35,18 @@
     }
    }, 
    "team": "Dragon Sector"
+  }, 
+  {
+   "lastAccept": 1573231309, 
+   "pos": 4, 
+   "score": 474, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 474, 
+     "time": 1573231309
+    }
+   }, 
+   "team": "ThePhills"
   }
  ], 
  "tasks": [
