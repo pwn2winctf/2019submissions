@@ -3,14 +3,14 @@
   {
    "lastAccept": 1573231398, 
    "pos": 1, 
-   "score": 730, 
+   "score": 723, 
    "taskStats": {
     "g00d_b0y": {
      "points": 383, 
      "time": 1573231398
     }, 
     "the_last_resort": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573231346
     }
    }, 
@@ -19,14 +19,14 @@
   {
    "lastAccept": 1573231501, 
    "pos": 2, 
-   "score": 730, 
+   "score": 723, 
    "taskStats": {
     "g00d_b0y": {
      "points": 383, 
      "time": 1573231501
     }, 
     "the_last_resort": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573231196
     }
    }, 
@@ -35,14 +35,14 @@
   {
    "lastAccept": 1573231520, 
    "pos": 3, 
-   "score": 730, 
+   "score": 723, 
    "taskStats": {
     "g00d_b0y": {
      "points": 383, 
      "time": 1573231309
     }, 
     "the_last_resort": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573231520
     }
    }, 
@@ -111,10 +111,10 @@
   {
    "lastAccept": 1573231280, 
    "pos": 9, 
-   "score": 347, 
+   "score": 340, 
    "taskStats": {
     "the_last_resort": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573231280
     }
    }, 
@@ -123,10 +123,10 @@
   {
    "lastAccept": 1573231320, 
    "pos": 10, 
-   "score": 347, 
+   "score": 340, 
    "taskStats": {
     "the_last_resort": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573231320
     }
    }, 
@@ -135,10 +135,10 @@
   {
    "lastAccept": 1573231370, 
    "pos": 11, 
-   "score": 347, 
+   "score": 340, 
    "taskStats": {
     "the_last_resort": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573231370
     }
    }, 
@@ -147,10 +147,10 @@
   {
    "lastAccept": 1573231383, 
    "pos": 12, 
-   "score": 347, 
+   "score": 340, 
    "taskStats": {
     "the_last_resort": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573231383
     }
    }, 
@@ -159,10 +159,10 @@
   {
    "lastAccept": 1573231405, 
    "pos": 13, 
-   "score": 347, 
+   "score": 340, 
    "taskStats": {
     "the_last_resort": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573231405
     }
    }, 
@@ -171,10 +171,10 @@
   {
    "lastAccept": 1573231466, 
    "pos": 14, 
-   "score": 347, 
+   "score": 340, 
    "taskStats": {
     "the_last_resort": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573231466
     }
    }, 
@@ -183,10 +183,10 @@
   {
    "lastAccept": 1573231473, 
    "pos": 15, 
-   "score": 347, 
+   "score": 340, 
    "taskStats": {
     "the_last_resort": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573231473
     }
    }, 
@@ -195,10 +195,10 @@
   {
    "lastAccept": 1573231539, 
    "pos": 16, 
-   "score": 347, 
+   "score": 340, 
    "taskStats": {
     "the_last_resort": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573231539
     }
    }, 
@@ -207,14 +207,26 @@
   {
    "lastAccept": 1573231552, 
    "pos": 17, 
-   "score": 347, 
+   "score": 340, 
    "taskStats": {
     "the_last_resort": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573231552
     }
    }, 
    "team": "AraraAzul"
+  }, 
+  {
+   "lastAccept": 1573231558, 
+   "pos": 18, 
+   "score": 340, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 340, 
+     "time": 1573231558
+    }
+   }, 
+   "team": "NSI"
   }
  ], 
  "tasks": [
