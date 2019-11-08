@@ -1,0 +1,19 @@
+{
+ "standings": [
+  {
+   "lastAccept": 1573231098, 
+   "pos": 1, 
+   "score": 500, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 500, 
+     "time": 1573231098
+    }
+   }, 
+   "team": "Ne0Lux-C1Ph3r"
+  }
+ ], 
+ "tasks": [
+  "g00d_b0y"
+ ]
+}
