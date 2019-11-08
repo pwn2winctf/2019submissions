@@ -61,8 +61,32 @@
    "team": "Balsn"
   }, 
   {
-   "lastAccept": 1573249940, 
+   "lastAccept": 1573257061, 
    "pos": 3, 
+   "score": 1175, 
+   "taskStats": {
+    "cloud_admin": {
+     "points": 453, 
+     "time": 1573250221
+    }, 
+    "g00d_b0y": {
+     "points": 128, 
+     "time": 1573235615
+    }, 
+    "random_crypto": {
+     "points": 500, 
+     "time": 1573257061
+    }, 
+    "the_last_resort": {
+     "points": 94, 
+     "time": 1573235386
+    }
+   }, 
+   "team": "OpenToAll"
+  }, 
+  {
+   "lastAccept": 1573249940, 
+   "pos": 4, 
    "score": 722, 
    "taskStats": {
     "g00d_b0y": {
@@ -82,7 +106,7 @@
   }, 
   {
    "lastAccept": 1573252744, 
-   "pos": 4, 
+   "pos": 5, 
    "score": 722, 
    "taskStats": {
     "g00d_b0y": {
@@ -102,7 +126,7 @@
   }, 
   {
    "lastAccept": 1573245898, 
-   "pos": 5, 
+   "pos": 6, 
    "score": 696, 
    "taskStats": {
     "g00d_b0y": {
@@ -122,7 +146,7 @@
   }, 
   {
    "lastAccept": 1573247229, 
-   "pos": 6, 
+   "pos": 7, 
    "score": 675, 
    "taskStats": {
     "cloud_admin": {
@@ -139,26 +163,6 @@
     }
    }, 
    "team": "justCatTheFish"
-  }, 
-  {
-   "lastAccept": 1573250221, 
-   "pos": 7, 
-   "score": 675, 
-   "taskStats": {
-    "cloud_admin": {
-     "points": 453, 
-     "time": 1573250221
-    }, 
-    "g00d_b0y": {
-     "points": 128, 
-     "time": 1573235615
-    }, 
-    "the_last_resort": {
-     "points": 94, 
-     "time": 1573235386
-    }
-   }, 
-   "team": "OpenToAll"
   }, 
   {
    "lastAccept": 1573255853, 
@@ -2082,6 +2086,7 @@
   "roots_before_branches", 
   "cloud_admin", 
   "real_ec", 
-  "i_shall_never_be_anything"
+  "i_shall_never_be_anything", 
+  "random_crypto"
  ]
 }
