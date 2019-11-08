@@ -3,10 +3,10 @@
   {
    "lastAccept": 1573246480, 
    "pos": 1, 
-   "score": 2013, 
+   "score": 2001, 
    "taskStats": {
     "full_troll": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573239530
     }, 
     "future_message_pt1": {
@@ -35,10 +35,10 @@
   {
    "lastAccept": 1573239514, 
    "pos": 2, 
-   "score": 1539, 
+   "score": 1527, 
    "taskStats": {
     "full_troll": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573234004
     }, 
     "future_message_pt1": {
@@ -223,10 +223,10 @@
   {
    "lastAccept": 1573246734, 
    "pos": 11, 
-   "score": 630, 
+   "score": 618, 
    "taskStats": {
     "full_troll": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573246734
     }, 
     "g00d_b0y": {
@@ -243,10 +243,10 @@
   {
    "lastAccept": 1573248757, 
    "pos": 12, 
-   "score": 630, 
+   "score": 618, 
    "taskStats": {
     "full_troll": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573248757
     }, 
     "g00d_b0y": {
@@ -263,10 +263,10 @@
   {
    "lastAccept": 1573251448, 
    "pos": 13, 
-   "score": 630, 
+   "score": 618, 
    "taskStats": {
     "full_troll": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573251448
     }, 
     "g00d_b0y": {
@@ -283,10 +283,10 @@
   {
    "lastAccept": 1573254269, 
    "pos": 14, 
-   "score": 630, 
+   "score": 618, 
    "taskStats": {
     "full_troll": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573252690
     }, 
     "g00d_b0y": {
@@ -301,8 +301,28 @@
    "team": "PwnaSonic"
   }, 
   {
-   "lastAccept": 1573231287, 
+   "lastAccept": 1573256190, 
    "pos": 15, 
+   "score": 618, 
+   "taskStats": {
+    "full_troll": {
+     "points": 394, 
+     "time": 1573256190
+    }, 
+    "g00d_b0y": {
+     "points": 128, 
+     "time": 1573231720
+    }, 
+    "the_last_resort": {
+     "points": 96, 
+     "time": 1573231606
+    }
+   }, 
+   "team": "RevEng"
+  }, 
+  {
+   "lastAccept": 1573231287, 
+   "pos": 16, 
    "score": 224, 
    "taskStats": {
     "g00d_b0y": {
@@ -318,7 +338,7 @@
   }, 
   {
    "lastAccept": 1573231293, 
-   "pos": 16, 
+   "pos": 17, 
    "score": 224, 
    "taskStats": {
     "g00d_b0y": {
@@ -334,7 +354,7 @@
   }, 
   {
    "lastAccept": 1573231332, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 224, 
    "taskStats": {
     "g00d_b0y": {
@@ -350,7 +370,7 @@
   }, 
   {
    "lastAccept": 1573231373, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 224, 
    "taskStats": {
     "g00d_b0y": {
@@ -366,7 +386,7 @@
   }, 
   {
    "lastAccept": 1573231385, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 224, 
    "taskStats": {
     "g00d_b0y": {
@@ -382,7 +402,7 @@
   }, 
   {
    "lastAccept": 1573231432, 
-   "pos": 20, 
+   "pos": 21, 
    "score": 224, 
    "taskStats": {
     "g00d_b0y": {
@@ -398,7 +418,7 @@
   }, 
   {
    "lastAccept": 1573231501, 
-   "pos": 21, 
+   "pos": 22, 
    "score": 224, 
    "taskStats": {
     "g00d_b0y": {
@@ -414,7 +434,7 @@
   }, 
   {
    "lastAccept": 1573231520, 
-   "pos": 22, 
+   "pos": 23, 
    "score": 224, 
    "taskStats": {
     "g00d_b0y": {
@@ -430,7 +450,7 @@
   }, 
   {
    "lastAccept": 1573231583, 
-   "pos": 23, 
+   "pos": 24, 
    "score": 224, 
    "taskStats": {
     "g00d_b0y": {
@@ -446,7 +466,7 @@
   }, 
   {
    "lastAccept": 1573231603, 
-   "pos": 24, 
+   "pos": 25, 
    "score": 224, 
    "taskStats": {
     "g00d_b0y": {
@@ -459,22 +479,6 @@
     }
    }, 
    "team": "CSI_Inatel"
-  }, 
-  {
-   "lastAccept": 1573231606, 
-   "pos": 25, 
-   "score": 224, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 128, 
-     "time": 1573231720
-    }, 
-    "the_last_resort": {
-     "points": 96, 
-     "time": 1573231606
-    }
-   }, 
-   "team": "RevEng"
   }, 
   {
    "lastAccept": 1573231619, 
