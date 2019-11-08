@@ -1,1041 +1,1117 @@
 {
  "standings": [
   {
-   "lastAccept": 1573234123, 
-   "pos": 1, 
-   "score": 886, 
+   "lastAccept": 1573234123,
+   "pos": 1,
+   "score": 859,
    "taskStats": {
     "full_troll": {
-     "points": 500, 
+     "points": 500,
      "time": 1573234004
-    }, 
+    },
     "g00d_b0y": {
-     "points": 210, 
+     "points": 201,
      "time": 1573231449
-    }, 
+    },
     "the_last_resort": {
-     "points": 176, 
+     "points": 158,
      "time": 1573234123
     }
-   }, 
+   },
    "team": "Balsn"
-  }, 
+  },
   {
-   "lastAccept": 1573231398, 
-   "pos": 2, 
-   "score": 386, 
+   "lastAccept": 1573231287,
+   "pos": 2,
+   "score": 359,
    "taskStats": {
     "g00d_b0y": {
-     "points": 210, 
-     "time": 1573231398
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573231346
-    }
-   }, 
-   "team": "[USP] Ganesh"
-  }, 
-  {
-   "lastAccept": 1573231501, 
-   "pos": 3, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573231501
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573231196
-    }
-   }, 
-   "team": "Zemows Industries"
-  }, 
-  {
-   "lastAccept": 1573231520, 
-   "pos": 4, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573231309
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573231520
-    }
-   }, 
-   "team": "ThePhills"
-  }, 
-  {
-   "lastAccept": 1573231583, 
-   "pos": 5, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573231422
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573231583
-    }
-   }, 
-   "team": "TheF0rce"
-  }, 
-  {
-   "lastAccept": 1573231619, 
-   "pos": 6, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573231619
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573231405
-    }
-   }, 
-   "team": "flagbot"
-  }, 
-  {
-   "lastAccept": 1573231629, 
-   "pos": 7, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573231629
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573231473
-    }
-   }, 
-   "team": "technic"
-  }, 
-  {
-   "lastAccept": 1573231792, 
-   "pos": 8, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573231792
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573231604
-    }
-   }, 
-   "team": "MiloTruck"
-  }, 
-  {
-   "lastAccept": 1573231833, 
-   "pos": 9, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573231833
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573231558
-    }
-   }, 
-   "team": "NSI"
-  }, 
-  {
-   "lastAccept": 1573232011, 
-   "pos": 10, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573232011
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573231908
-    }
-   }, 
-   "team": "MV9rwGOf08"
-  }, 
-  {
-   "lastAccept": 1573232019, 
-   "pos": 11, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573232019
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573231370
-    }
-   }, 
-   "team": "******"
-  }, 
-  {
-   "lastAccept": 1573232238, 
-   "pos": 12, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573231669
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573232238
-    }
-   }, 
-   "team": "Shellmates JR"
-  }, 
-  {
-   "lastAccept": 1573232276, 
-   "pos": 13, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573232276
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573231539
-    }
-   }, 
-   "team": "RATF"
-  }, 
-  {
-   "lastAccept": 1573232289, 
-   "pos": 14, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573231985
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573232289
-    }
-   }, 
-   "team": "Shingeki_No_Chikungunya"
-  }, 
-  {
-   "lastAccept": 1573232488, 
-   "pos": 15, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573232488
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573231320
-    }
-   }, 
-   "team": "LEGOFAN"
-  }, 
-  {
-   "lastAccept": 1573232547, 
-   "pos": 16, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573232547
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573231662
-    }
-   }, 
-   "team": "errant_cattus"
-  }, 
-  {
-   "lastAccept": 1573232559, 
-   "pos": 17, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573232559
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573232417
-    }
-   }, 
-   "team": "simon"
-  }, 
-  {
-   "lastAccept": 1573232618, 
-   "pos": 18, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573232618
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573231711
-    }
-   }, 
-   "team": "GR00T5"
-  }, 
-  {
-   "lastAccept": 1573232684, 
-   "pos": 19, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573232684
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573231383
-    }
-   }, 
-   "team": "LTLUO + 1"
-  }, 
-  {
-   "lastAccept": 1573233062, 
-   "pos": 20, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573233062
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573232372
-    }
-   }, 
-   "team": "KUDoS"
-  }, 
-  {
-   "lastAccept": 1573233273, 
-   "pos": 21, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573233273
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573233201
-    }
-   }, 
-   "team": "Blaze Raptors"
-  }, 
-  {
-   "lastAccept": 1573233378, 
-   "pos": 22, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573233378
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573233305
-    }
-   }, 
-   "team": "{sig_0ct4nt15}"
-  }, 
-  {
-   "lastAccept": 1573233409, 
-   "pos": 23, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573233409
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573233335
-    }
-   }, 
-   "team": "lonich"
-  }, 
-  {
-   "lastAccept": 1573233529, 
-   "pos": 24, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573233529
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573232872
-    }
-   }, 
-   "team": "nn13"
-  }, 
-  {
-   "lastAccept": 1573233599, 
-   "pos": 25, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573233599
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573232146
-    }
-   }, 
-   "team": "mode13h"
-  }, 
-  {
-   "lastAccept": 1573234090, 
-   "pos": 26, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573233695
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573234090
-    }
-   }, 
-   "team": "pastelteam"
-  }, 
-  {
-   "lastAccept": 1573234344, 
-   "pos": 27, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573234344
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573232540
-    }
-   }, 
-   "team": "Deadlock"
-  }, 
-  {
-   "lastAccept": 1573234691, 
-   "pos": 28, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573234691
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573233239
-    }
-   }, 
-   "team": "shablul"
-  }, 
-  {
-   "lastAccept": 1573234731, 
-   "pos": 29, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573234626
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573234731
-    }
-   }, 
-   "team": "[spbctf] fargate"
-  }, 
-  {
-   "lastAccept": 1573235050, 
-   "pos": 30, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573233364
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573235050
-    }
-   }, 
-   "team": "Server"
-  }, 
-  {
-   "lastAccept": 1573235169, 
-   "pos": 31, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573235169
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573234722
-    }
-   }, 
-   "team": "STT"
-  }, 
-  {
-   "lastAccept": 1573235615, 
-   "pos": 32, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573235615
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573235386
-    }
-   }, 
-   "team": "OpenToAll"
-  }, 
-  {
-   "lastAccept": 1573235668, 
-   "pos": 33, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573235622
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573235668
-    }
-   }, 
-   "team": "FireShell"
-  }, 
-  {
-   "lastAccept": 1573235957, 
-   "pos": 34, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573232089
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573235957
-    }
-   }, 
-   "team": "Ridiculous Burping Trumpets"
-  }, 
-  {
-   "lastAccept": 1573235976, 
-   "pos": 35, 
-   "score": 386, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573235976
-    }, 
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573235640
-    }
-   }, 
-   "team": "Kurisutina"
-  }, 
-  {
-   "lastAccept": 1573231098, 
-   "pos": 36, 
-   "score": 210, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573231098
-    }
-   }, 
-   "team": "Ne0Lux-C1Ph3r"
-  }, 
-  {
-   "lastAccept": 1573231333, 
-   "pos": 37, 
-   "score": 210, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
+     "points": 201,
      "time": 1573231333
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231287
     }
-   }, 
+   },
    "team": "RedGKFRocket"
-  }, 
+  },
   {
-   "lastAccept": 1573231528, 
-   "pos": 38, 
-   "score": 210, 
+   "lastAccept": 1573231293,
+   "pos": 3,
+   "score": 359,
    "taskStats": {
     "g00d_b0y": {
-     "points": 210, 
-     "time": 1573231528
-    }
-   }, 
-   "team": "rfid-171"
-  }, 
-  {
-   "lastAccept": 1573231720, 
-   "pos": 39, 
-   "score": 210, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573231720
-    }
-   }, 
-   "team": "RevEng"
-  }, 
-  {
-   "lastAccept": 1573232068, 
-   "pos": 40, 
-   "score": 210, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573232068
-    }
-   }, 
-   "team": "NoPwnIntended"
-  }, 
-  {
-   "lastAccept": 1573232182, 
-   "pos": 41, 
-   "score": 210, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573232182
-    }
-   }, 
-   "team": "$wag"
-  }, 
-  {
-   "lastAccept": 1573232443, 
-   "pos": 42, 
-   "score": 210, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573232443
-    }
-   }, 
-   "team": "Bisounours"
-  }, 
-  {
-   "lastAccept": 1573232900, 
-   "pos": 43, 
-   "score": 210, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573232900
-    }
-   }, 
-   "team": "[c0rrupted_6ata]"
-  }, 
-  {
-   "lastAccept": 1573232974, 
-   "pos": 44, 
-   "score": 210, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573232974
-    }
-   }, 
-   "team": "SIGFLAG"
-  }, 
-  {
-   "lastAccept": 1573233432, 
-   "pos": 45, 
-   "score": 210, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573233432
-    }
-   }, 
-   "team": "MengtheMerciless"
-  }, 
-  {
-   "lastAccept": 1573233486, 
-   "pos": 46, 
-   "score": 210, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 210, 
-     "time": 1573233486
-    }
-   }, 
-   "team": "Harekaze"
-  }, 
-  {
-   "lastAccept": 1573231280, 
-   "pos": 47, 
-   "score": 176, 
-   "taskStats": {
+     "points": 201,
+     "time": 1573231293
+    },
     "the_last_resort": {
-     "points": 176, 
-     "time": 1573231280
-    }
-   }, 
-   "team": "Dragon Sector"
-  }, 
-  {
-   "lastAccept": 1573231466, 
-   "pos": 48, 
-   "score": 176, 
-   "taskStats": {
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573231466
-    }
-   }, 
-   "team": "bluehens"
-  }, 
-  {
-   "lastAccept": 1573231552, 
-   "pos": 49, 
-   "score": 176, 
-   "taskStats": {
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573231552
-    }
-   }, 
-   "team": "AraraAzul"
-  }, 
-  {
-   "lastAccept": 1573231637, 
-   "pos": 50, 
-   "score": 176, 
-   "taskStats": {
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573231637
-    }
-   }, 
-   "team": "TWN"
-  }, 
-  {
-   "lastAccept": 1573231689, 
-   "pos": 51, 
-   "score": 176, 
-   "taskStats": {
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573231689
-    }
-   }, 
-   "team": "teampowerprinter"
-  }, 
-  {
-   "lastAccept": 1573231751, 
-   "pos": 52, 
-   "score": 176, 
-   "taskStats": {
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573231751
-    }
-   }, 
-   "team": "VSCOPWN"
-  }, 
-  {
-   "lastAccept": 1573231866, 
-   "pos": 53, 
-   "score": 176, 
-   "taskStats": {
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573231866
-    }
-   }, 
-   "team": "CL4IR"
-  }, 
-  {
-   "lastAccept": 1573231994, 
-   "pos": 54, 
-   "score": 176, 
-   "taskStats": {
-    "the_last_resort": {
-     "points": 176, 
-     "time": 1573231994
-    }
-   }, 
-   "team": "cratox"
-  }, 
-  {
-   "lastAccept": 1573232244, 
-   "pos": 55, 
-   "score": 176, 
-   "taskStats": {
-    "the_last_resort": {
-     "points": 176, 
+     "points": 158,
      "time": 1573232244
     }
-   }, 
+   },
    "team": "Alephfs"
-  }, 
+  },
   {
-   "lastAccept": 1573232264, 
-   "pos": 56, 
-   "score": 176, 
+   "lastAccept": 1573231332,
+   "pos": 4,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573232182
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231332
+    }
+   },
+   "team": "$wag"
+  },
+  {
+   "lastAccept": 1573231369,
+   "pos": 5,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573232068
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231369
+    }
+   },
+   "team": "NoPwnIntended"
+  },
+  {
+   "lastAccept": 1573231373,
+   "pos": 6,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573232974
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231373
+    }
+   },
+   "team": "SIGFLAG"
+  },
+  {
+   "lastAccept": 1573231385,
+   "pos": 7,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573231098
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231385
+    }
+   },
+   "team": "Ne0Lux-C1Ph3r"
+  },
+  {
+   "lastAccept": 1573231398,
+   "pos": 8,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573231398
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231346
+    }
+   },
+   "team": "[USP] Ganesh"
+  },
+  {
+   "lastAccept": 1573231432,
+   "pos": 9,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573231528
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231432
+    }
+   },
+   "team": "rfid-171"
+  },
+  {
+   "lastAccept": 1573231501,
+   "pos": 10,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573231501
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231196
+    }
+   },
+   "team": "Zemows Industries"
+  },
+  {
+   "lastAccept": 1573231520,
+   "pos": 11,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573231309
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231520
+    }
+   },
+   "team": "ThePhills"
+  },
+  {
+   "lastAccept": 1573231583,
+   "pos": 12,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573231422
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231583
+    }
+   },
+   "team": "TheF0rce"
+  },
+  {
+   "lastAccept": 1573231603,
+   "pos": 13,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573231411
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231603
+    }
+   },
+   "team": "CSI_Inatel"
+  },
+  {
+   "lastAccept": 1573231606,
+   "pos": 14,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573231720
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231606
+    }
+   },
+   "team": "RevEng"
+  },
+  {
+   "lastAccept": 1573231619,
+   "pos": 15,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573231619
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231405
+    }
+   },
+   "team": "flagbot"
+  },
+  {
+   "lastAccept": 1573231629,
+   "pos": 16,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573231629
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231473
+    }
+   },
+   "team": "technic"
+  },
+  {
+   "lastAccept": 1573231639,
+   "pos": 17,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573231639
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231689
+    }
+   },
+   "team": "teampowerprinter"
+  },
+  {
+   "lastAccept": 1573231640,
+   "pos": 18,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573231640
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231751
+    }
+   },
+   "team": "VSCOPWN"
+  },
+  {
+   "lastAccept": 1573231792,
+   "pos": 19,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573231792
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231604
+    }
+   },
+   "team": "MiloTruck"
+  },
+  {
+   "lastAccept": 1573231833,
+   "pos": 20,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573231833
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231558
+    }
+   },
+   "team": "NSI"
+  },
+  {
+   "lastAccept": 1573231995,
+   "pos": 21,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573232443
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231995
+    }
+   },
+   "team": "Bisounours"
+  },
+  {
+   "lastAccept": 1573232011,
+   "pos": 22,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573232011
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231908
+    }
+   },
+   "team": "MV9rwGOf08"
+  },
+  {
+   "lastAccept": 1573232019,
+   "pos": 23,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573232019
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231370
+    }
+   },
+   "team": "******"
+  },
+  {
+   "lastAccept": 1573232211,
+   "pos": 24,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573233432
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573232211
+    }
+   },
+   "team": "MengtheMerciless"
+  },
+  {
+   "lastAccept": 1573232238,
+   "pos": 25,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573231669
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573232238
+    }
+   },
+   "team": "Shellmates JR"
+  },
+  {
+   "lastAccept": 1573232276,
+   "pos": 26,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573232276
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231539
+    }
+   },
+   "team": "RATF"
+  },
+  {
+   "lastAccept": 1573232289,
+   "pos": 27,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573231985
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573232289
+    }
+   },
+   "team": "Shingeki_No_Chikungunya"
+  },
+  {
+   "lastAccept": 1573232488,
+   "pos": 28,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573232488
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231320
+    }
+   },
+   "team": "LEGOFAN"
+  },
+  {
+   "lastAccept": 1573232547,
+   "pos": 29,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573232547
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231662
+    }
+   },
+   "team": "errant_cattus"
+  },
+  {
+   "lastAccept": 1573232559,
+   "pos": 30,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573232559
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573232417
+    }
+   },
+   "team": "simon"
+  },
+  {
+   "lastAccept": 1573232618,
+   "pos": 31,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573232618
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231711
+    }
+   },
+   "team": "GR00T5"
+  },
+  {
+   "lastAccept": 1573232684,
+   "pos": 32,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573232684
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231383
+    }
+   },
+   "team": "LTLUO + 1"
+  },
+  {
+   "lastAccept": 1573233062,
+   "pos": 33,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573233062
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573232372
+    }
+   },
+   "team": "KUDoS"
+  },
+  {
+   "lastAccept": 1573233273,
+   "pos": 34,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573233273
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573233201
+    }
+   },
+   "team": "Blaze Raptors"
+  },
+  {
+   "lastAccept": 1573233378,
+   "pos": 35,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573233378
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573233305
+    }
+   },
+   "team": "{sig_0ct4nt15}"
+  },
+  {
+   "lastAccept": 1573233409,
+   "pos": 36,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573233409
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573233335
+    }
+   },
+   "team": "lonich"
+  },
+  {
+   "lastAccept": 1573233529,
+   "pos": 37,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573233529
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573232872
+    }
+   },
+   "team": "nn13"
+  },
+  {
+   "lastAccept": 1573233599,
+   "pos": 38,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573233599
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573232146
+    }
+   },
+   "team": "mode13h"
+  },
+  {
+   "lastAccept": 1573234090,
+   "pos": 39,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573233695
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573234090
+    }
+   },
+   "team": "pastelteam"
+  },
+  {
+   "lastAccept": 1573234344,
+   "pos": 40,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573234344
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573232540
+    }
+   },
+   "team": "Deadlock"
+  },
+  {
+   "lastAccept": 1573234691,
+   "pos": 41,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573234691
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573233239
+    }
+   },
+   "team": "shablul"
+  },
+  {
+   "lastAccept": 1573234731,
+   "pos": 42,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573234626
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573234731
+    }
+   },
+   "team": "[spbctf] fargate"
+  },
+  {
+   "lastAccept": 1573235050,
+   "pos": 43,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573233364
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573235050
+    }
+   },
+   "team": "Server"
+  },
+  {
+   "lastAccept": 1573235169,
+   "pos": 44,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573235169
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573234722
+    }
+   },
+   "team": "STT"
+  },
+  {
+   "lastAccept": 1573235615,
+   "pos": 45,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573235615
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573235386
+    }
+   },
+   "team": "OpenToAll"
+  },
+  {
+   "lastAccept": 1573235668,
+   "pos": 46,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573235622
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573235668
+    }
+   },
+   "team": "FireShell"
+  },
+  {
+   "lastAccept": 1573235957,
+   "pos": 47,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573232089
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573235957
+    }
+   },
+   "team": "Ridiculous Burping Trumpets"
+  },
+  {
+   "lastAccept": 1573235976,
+   "pos": 48,
+   "score": 359,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573235976
+    },
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573235640
+    }
+   },
+   "team": "Kurisutina"
+  },
+  {
+   "lastAccept": 1573232900,
+   "pos": 49,
+   "score": 201,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573232900
+    }
+   },
+   "team": "[c0rrupted_6ata]"
+  },
+  {
+   "lastAccept": 1573233486,
+   "pos": 50,
+   "score": 201,
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 201,
+     "time": 1573233486
+    }
+   },
+   "team": "Harekaze"
+  },
+  {
+   "lastAccept": 1573231280,
+   "pos": 51,
+   "score": 158,
    "taskStats": {
     "the_last_resort": {
-     "points": 176, 
+     "points": 158,
+     "time": 1573231280
+    }
+   },
+   "team": "Dragon Sector"
+  },
+  {
+   "lastAccept": 1573231423,
+   "pos": 52,
+   "score": 158,
+   "taskStats": {
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231423
+    }
+   },
+   "team": "Heroes Cyber Security"
+  },
+  {
+   "lastAccept": 1573231466,
+   "pos": 53,
+   "score": 158,
+   "taskStats": {
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231466
+    }
+   },
+   "team": "bluehens"
+  },
+  {
+   "lastAccept": 1573231552,
+   "pos": 54,
+   "score": 158,
+   "taskStats": {
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231552
+    }
+   },
+   "team": "AraraAzul"
+  },
+  {
+   "lastAccept": 1573231637,
+   "pos": 55,
+   "score": 158,
+   "taskStats": {
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231637
+    }
+   },
+   "team": "TWN"
+  },
+  {
+   "lastAccept": 1573231866,
+   "pos": 56,
+   "score": 158,
+   "taskStats": {
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231866
+    }
+   },
+   "team": "CL4IR"
+  },
+  {
+   "lastAccept": 1573231994,
+   "pos": 57,
+   "score": 158,
+   "taskStats": {
+    "the_last_resort": {
+     "points": 158,
+     "time": 1573231994
+    }
+   },
+   "team": "cratox"
+  },
+  {
+   "lastAccept": 1573232264,
+   "pos": 58,
+   "score": 158,
+   "taskStats": {
+    "the_last_resort": {
+     "points": 158,
      "time": 1573232264
     }
-   }, 
+   },
    "team": "caillou"
-  }, 
+  },
   {
-   "lastAccept": 1573232379, 
-   "pos": 57, 
-   "score": 176, 
+   "lastAccept": 1573232379,
+   "pos": 59,
+   "score": 158,
    "taskStats": {
     "the_last_resort": {
-     "points": 176, 
+     "points": 158,
      "time": 1573232379
     }
-   }, 
+   },
    "team": "smopper"
-  }, 
+  },
   {
-   "lastAccept": 1573232499, 
-   "pos": 58, 
-   "score": 176, 
+   "lastAccept": 1573232499,
+   "pos": 60,
+   "score": 158,
    "taskStats": {
     "the_last_resort": {
-     "points": 176, 
+     "points": 158,
      "time": 1573232499
     }
-   }, 
+   },
    "team": "wildcat"
-  }, 
+  },
   {
-   "lastAccept": 1573232669, 
-   "pos": 59, 
-   "score": 176, 
+   "lastAccept": 1573232669,
+   "pos": 61,
+   "score": 158,
    "taskStats": {
     "the_last_resort": {
-     "points": 176, 
+     "points": 158,
      "time": 1573232669
     }
-   }, 
+   },
    "team": "Pystyy Vet\u00e4\u00e4"
-  }, 
+  },
   {
-   "lastAccept": 1573233024, 
-   "pos": 60, 
-   "score": 176, 
+   "lastAccept": 1573233024,
+   "pos": 62,
+   "score": 158,
    "taskStats": {
     "the_last_resort": {
-     "points": 176, 
+     "points": 158,
      "time": 1573233024
     }
-   }, 
+   },
    "team": "sotto_i_pwnti"
-  }, 
+  },
   {
-   "lastAccept": 1573233165, 
-   "pos": 61, 
-   "score": 176, 
+   "lastAccept": 1573233165,
+   "pos": 63,
+   "score": 158,
    "taskStats": {
     "the_last_resort": {
-     "points": 176, 
+     "points": 158,
      "time": 1573233165
     }
-   }, 
+   },
    "team": "justCatTheFish"
-  }, 
+  },
   {
-   "lastAccept": 1573233467, 
-   "pos": 62, 
-   "score": 176, 
+   "lastAccept": 1573233467,
+   "pos": 64,
+   "score": 158,
    "taskStats": {
     "the_last_resort": {
-     "points": 176, 
+     "points": 158,
      "time": 1573233467
     }
-   }, 
+   },
    "team": "sw1ss"
-  }, 
+  },
   {
-   "lastAccept": 1573233492, 
-   "pos": 63, 
-   "score": 176, 
+   "lastAccept": 1573233492,
+   "pos": 65,
+   "score": 158,
    "taskStats": {
     "the_last_resort": {
-     "points": 176, 
+     "points": 158,
      "time": 1573233492
     }
-   }, 
+   },
    "team": "warlock_rootx"
-  }, 
+  },
   {
-   "lastAccept": 1573233689, 
-   "pos": 64, 
-   "score": 176, 
+   "lastAccept": 1573233689,
+   "pos": 66,
+   "score": 158,
    "taskStats": {
     "the_last_resort": {
-     "points": 176, 
+     "points": 158,
      "time": 1573233689
     }
-   }, 
+   },
    "team": "__T3TR4H3DR0N__"
-  }, 
+  },
   {
-   "lastAccept": 1573233727, 
-   "pos": 65, 
-   "score": 176, 
+   "lastAccept": 1573233727,
+   "pos": 67,
+   "score": 158,
    "taskStats": {
     "the_last_resort": {
-     "points": 176, 
+     "points": 158,
      "time": 1573233727
     }
-   }, 
+   },
    "team": "luxlooters"
-  }, 
+  },
   {
-   "lastAccept": 1573233789, 
-   "pos": 66, 
-   "score": 176, 
+   "lastAccept": 1573233789,
+   "pos": 68,
+   "score": 158,
    "taskStats": {
     "the_last_resort": {
-     "points": 176, 
+     "points": 158,
      "time": 1573233789
     }
-   }, 
+   },
    "team": "dimanonim"
-  }, 
+  },
   {
-   "lastAccept": 1573234301, 
-   "pos": 67, 
-   "score": 176, 
+   "lastAccept": 1573234301,
+   "pos": 69,
+   "score": 158,
    "taskStats": {
     "the_last_resort": {
-     "points": 176, 
+     "points": 158,
      "time": 1573234301
     }
-   }, 
+   },
    "team": "room2042"
-  }, 
+  },
   {
-   "lastAccept": 1573235005, 
-   "pos": 68, 
-   "score": 176, 
+   "lastAccept": 1573235005,
+   "pos": 70,
+   "score": 158,
    "taskStats": {
     "the_last_resort": {
-     "points": 176, 
+     "points": 158,
      "time": 1573235005
     }
-   }, 
+   },
    "team": "allalone"
-  }, 
+  },
   {
-   "lastAccept": 1573235604, 
-   "pos": 69, 
-   "score": 176, 
+   "lastAccept": 1573235604,
+   "pos": 71,
+   "score": 158,
    "taskStats": {
     "the_last_resort": {
-     "points": 176, 
+     "points": 158,
      "time": 1573235604
     }
-   }, 
+   },
    "team": "spoilers"
-  }, 
+  },
   {
-   "lastAccept": 1573235739, 
-   "pos": 70, 
-   "score": 176, 
+   "lastAccept": 1573235739,
+   "pos": 72,
+   "score": 158,
    "taskStats": {
     "the_last_resort": {
-     "points": 176, 
+     "points": 158,
      "time": 1573235739
     }
-   }, 
+   },
    "team": "Raccoons"
-  }, 
+  },
   {
-   "lastAccept": 1573235874, 
-   "pos": 71, 
-   "score": 176, 
+   "lastAccept": 1573235874,
+   "pos": 73,
+   "score": 158,
    "taskStats": {
     "the_last_resort": {
-     "points": 176, 
+     "points": 158,
      "time": 1573235874
     }
-   }, 
+   },
    "team": "RobotMafia"
-  }, 
+  },
   {
-   "lastAccept": 1573235923, 
-   "pos": 72, 
-   "score": 176, 
+   "lastAccept": 1573235923,
+   "pos": 74,
+   "score": 158,
    "taskStats": {
     "the_last_resort": {
-     "points": 176, 
+     "points": 158,
      "time": 1573235923
     }
-   }, 
+   },
    "team": "Armitage Team"
-  }, 
+  },
   {
-   "lastAccept": 1573236002, 
-   "pos": 73, 
-   "score": 176, 
+   "lastAccept": 1573236002,
+   "pos": 75,
+   "score": 158,
    "taskStats": {
     "the_last_resort": {
-     "points": 176, 
+     "points": 158,
      "time": 1573236002
     }
-   }, 
+   },
    "team": "Bushwhackers"
-  }, 
+  },
   {
-   "lastAccept": 1573236011, 
-   "pos": 74, 
-   "score": 176, 
+   "lastAccept": 1573236011,
+   "pos": 76,
+   "score": 158,
    "taskStats": {
     "the_last_resort": {
-     "points": 176, 
+     "points": 158,
      "time": 1573236011
     }
-   }, 
+   },
    "team": "10sec"
   }
- ], 
+ ],
  "tasks": [
-  "g00d_b0y", 
-  "the_last_resort", 
+  "g00d_b0y",
+  "the_last_resort",
   "full_troll"
  ]
 }
