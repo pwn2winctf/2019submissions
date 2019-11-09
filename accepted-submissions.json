@@ -3,7 +3,7 @@
   {
    "lastAccept": 1573260341, 
    "pos": 1, 
-   "score": 2800, 
+   "score": 2785, 
    "taskStats": {
     "full_troll": {
      "points": 326, 
@@ -30,7 +30,7 @@
      "time": 1573243403
     }, 
     "roots_before_branches": {
-     "points": 435, 
+     "points": 420, 
      "time": 1573243507
     }, 
     "the_last_resort": {
@@ -75,7 +75,7 @@
   {
    "lastAccept": 1573274158, 
    "pos": 3, 
-   "score": 1365, 
+   "score": 1350, 
    "taskStats": {
     "full_troll": {
      "points": 326, 
@@ -90,7 +90,7 @@
      "time": 1573235622
     }, 
     "roots_before_branches": {
-     "points": 435, 
+     "points": 420, 
      "time": 1573259032
     }, 
     "the_last_resort": {
@@ -285,48 +285,8 @@
    "team": "MV9rwGOf08"
   }, 
   {
-   "lastAccept": 1573245898, 
-   "pos": 12, 
-   "score": 619, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 111, 
-     "time": 1573231398
-    }, 
-    "roots_before_branches": {
-     "points": 435, 
-     "time": 1573245898
-    }, 
-    "the_last_resort": {
-     "points": 73, 
-     "time": 1573231346
-    }
-   }, 
-   "team": "[USP] Ganesh"
-  }, 
-  {
-   "lastAccept": 1573280244, 
-   "pos": 13, 
-   "score": 619, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 111, 
-     "time": 1573279739
-    }, 
-    "roots_before_branches": {
-     "points": 435, 
-     "time": 1573280244
-    }, 
-    "the_last_resort": {
-     "points": 73, 
-     "time": 1573266849
-    }
-   }, 
-   "team": "Shellphish Grill Team"
-  }, 
-  {
    "lastAccept": 1573242319, 
-   "pos": 14, 
+   "pos": 12, 
    "score": 604, 
    "taskStats": {
     "future_message_pt1": {
@@ -345,8 +305,28 @@
    "team": "shablul"
   }, 
   {
+   "lastAccept": 1573245898, 
+   "pos": 13, 
+   "score": 604, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 111, 
+     "time": 1573231398
+    }, 
+    "roots_before_branches": {
+     "points": 420, 
+     "time": 1573245898
+    }, 
+    "the_last_resort": {
+     "points": 73, 
+     "time": 1573231346
+    }
+   }, 
+   "team": "[USP] Ganesh"
+  }, 
+  {
    "lastAccept": 1573249792, 
-   "pos": 15, 
+   "pos": 14, 
    "score": 604, 
    "taskStats": {
     "future_message_pt1": {
@@ -365,8 +345,48 @@
    "team": "teampowerprinter"
   }, 
   {
-   "lastAccept": 1573252744, 
+   "lastAccept": 1573280244, 
+   "pos": 15, 
+   "score": 604, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 111, 
+     "time": 1573279739
+    }, 
+    "roots_before_branches": {
+     "points": 420, 
+     "time": 1573280244
+    }, 
+    "the_last_resort": {
+     "points": 73, 
+     "time": 1573266849
+    }
+   }, 
+   "team": "Shellphish Grill Team"
+  }, 
+  {
+   "lastAccept": 1573282762, 
    "pos": 16, 
+   "score": 604, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 111, 
+     "time": 1573231985
+    }, 
+    "roots_before_branches": {
+     "points": 420, 
+     "time": 1573282762
+    }, 
+    "the_last_resort": {
+     "points": 73, 
+     "time": 1573232289
+    }
+   }, 
+   "team": "Shingeki_No_Chikungunya"
+  }, 
+  {
+   "lastAccept": 1573252744, 
+   "pos": 17, 
    "score": 590, 
    "taskStats": {
     "g00d_b0y": {
@@ -386,7 +406,7 @@
   }, 
   {
    "lastAccept": 1573266763, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 590, 
    "taskStats": {
     "g00d_b0y": {
@@ -406,7 +426,7 @@
   }, 
   {
    "lastAccept": 1573246734, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 510, 
    "taskStats": {
     "full_troll": {
@@ -426,7 +446,7 @@
   }, 
   {
    "lastAccept": 1573248757, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 510, 
    "taskStats": {
     "full_troll": {
@@ -446,7 +466,7 @@
   }, 
   {
    "lastAccept": 1573254269, 
-   "pos": 20, 
+   "pos": 21, 
    "score": 510, 
    "taskStats": {
     "full_troll": {
@@ -466,7 +486,7 @@
   }, 
   {
    "lastAccept": 1573256190, 
-   "pos": 21, 
+   "pos": 22, 
    "score": 510, 
    "taskStats": {
     "full_troll": {
@@ -486,7 +506,7 @@
   }, 
   {
    "lastAccept": 1573273540, 
-   "pos": 22, 
+   "pos": 23, 
    "score": 510, 
    "taskStats": {
     "full_troll": {
@@ -506,7 +526,7 @@
   }, 
   {
    "lastAccept": 1573273571, 
-   "pos": 23, 
+   "pos": 24, 
    "score": 510, 
    "taskStats": {
     "full_troll": {
@@ -526,7 +546,7 @@
   }, 
   {
    "lastAccept": 1573274298, 
-   "pos": 24, 
+   "pos": 25, 
    "score": 510, 
    "taskStats": {
     "full_troll": {
@@ -546,7 +566,7 @@
   }, 
   {
    "lastAccept": 1573279377, 
-   "pos": 25, 
+   "pos": 26, 
    "score": 479, 
    "taskStats": {
     "i_shall_never_be_anything": {
@@ -562,7 +582,7 @@
   }, 
   {
    "lastAccept": 1573268661, 
-   "pos": 26, 
+   "pos": 27, 
    "score": 399, 
    "taskStats": {
     "full_troll": {
@@ -578,7 +598,7 @@
   }, 
   {
    "lastAccept": 1573231287, 
-   "pos": 27, 
+   "pos": 28, 
    "score": 184, 
    "taskStats": {
     "g00d_b0y": {
@@ -594,7 +614,7 @@
   }, 
   {
    "lastAccept": 1573231332, 
-   "pos": 28, 
+   "pos": 29, 
    "score": 184, 
    "taskStats": {
     "g00d_b0y": {
@@ -610,7 +630,7 @@
   }, 
   {
    "lastAccept": 1573231373, 
-   "pos": 29, 
+   "pos": 30, 
    "score": 184, 
    "taskStats": {
     "g00d_b0y": {
@@ -626,7 +646,7 @@
   }, 
   {
    "lastAccept": 1573231385, 
-   "pos": 30, 
+   "pos": 31, 
    "score": 184, 
    "taskStats": {
     "g00d_b0y": {
@@ -642,7 +662,7 @@
   }, 
   {
    "lastAccept": 1573231432, 
-   "pos": 31, 
+   "pos": 32, 
    "score": 184, 
    "taskStats": {
     "g00d_b0y": {
@@ -658,7 +678,7 @@
   }, 
   {
    "lastAccept": 1573231501, 
-   "pos": 32, 
+   "pos": 33, 
    "score": 184, 
    "taskStats": {
     "g00d_b0y": {
@@ -674,7 +694,7 @@
   }, 
   {
    "lastAccept": 1573231520, 
-   "pos": 33, 
+   "pos": 34, 
    "score": 184, 
    "taskStats": {
     "g00d_b0y": {
@@ -690,7 +710,7 @@
   }, 
   {
    "lastAccept": 1573231583, 
-   "pos": 34, 
+   "pos": 35, 
    "score": 184, 
    "taskStats": {
     "g00d_b0y": {
@@ -706,7 +726,7 @@
   }, 
   {
    "lastAccept": 1573231603, 
-   "pos": 35, 
+   "pos": 36, 
    "score": 184, 
    "taskStats": {
     "g00d_b0y": {
@@ -722,7 +742,7 @@
   }, 
   {
    "lastAccept": 1573231619, 
-   "pos": 36, 
+   "pos": 37, 
    "score": 184, 
    "taskStats": {
     "g00d_b0y": {
@@ -738,7 +758,7 @@
   }, 
   {
    "lastAccept": 1573231629, 
-   "pos": 37, 
+   "pos": 38, 
    "score": 184, 
    "taskStats": {
     "g00d_b0y": {
@@ -754,7 +774,7 @@
   }, 
   {
    "lastAccept": 1573231640, 
-   "pos": 38, 
+   "pos": 39, 
    "score": 184, 
    "taskStats": {
     "g00d_b0y": {
@@ -770,7 +790,7 @@
   }, 
   {
    "lastAccept": 1573231792, 
-   "pos": 39, 
+   "pos": 40, 
    "score": 184, 
    "taskStats": {
     "g00d_b0y": {
@@ -786,7 +806,7 @@
   }, 
   {
    "lastAccept": 1573231833, 
-   "pos": 40, 
+   "pos": 41, 
    "score": 184, 
    "taskStats": {
     "g00d_b0y": {
@@ -802,7 +822,7 @@
   }, 
   {
    "lastAccept": 1573231995, 
-   "pos": 41, 
+   "pos": 42, 
    "score": 184, 
    "taskStats": {
     "g00d_b0y": {
@@ -818,7 +838,7 @@
   }, 
   {
    "lastAccept": 1573232211, 
-   "pos": 42, 
+   "pos": 43, 
    "score": 184, 
    "taskStats": {
     "g00d_b0y": {
@@ -834,7 +854,7 @@
   }, 
   {
    "lastAccept": 1573232238, 
-   "pos": 43, 
+   "pos": 44, 
    "score": 184, 
    "taskStats": {
     "g00d_b0y": {
@@ -850,7 +870,7 @@
   }, 
   {
    "lastAccept": 1573232276, 
-   "pos": 44, 
+   "pos": 45, 
    "score": 184, 
    "taskStats": {
     "g00d_b0y": {
@@ -863,22 +883,6 @@
     }
    }, 
    "team": "RATF"
-  }, 
-  {
-   "lastAccept": 1573232289, 
-   "pos": 45, 
-   "score": 184, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 111, 
-     "time": 1573231985
-    }, 
-    "the_last_resort": {
-     "points": 73, 
-     "time": 1573232289
-    }
-   }, 
-   "team": "Shingeki_No_Chikungunya"
   }, 
   {
    "lastAccept": 1573232547, 
