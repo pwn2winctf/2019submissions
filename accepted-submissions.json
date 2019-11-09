@@ -3351,6 +3351,18 @@
     }
    }, 
    "team": "t"
+  }, 
+  {
+   "lastAccept": 1573326466, 
+   "pos": 200, 
+   "score": 50, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573326466
+    }
+   }, 
+   "team": "BuffOverFlows"
   }
  ], 
  "tasks": [
