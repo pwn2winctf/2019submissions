@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1573257383, 
+   "lastAccept": 1573260341, 
    "pos": 1, 
-   "score": 2472, 
+   "score": 2972, 
    "taskStats": {
     "full_troll": {
      "points": 394, 
@@ -16,6 +16,10 @@
     "future_message_pt2": {
      "points": 500, 
      "time": 1573257383
+    }, 
+    "future_message_pt3": {
+     "points": 500, 
+     "time": 1573260341
     }, 
     "g00d_b0y": {
      "points": 125, 
@@ -2156,6 +2160,7 @@
   "real_ec", 
   "i_shall_never_be_anything", 
   "random_crypto", 
-  "future_message_pt2"
+  "future_message_pt2", 
+  "future_message_pt3"
  ]
 }
