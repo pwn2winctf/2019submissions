@@ -133,8 +133,48 @@
    "team": "Balsn"
   }, 
   {
-   "lastAccept": 1573310081, 
+   "lastAccept": 1573324623, 
    "pos": 4, 
+   "score": 2497, 
+   "taskStats": {
+    "cloud_admin": {
+     "points": 453, 
+     "time": 1573250221
+    }, 
+    "full_troll": {
+     "points": 260, 
+     "time": 1573292124
+    }, 
+    "g00d_b0y": {
+     "points": 91, 
+     "time": 1573235615
+    }, 
+    "i_shall_never_be_anything": {
+     "points": 326, 
+     "time": 1573309748
+    }, 
+    "random_crypto": {
+     "points": 453, 
+     "time": 1573257061
+    }, 
+    "random_vault": {
+     "points": 363, 
+     "time": 1573303566
+    }, 
+    "rmbellious": {
+     "points": 500, 
+     "time": 1573324623
+    }, 
+    "the_last_resort": {
+     "points": 51, 
+     "time": 1573235386
+    }
+   }, 
+   "team": "OpenToAll"
+  }, 
+  {
+   "lastAccept": 1573310081, 
+   "pos": 5, 
    "score": 2238, 
    "taskStats": {
     "baby_recruiter": {
@@ -171,42 +211,6 @@
     }
    }, 
    "team": "CL34R"
-  }, 
-  {
-   "lastAccept": 1573309748, 
-   "pos": 5, 
-   "score": 1997, 
-   "taskStats": {
-    "cloud_admin": {
-     "points": 453, 
-     "time": 1573250221
-    }, 
-    "full_troll": {
-     "points": 260, 
-     "time": 1573292124
-    }, 
-    "g00d_b0y": {
-     "points": 91, 
-     "time": 1573235615
-    }, 
-    "i_shall_never_be_anything": {
-     "points": 326, 
-     "time": 1573309748
-    }, 
-    "random_crypto": {
-     "points": 453, 
-     "time": 1573257061
-    }, 
-    "random_vault": {
-     "points": 363, 
-     "time": 1573303566
-    }, 
-    "the_last_resort": {
-     "points": 51, 
-     "time": 1573235386
-    }
-   }, 
-   "team": "OpenToAll"
   }, 
   {
    "lastAccept": 1573319006, 
@@ -3329,6 +3333,7 @@
   "astrobot", 
   "baby_recruiter", 
   "future_message_pt4", 
-  "hardware_trojan_pt1"
+  "hardware_trojan_pt1", 
+  "rmbellious"
  ]
 }
