@@ -2221,8 +2221,24 @@
    "team": "NIS"
   }, 
   {
-   "lastAccept": 1573232900, 
+   "lastAccept": 1573297382, 
    "pos": 127, 
+   "score": 161, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 100, 
+     "time": 1573297382
+    }, 
+    "the_last_resort": {
+     "points": 61, 
+     "time": 1573296960
+    }
+   }, 
+   "team": "mritunjay"
+  }, 
+  {
+   "lastAccept": 1573232900, 
+   "pos": 128, 
    "score": 100, 
    "taskStats": {
     "g00d_b0y": {
@@ -2234,7 +2250,7 @@
   }, 
   {
    "lastAccept": 1573231280, 
-   "pos": 128, 
+   "pos": 129, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2246,7 +2262,7 @@
   }, 
   {
    "lastAccept": 1573231552, 
-   "pos": 129, 
+   "pos": 130, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2258,7 +2274,7 @@
   }, 
   {
    "lastAccept": 1573231637, 
-   "pos": 130, 
+   "pos": 131, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2270,7 +2286,7 @@
   }, 
   {
    "lastAccept": 1573231866, 
-   "pos": 131, 
+   "pos": 132, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2282,7 +2298,7 @@
   }, 
   {
    "lastAccept": 1573231994, 
-   "pos": 132, 
+   "pos": 133, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2294,7 +2310,7 @@
   }, 
   {
    "lastAccept": 1573232264, 
-   "pos": 133, 
+   "pos": 134, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2306,7 +2322,7 @@
   }, 
   {
    "lastAccept": 1573232499, 
-   "pos": 134, 
+   "pos": 135, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2318,7 +2334,7 @@
   }, 
   {
    "lastAccept": 1573232669, 
-   "pos": 135, 
+   "pos": 136, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2330,7 +2346,7 @@
   }, 
   {
    "lastAccept": 1573233024, 
-   "pos": 136, 
+   "pos": 137, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2342,7 +2358,7 @@
   }, 
   {
    "lastAccept": 1573233689, 
-   "pos": 137, 
+   "pos": 138, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2354,7 +2370,7 @@
   }, 
   {
    "lastAccept": 1573233727, 
-   "pos": 138, 
+   "pos": 139, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2366,7 +2382,7 @@
   }, 
   {
    "lastAccept": 1573233789, 
-   "pos": 139, 
+   "pos": 140, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2378,7 +2394,7 @@
   }, 
   {
    "lastAccept": 1573236513, 
-   "pos": 140, 
+   "pos": 141, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2390,7 +2406,7 @@
   }, 
   {
    "lastAccept": 1573236647, 
-   "pos": 141, 
+   "pos": 142, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2402,7 +2418,7 @@
   }, 
   {
    "lastAccept": 1573237106, 
-   "pos": 142, 
+   "pos": 143, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2414,7 +2430,7 @@
   }, 
   {
    "lastAccept": 1573239484, 
-   "pos": 143, 
+   "pos": 144, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2426,7 +2442,7 @@
   }, 
   {
    "lastAccept": 1573239501, 
-   "pos": 144, 
+   "pos": 145, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2438,7 +2454,7 @@
   }, 
   {
    "lastAccept": 1573240427, 
-   "pos": 145, 
+   "pos": 146, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2450,7 +2466,7 @@
   }, 
   {
    "lastAccept": 1573240516, 
-   "pos": 146, 
+   "pos": 147, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2462,7 +2478,7 @@
   }, 
   {
    "lastAccept": 1573241380, 
-   "pos": 147, 
+   "pos": 148, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2474,7 +2490,7 @@
   }, 
   {
    "lastAccept": 1573241975, 
-   "pos": 148, 
+   "pos": 149, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2486,7 +2502,7 @@
   }, 
   {
    "lastAccept": 1573242860, 
-   "pos": 149, 
+   "pos": 150, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2498,7 +2514,7 @@
   }, 
   {
    "lastAccept": 1573248393, 
-   "pos": 150, 
+   "pos": 151, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2510,7 +2526,7 @@
   }, 
   {
    "lastAccept": 1573248785, 
-   "pos": 151, 
+   "pos": 152, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2522,7 +2538,7 @@
   }, 
   {
    "lastAccept": 1573249014, 
-   "pos": 152, 
+   "pos": 153, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2534,7 +2550,7 @@
   }, 
   {
    "lastAccept": 1573249125, 
-   "pos": 153, 
+   "pos": 154, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2546,7 +2562,7 @@
   }, 
   {
    "lastAccept": 1573249618, 
-   "pos": 154, 
+   "pos": 155, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2558,7 +2574,7 @@
   }, 
   {
    "lastAccept": 1573251944, 
-   "pos": 155, 
+   "pos": 156, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2570,7 +2586,7 @@
   }, 
   {
    "lastAccept": 1573253406, 
-   "pos": 156, 
+   "pos": 157, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2582,7 +2598,7 @@
   }, 
   {
    "lastAccept": 1573255541, 
-   "pos": 157, 
+   "pos": 158, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2594,7 +2610,7 @@
   }, 
   {
    "lastAccept": 1573256237, 
-   "pos": 158, 
+   "pos": 159, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2606,7 +2622,7 @@
   }, 
   {
    "lastAccept": 1573256860, 
-   "pos": 159, 
+   "pos": 160, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2618,7 +2634,7 @@
   }, 
   {
    "lastAccept": 1573260070, 
-   "pos": 160, 
+   "pos": 161, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2630,7 +2646,7 @@
   }, 
   {
    "lastAccept": 1573260176, 
-   "pos": 161, 
+   "pos": 162, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2642,7 +2658,7 @@
   }, 
   {
    "lastAccept": 1573261489, 
-   "pos": 162, 
+   "pos": 163, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2654,7 +2670,7 @@
   }, 
   {
    "lastAccept": 1573262837, 
-   "pos": 163, 
+   "pos": 164, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2666,7 +2682,7 @@
   }, 
   {
    "lastAccept": 1573263879, 
-   "pos": 164, 
+   "pos": 165, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2678,7 +2694,7 @@
   }, 
   {
    "lastAccept": 1573268788, 
-   "pos": 165, 
+   "pos": 166, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2690,7 +2706,7 @@
   }, 
   {
    "lastAccept": 1573270593, 
-   "pos": 166, 
+   "pos": 167, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2702,7 +2718,7 @@
   }, 
   {
    "lastAccept": 1573271114, 
-   "pos": 167, 
+   "pos": 168, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2714,7 +2730,7 @@
   }, 
   {
    "lastAccept": 1573273075, 
-   "pos": 168, 
+   "pos": 169, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2726,7 +2742,7 @@
   }, 
   {
    "lastAccept": 1573277139, 
-   "pos": 169, 
+   "pos": 170, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2738,7 +2754,7 @@
   }, 
   {
    "lastAccept": 1573277196, 
-   "pos": 170, 
+   "pos": 171, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2750,7 +2766,7 @@
   }, 
   {
    "lastAccept": 1573291894, 
-   "pos": 171, 
+   "pos": 172, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2762,7 +2778,7 @@
   }, 
   {
    "lastAccept": 1573293769, 
-   "pos": 172, 
+   "pos": 173, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2774,7 +2790,7 @@
   }, 
   {
    "lastAccept": 1573293783, 
-   "pos": 173, 
+   "pos": 174, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2786,7 +2802,7 @@
   }, 
   {
    "lastAccept": 1573294543, 
-   "pos": 174, 
+   "pos": 175, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2798,7 +2814,7 @@
   }, 
   {
    "lastAccept": 1573295176, 
-   "pos": 175, 
+   "pos": 176, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2810,7 +2826,7 @@
   }, 
   {
    "lastAccept": 1573295559, 
-   "pos": 176, 
+   "pos": 177, 
    "score": 61, 
    "taskStats": {
     "the_last_resort": {
@@ -2819,18 +2835,6 @@
     }
    }, 
    "team": "Mbelgedes"
-  }, 
-  {
-   "lastAccept": 1573296960, 
-   "pos": 177, 
-   "score": 61, 
-   "taskStats": {
-    "the_last_resort": {
-     "points": 61, 
-     "time": 1573296960
-    }
-   }, 
-   "team": "mritunjay"
   }
  ], 
  "tasks": [
