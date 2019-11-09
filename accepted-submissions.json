@@ -597,8 +597,24 @@
    "team": "Alephfs"
   }, 
   {
-   "lastAccept": 1573290287, 
+   "lastAccept": 1573303881, 
    "pos": 25, 
+   "score": 511, 
+   "taskStats": {
+    "baby_recruiter": {
+     "points": 453, 
+     "time": 1573303546
+    }, 
+    "the_last_resort": {
+     "points": 58, 
+     "time": 1573303881
+    }
+   }, 
+   "team": "entr0py"
+  }, 
+  {
+   "lastAccept": 1573290287, 
+   "pos": 26, 
    "score": 489, 
    "taskStats": {
     "future_message_pt1": {
@@ -611,18 +627,6 @@
     }
    }, 
    "team": "Harekaze"
-  }, 
-  {
-   "lastAccept": 1573303546, 
-   "pos": 26, 
-   "score": 453, 
-   "taskStats": {
-    "baby_recruiter": {
-     "points": 453, 
-     "time": 1573303546
-    }
-   }, 
-   "team": "entr0py"
   }, 
   {
    "lastAccept": 1573246734, 
