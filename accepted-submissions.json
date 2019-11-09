@@ -3,7 +3,7 @@
   {
    "lastAccept": 1573260341, 
    "pos": 1, 
-   "score": 2743, 
+   "score": 2729, 
    "taskStats": {
     "full_troll": {
      "points": 320, 
@@ -26,7 +26,7 @@
      "time": 1573236673
     }, 
     "random_vault": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573243403
     }, 
     "roots_before_branches": {
@@ -43,7 +43,7 @@
   {
    "lastAccept": 1573283838, 
    "pos": 2, 
-   "score": 2137, 
+   "score": 2123, 
    "taskStats": {
     "full_troll": {
      "points": 320, 
@@ -62,7 +62,7 @@
      "time": 1573280833
     }, 
     "random_vault": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573239514
     }, 
     "roots_before_branches": {
@@ -131,7 +131,7 @@
   {
    "lastAccept": 1573289051, 
    "pos": 5, 
-   "score": 1071, 
+   "score": 1057, 
    "taskStats": {
     "g00d_b0y": {
      "points": 107, 
@@ -142,7 +142,7 @@
      "time": 1573288913
     }, 
     "random_vault": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573288944
     }, 
     "the_last_resort": {
@@ -155,7 +155,7 @@
   {
    "lastAccept": 1573272164, 
    "pos": 6, 
-   "score": 1050, 
+   "score": 1036, 
    "taskStats": {
     "cloud_admin": {
      "points": 453, 
@@ -166,7 +166,7 @@
      "time": 1573240151
     }, 
     "random_vault": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573272164
     }, 
     "the_last_resort": {
@@ -227,7 +227,7 @@
   {
    "lastAccept": 1573264446, 
    "pos": 9, 
-   "score": 917, 
+   "score": 903, 
    "taskStats": {
     "full_troll": {
      "points": 320, 
@@ -238,7 +238,7 @@
      "time": 1573235169
     }, 
     "random_vault": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573264446
     }, 
     "the_last_resort": {
@@ -249,8 +249,32 @@
    "team": "STT"
   }, 
   {
-   "lastAccept": 1573274949, 
+   "lastAccept": 1573289119, 
    "pos": 10, 
+   "score": 903, 
+   "taskStats": {
+    "full_troll": {
+     "points": 320, 
+     "time": 1573248757
+    }, 
+    "g00d_b0y": {
+     "points": 107, 
+     "time": 1573232488
+    }, 
+    "random_vault": {
+     "points": 406, 
+     "time": 1573289119
+    }, 
+    "the_last_resort": {
+     "points": 70, 
+     "time": 1573231320
+    }
+   }, 
+   "team": "LEGOFAN"
+  }, 
+  {
+   "lastAccept": 1573274949, 
+   "pos": 11, 
    "score": 891, 
    "taskStats": {
     "full_troll": {
@@ -274,7 +298,7 @@
   }, 
   {
    "lastAccept": 1573276570, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 891, 
    "taskStats": {
     "full_troll": {
@@ -298,7 +322,7 @@
   }, 
   {
    "lastAccept": 1573249940, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 677, 
    "taskStats": {
     "g00d_b0y": {
@@ -318,7 +342,7 @@
   }, 
   {
    "lastAccept": 1573261706, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 677, 
    "taskStats": {
     "astrobot": {
@@ -338,7 +362,7 @@
   }, 
   {
    "lastAccept": 1573242319, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 597, 
    "taskStats": {
     "future_message_pt1": {
@@ -358,7 +382,7 @@
   }, 
   {
    "lastAccept": 1573249792, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 597, 
    "taskStats": {
     "future_message_pt1": {
@@ -378,7 +402,7 @@
   }, 
   {
    "lastAccept": 1573245898, 
-   "pos": 16, 
+   "pos": 17, 
    "score": 583, 
    "taskStats": {
     "g00d_b0y": {
@@ -398,7 +422,7 @@
   }, 
   {
    "lastAccept": 1573282762, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 583, 
    "taskStats": {
     "g00d_b0y": {
@@ -418,7 +442,7 @@
   }, 
   {
    "lastAccept": 1573252744, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 571, 
    "taskStats": {
     "g00d_b0y": {
@@ -438,7 +462,7 @@
   }, 
   {
    "lastAccept": 1573266763, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 571, 
    "taskStats": {
     "g00d_b0y": {
@@ -458,7 +482,7 @@
   }, 
   {
    "lastAccept": 1573246734, 
-   "pos": 20, 
+   "pos": 21, 
    "score": 497, 
    "taskStats": {
     "full_troll": {
@@ -475,26 +499,6 @@
     }
    }, 
    "team": "NoPwnIntended"
-  }, 
-  {
-   "lastAccept": 1573248757, 
-   "pos": 21, 
-   "score": 497, 
-   "taskStats": {
-    "full_troll": {
-     "points": 320, 
-     "time": 1573248757
-    }, 
-    "g00d_b0y": {
-     "points": 107, 
-     "time": 1573232488
-    }, 
-    "the_last_resort": {
-     "points": 70, 
-     "time": 1573231320
-    }
-   }, 
-   "team": "LEGOFAN"
   }, 
   {
    "lastAccept": 1573254269, 
