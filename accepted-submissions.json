@@ -2725,8 +2725,24 @@
    "team": "L0gRe4d3rZ"
   }, 
   {
-   "lastAccept": 1573232900, 
+   "lastAccept": 1573327415, 
    "pos": 146, 
+   "score": 138, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 88, 
+     "time": 1573327206
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573327415
+    }
+   }, 
+   "team": "p4010"
+  }, 
+  {
+   "lastAccept": 1573232900, 
+   "pos": 147, 
    "score": 88, 
    "taskStats": {
     "g00d_b0y": {
@@ -2735,18 +2751,6 @@
     }
    }, 
    "team": "[c0rrupted_6ata]"
-  }, 
-  {
-   "lastAccept": 1573327206, 
-   "pos": 147, 
-   "score": 88, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 88, 
-     "time": 1573327206
-    }
-   }, 
-   "team": "p4010"
   }, 
   {
    "lastAccept": 1573231280, 
