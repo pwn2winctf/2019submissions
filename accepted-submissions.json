@@ -231,10 +231,10 @@
   {
    "lastAccept": 1573303496, 
    "pos": 8, 
-   "score": 968, 
+   "score": 950, 
    "taskStats": {
     "baby_recruiter": {
-     "points": 453, 
+     "points": 435, 
      "time": 1573303496
     }, 
     "g00d_b0y": {
@@ -255,10 +255,10 @@
   {
    "lastAccept": 1573304656, 
    "pos": 9, 
-   "score": 968, 
+   "score": 950, 
    "taskStats": {
     "baby_recruiter": {
-     "points": 453, 
+     "points": 435, 
      "time": 1573293790
     }, 
     "g00d_b0y": {
@@ -493,8 +493,28 @@
    "team": "pwndevils"
   }, 
   {
-   "lastAccept": 1573249940, 
+   "lastAccept": 1573305348, 
    "pos": 19, 
+   "score": 776, 
+   "taskStats": {
+    "baby_recruiter": {
+     "points": 435, 
+     "time": 1573305348
+    }, 
+    "full_troll": {
+     "points": 283, 
+     "time": 1573305108
+    }, 
+    "the_last_resort": {
+     "points": 58, 
+     "time": 1573295176
+    }
+   }, 
+   "team": "pwntheTowerOfCrhackers"
+  }, 
+  {
+   "lastAccept": 1573249940, 
+   "pos": 20, 
    "score": 652, 
    "taskStats": {
     "g00d_b0y": {
@@ -514,7 +534,7 @@
   }, 
   {
    "lastAccept": 1573261706, 
-   "pos": 20, 
+   "pos": 21, 
    "score": 652, 
    "taskStats": {
     "astrobot": {
@@ -534,7 +554,7 @@
   }, 
   {
    "lastAccept": 1573242319, 
-   "pos": 21, 
+   "pos": 22, 
    "score": 535, 
    "taskStats": {
     "future_message_pt1": {
@@ -554,7 +574,7 @@
   }, 
   {
    "lastAccept": 1573249792, 
-   "pos": 22, 
+   "pos": 23, 
    "score": 535, 
    "taskStats": {
     "future_message_pt1": {
@@ -574,7 +594,7 @@
   }, 
   {
    "lastAccept": 1573282762, 
-   "pos": 23, 
+   "pos": 24, 
    "score": 535, 
    "taskStats": {
     "g00d_b0y": {
@@ -594,7 +614,7 @@
   }, 
   {
    "lastAccept": 1573266763, 
-   "pos": 24, 
+   "pos": 25, 
    "score": 515, 
    "taskStats": {
     "g00d_b0y": {
@@ -614,11 +634,11 @@
   }, 
   {
    "lastAccept": 1573303881, 
-   "pos": 25, 
-   "score": 511, 
+   "pos": 26, 
+   "score": 493, 
    "taskStats": {
     "baby_recruiter": {
-     "points": 453, 
+     "points": 435, 
      "time": 1573303546
     }, 
     "the_last_resort": {
@@ -630,7 +650,7 @@
   }, 
   {
    "lastAccept": 1573290287, 
-   "pos": 26, 
+   "pos": 27, 
    "score": 477, 
    "taskStats": {
     "future_message_pt1": {
@@ -646,7 +666,7 @@
   }, 
   {
    "lastAccept": 1573246734, 
-   "pos": 27, 
+   "pos": 28, 
    "score": 435, 
    "taskStats": {
     "full_troll": {
@@ -666,7 +686,7 @@
   }, 
   {
    "lastAccept": 1573254269, 
-   "pos": 28, 
+   "pos": 29, 
    "score": 435, 
    "taskStats": {
     "full_troll": {
@@ -686,7 +706,7 @@
   }, 
   {
    "lastAccept": 1573256190, 
-   "pos": 29, 
+   "pos": 30, 
    "score": 435, 
    "taskStats": {
     "full_troll": {
@@ -706,7 +726,7 @@
   }, 
   {
    "lastAccept": 1573273540, 
-   "pos": 30, 
+   "pos": 31, 
    "score": 435, 
    "taskStats": {
     "full_troll": {
@@ -726,7 +746,7 @@
   }, 
   {
    "lastAccept": 1573274298, 
-   "pos": 31, 
+   "pos": 32, 
    "score": 435, 
    "taskStats": {
     "full_troll": {
@@ -746,7 +766,7 @@
   }, 
   {
    "lastAccept": 1573289618, 
-   "pos": 32, 
+   "pos": 33, 
    "score": 435, 
    "taskStats": {
     "full_troll": {
@@ -766,7 +786,7 @@
   }, 
   {
    "lastAccept": 1573294181, 
-   "pos": 33, 
+   "pos": 34, 
    "score": 435, 
    "taskStats": {
     "full_troll": {
@@ -786,7 +806,7 @@
   }, 
   {
    "lastAccept": 1573279377, 
-   "pos": 34, 
+   "pos": 35, 
    "score": 421, 
    "taskStats": {
     "i_shall_never_be_anything": {
@@ -802,7 +822,7 @@
   }, 
   {
    "lastAccept": 1573268661, 
-   "pos": 35, 
+   "pos": 36, 
    "score": 341, 
    "taskStats": {
     "full_troll": {
@@ -815,22 +835,6 @@
     }
    }, 
    "team": "ROPperoni"
-  }, 
-  {
-   "lastAccept": 1573305108, 
-   "pos": 36, 
-   "score": 341, 
-   "taskStats": {
-    "full_troll": {
-     "points": 283, 
-     "time": 1573305108
-    }, 
-    "the_last_resort": {
-     "points": 58, 
-     "time": 1573295176
-    }
-   }, 
-   "team": "pwntheTowerOfCrhackers"
   }, 
   {
    "lastAccept": 1573302958, 
