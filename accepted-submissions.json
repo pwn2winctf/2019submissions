@@ -3123,6 +3123,18 @@
     }
    }, 
    "team": "YoloSw4g"
+  }, 
+  {
+   "lastAccept": 1573313601, 
+   "pos": 189, 
+   "score": 55, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 55, 
+     "time": 1573313601
+    }
+   }, 
+   "team": "chiba"
   }
  ], 
  "tasks": [
