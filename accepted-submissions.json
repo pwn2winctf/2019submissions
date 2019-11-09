@@ -349,8 +349,32 @@
    "team": "[spbctf] fargate"
   }, 
   {
-   "lastAccept": 1573264446, 
+   "lastAccept": 1573306226, 
    "pos": 13, 
+   "score": 869, 
+   "taskStats": {
+    "baby_recruiter": {
+     "points": 435, 
+     "time": 1573305348
+    }, 
+    "full_troll": {
+     "points": 283, 
+     "time": 1573305108
+    }, 
+    "g00d_b0y": {
+     "points": 93, 
+     "time": 1573306226
+    }, 
+    "the_last_resort": {
+     "points": 58, 
+     "time": 1573295176
+    }
+   }, 
+   "team": "pwntheTowerOfCrhackers"
+  }, 
+  {
+   "lastAccept": 1573264446, 
+   "pos": 14, 
    "score": 817, 
    "taskStats": {
     "full_troll": {
@@ -374,7 +398,7 @@
   }, 
   {
    "lastAccept": 1573289119, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 817, 
    "taskStats": {
     "full_troll": {
@@ -398,7 +422,7 @@
   }, 
   {
    "lastAccept": 1573300944, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 817, 
    "taskStats": {
     "full_troll": {
@@ -422,7 +446,7 @@
   }, 
   {
    "lastAccept": 1573302745, 
-   "pos": 16, 
+   "pos": 17, 
    "score": 817, 
    "taskStats": {
     "full_troll": {
@@ -446,7 +470,7 @@
   }, 
   {
    "lastAccept": 1573274949, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 797, 
    "taskStats": {
     "full_troll": {
@@ -470,7 +494,7 @@
   }, 
   {
    "lastAccept": 1573276570, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 797, 
    "taskStats": {
     "full_troll": {
@@ -491,26 +515,6 @@
     }
    }, 
    "team": "pwndevils"
-  }, 
-  {
-   "lastAccept": 1573305348, 
-   "pos": 19, 
-   "score": 776, 
-   "taskStats": {
-    "baby_recruiter": {
-     "points": 435, 
-     "time": 1573305348
-    }, 
-    "full_troll": {
-     "points": 283, 
-     "time": 1573305108
-    }, 
-    "the_last_resort": {
-     "points": 58, 
-     "time": 1573295176
-    }
-   }, 
-   "team": "pwntheTowerOfCrhackers"
   }, 
   {
    "lastAccept": 1573249940, 
