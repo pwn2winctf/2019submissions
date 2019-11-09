@@ -86,5 +86,9 @@
  {
   "msg": "Federated Sophia main server and backup server should be ok now.", 
   "time": 1573322316
+ }, 
+ {
+  "msg": "More instances (bots) for Botnet challenge are running! Hint: EVERY detail about the environment/network matters, look around carefully! Race condition is not the right approachcd 2019/", 
+  "time": 1573342545
  }
 ]
