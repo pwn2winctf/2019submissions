@@ -3,10 +3,10 @@
   {
    "lastAccept": 1573260341, 
    "pos": 1, 
-   "score": 2964, 
+   "score": 2953, 
    "taskStats": {
     "full_troll": {
-     "points": 394, 
+     "points": 383, 
      "time": 1573239530
     }, 
     "future_message_pt1": {
@@ -43,10 +43,10 @@
   {
    "lastAccept": 1573239514, 
    "pos": 2, 
-   "score": 1511, 
+   "score": 1500, 
    "taskStats": {
     "full_troll": {
-     "points": 394, 
+     "points": 383, 
      "time": 1573234004
     }, 
     "future_message_pt1": {
@@ -93,8 +93,32 @@
    "team": "OpenToAll"
   }, 
   {
-   "lastAccept": 1573249940, 
+   "lastAccept": 1573264269, 
    "pos": 4, 
+   "score": 1044, 
+   "taskStats": {
+    "cloud_admin": {
+     "points": 453, 
+     "time": 1573255853
+    }, 
+    "full_troll": {
+     "points": 383, 
+     "time": 1573264269
+    }, 
+    "g00d_b0y": {
+     "points": 122, 
+     "time": 1573234626
+    }, 
+    "the_last_resort": {
+     "points": 86, 
+     "time": 1573234731
+    }
+   }, 
+   "team": "[spbctf] fargate"
+  }, 
+  {
+   "lastAccept": 1573249940, 
+   "pos": 5, 
    "score": 708, 
    "taskStats": {
     "g00d_b0y": {
@@ -114,7 +138,7 @@
   }, 
   {
    "lastAccept": 1573252744, 
-   "pos": 5, 
+   "pos": 6, 
    "score": 708, 
    "taskStats": {
     "g00d_b0y": {
@@ -134,7 +158,7 @@
   }, 
   {
    "lastAccept": 1573261706, 
-   "pos": 6, 
+   "pos": 7, 
    "score": 708, 
    "taskStats": {
     "astrobot": {
@@ -154,7 +178,7 @@
   }, 
   {
    "lastAccept": 1573245898, 
-   "pos": 7, 
+   "pos": 8, 
    "score": 661, 
    "taskStats": {
     "g00d_b0y": {
@@ -174,7 +198,7 @@
   }, 
   {
    "lastAccept": 1573247229, 
-   "pos": 8, 
+   "pos": 9, 
    "score": 661, 
    "taskStats": {
     "cloud_admin": {
@@ -191,26 +215,6 @@
     }
    }, 
    "team": "justCatTheFish"
-  }, 
-  {
-   "lastAccept": 1573255853, 
-   "pos": 9, 
-   "score": 661, 
-   "taskStats": {
-    "cloud_admin": {
-     "points": 453, 
-     "time": 1573255853
-    }, 
-    "g00d_b0y": {
-     "points": 122, 
-     "time": 1573234626
-    }, 
-    "the_last_resort": {
-     "points": 86, 
-     "time": 1573234731
-    }
-   }, 
-   "team": "[spbctf] fargate"
   }, 
   {
    "lastAccept": 1573259032, 
@@ -275,10 +279,10 @@
   {
    "lastAccept": 1573246734, 
    "pos": 13, 
-   "score": 602, 
+   "score": 591, 
    "taskStats": {
     "full_troll": {
-     "points": 394, 
+     "points": 383, 
      "time": 1573246734
     }, 
     "g00d_b0y": {
@@ -295,10 +299,10 @@
   {
    "lastAccept": 1573248757, 
    "pos": 14, 
-   "score": 602, 
+   "score": 591, 
    "taskStats": {
     "full_troll": {
-     "points": 394, 
+     "points": 383, 
      "time": 1573248757
     }, 
     "g00d_b0y": {
@@ -315,10 +319,10 @@
   {
    "lastAccept": 1573251448, 
    "pos": 15, 
-   "score": 602, 
+   "score": 591, 
    "taskStats": {
     "full_troll": {
-     "points": 394, 
+     "points": 383, 
      "time": 1573251448
     }, 
     "g00d_b0y": {
@@ -335,10 +339,10 @@
   {
    "lastAccept": 1573254269, 
    "pos": 16, 
-   "score": 602, 
+   "score": 591, 
    "taskStats": {
     "full_troll": {
-     "points": 394, 
+     "points": 383, 
      "time": 1573252690
     }, 
     "g00d_b0y": {
@@ -355,10 +359,10 @@
   {
    "lastAccept": 1573256190, 
    "pos": 17, 
-   "score": 602, 
+   "score": 591, 
    "taskStats": {
     "full_troll": {
-     "points": 394, 
+     "points": 383, 
      "time": 1573256190
     }, 
     "g00d_b0y": {
