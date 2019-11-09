@@ -2841,8 +2841,24 @@
    "team": "BuffOverFlows"
   }, 
   {
-   "lastAccept": 1573232900, 
+   "lastAccept": 1573336111, 
    "pos": 149, 
+   "score": 135, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 85, 
+     "time": 1573335788
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573336111
+    }
+   }, 
+   "team": "Donnacona-Hochelaga"
+  }, 
+  {
+   "lastAccept": 1573232900, 
+   "pos": 150, 
    "score": 85, 
    "taskStats": {
     "g00d_b0y": {
@@ -2851,18 +2867,6 @@
     }
    }, 
    "team": "[c0rrupted_6ata]"
-  }, 
-  {
-   "lastAccept": 1573335788, 
-   "pos": 150, 
-   "score": 85, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 85, 
-     "time": 1573335788
-    }
-   }, 
-   "team": "Donnacona-Hochelaga"
   }, 
   {
    "lastAccept": 1573231280, 
