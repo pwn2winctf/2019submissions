@@ -3,7 +3,7 @@
   {
    "lastAccept": 1573260341, 
    "pos": 1, 
-   "score": 2760, 
+   "score": 2745, 
    "taskStats": {
     "full_troll": {
      "points": 320, 
@@ -26,7 +26,7 @@
      "time": 1573236673
     }, 
     "random_vault": {
-     "points": 435, 
+     "points": 420, 
      "time": 1573243403
     }, 
     "roots_before_branches": {
@@ -43,7 +43,7 @@
   {
    "lastAccept": 1573283838, 
    "pos": 2, 
-   "score": 2154, 
+   "score": 2139, 
    "taskStats": {
     "full_troll": {
      "points": 320, 
@@ -62,7 +62,7 @@
      "time": 1573280833
     }, 
     "random_vault": {
-     "points": 435, 
+     "points": 420, 
      "time": 1573239514
     }, 
     "roots_before_branches": {
@@ -131,7 +131,7 @@
   {
    "lastAccept": 1573272164, 
    "pos": 5, 
-   "score": 1067, 
+   "score": 1052, 
    "taskStats": {
     "cloud_admin": {
      "points": 453, 
@@ -142,7 +142,7 @@
      "time": 1573240151
     }, 
     "random_vault": {
-     "points": 435, 
+     "points": 420, 
      "time": 1573272164
     }, 
     "the_last_resort": {
@@ -203,7 +203,7 @@
   {
    "lastAccept": 1573264446, 
    "pos": 8, 
-   "score": 934, 
+   "score": 919, 
    "taskStats": {
     "full_troll": {
      "points": 320, 
@@ -214,7 +214,7 @@
      "time": 1573235169
     }, 
     "random_vault": {
-     "points": 435, 
+     "points": 420, 
      "time": 1573264446
     }, 
     "the_last_resort": {
@@ -225,8 +225,24 @@
    "team": "STT"
   }, 
   {
-   "lastAccept": 1573274949, 
+   "lastAccept": 1573288944, 
    "pos": 9, 
+   "score": 894, 
+   "taskStats": {
+    "random_crypto": {
+     "points": 474, 
+     "time": 1573288913
+    }, 
+    "random_vault": {
+     "points": 420, 
+     "time": 1573288944
+    }
+   }, 
+   "team": "CL34R"
+  }, 
+  {
+   "lastAccept": 1573274949, 
+   "pos": 10, 
    "score": 893, 
    "taskStats": {
     "full_troll": {
@@ -250,7 +266,7 @@
   }, 
   {
    "lastAccept": 1573276570, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 893, 
    "taskStats": {
     "full_troll": {
@@ -274,7 +290,7 @@
   }, 
   {
    "lastAccept": 1573249940, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 679, 
    "taskStats": {
     "g00d_b0y": {
@@ -294,7 +310,7 @@
   }, 
   {
    "lastAccept": 1573261706, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 679, 
    "taskStats": {
     "astrobot": {
@@ -314,7 +330,7 @@
   }, 
   {
    "lastAccept": 1573242319, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 599, 
    "taskStats": {
     "future_message_pt1": {
@@ -334,7 +350,7 @@
   }, 
   {
    "lastAccept": 1573249792, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 599, 
    "taskStats": {
     "future_message_pt1": {
@@ -354,7 +370,7 @@
   }, 
   {
    "lastAccept": 1573245898, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 585, 
    "taskStats": {
     "g00d_b0y": {
@@ -374,7 +390,7 @@
   }, 
   {
    "lastAccept": 1573282762, 
-   "pos": 16, 
+   "pos": 17, 
    "score": 585, 
    "taskStats": {
     "g00d_b0y": {
@@ -394,7 +410,7 @@
   }, 
   {
    "lastAccept": 1573252744, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 573, 
    "taskStats": {
     "g00d_b0y": {
@@ -414,7 +430,7 @@
   }, 
   {
    "lastAccept": 1573266763, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 573, 
    "taskStats": {
     "g00d_b0y": {
@@ -434,7 +450,7 @@
   }, 
   {
    "lastAccept": 1573246734, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 499, 
    "taskStats": {
     "full_troll": {
@@ -454,7 +470,7 @@
   }, 
   {
    "lastAccept": 1573248757, 
-   "pos": 20, 
+   "pos": 21, 
    "score": 499, 
    "taskStats": {
     "full_troll": {
@@ -474,7 +490,7 @@
   }, 
   {
    "lastAccept": 1573254269, 
-   "pos": 21, 
+   "pos": 22, 
    "score": 499, 
    "taskStats": {
     "full_troll": {
@@ -494,7 +510,7 @@
   }, 
   {
    "lastAccept": 1573256190, 
-   "pos": 22, 
+   "pos": 23, 
    "score": 499, 
    "taskStats": {
     "full_troll": {
@@ -514,7 +530,7 @@
   }, 
   {
    "lastAccept": 1573273540, 
-   "pos": 23, 
+   "pos": 24, 
    "score": 499, 
    "taskStats": {
     "full_troll": {
@@ -534,7 +550,7 @@
   }, 
   {
    "lastAccept": 1573273571, 
-   "pos": 24, 
+   "pos": 25, 
    "score": 499, 
    "taskStats": {
     "full_troll": {
@@ -554,7 +570,7 @@
   }, 
   {
    "lastAccept": 1573274298, 
-   "pos": 25, 
+   "pos": 26, 
    "score": 499, 
    "taskStats": {
     "full_troll": {
@@ -571,18 +587,6 @@
     }
    }, 
    "team": "******"
-  }, 
-  {
-   "lastAccept": 1573288913, 
-   "pos": 26, 
-   "score": 474, 
-   "taskStats": {
-    "random_crypto": {
-     "points": 474, 
-     "time": 1573288913
-    }
-   }, 
-   "team": "CL34R"
   }, 
   {
    "lastAccept": 1573279377, 
