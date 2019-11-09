@@ -1581,8 +1581,24 @@
    "team": "Notorious Hunters"
   }, 
   {
-   "lastAccept": 1573232900, 
+   "lastAccept": 1573259264, 
    "pos": 94, 
+   "score": 220, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 127, 
+     "time": 1573259200
+    }, 
+    "the_last_resort": {
+     "points": 93, 
+     "time": 1573259264
+    }
+   }, 
+   "team": "cyclones"
+  }, 
+  {
+   "lastAccept": 1573232900, 
+   "pos": 95, 
    "score": 127, 
    "taskStats": {
     "g00d_b0y": {
@@ -1594,7 +1610,7 @@
   }, 
   {
    "lastAccept": 1573233486, 
-   "pos": 95, 
+   "pos": 96, 
    "score": 127, 
    "taskStats": {
     "g00d_b0y": {
@@ -1606,7 +1622,7 @@
   }, 
   {
    "lastAccept": 1573244338, 
-   "pos": 96, 
+   "pos": 97, 
    "score": 127, 
    "taskStats": {
     "g00d_b0y": {
@@ -1618,7 +1634,7 @@
   }, 
   {
    "lastAccept": 1573245392, 
-   "pos": 97, 
+   "pos": 98, 
    "score": 127, 
    "taskStats": {
     "g00d_b0y": {
@@ -1627,18 +1643,6 @@
     }
    }, 
    "team": "TheScottish"
-  }, 
-  {
-   "lastAccept": 1573259200, 
-   "pos": 98, 
-   "score": 127, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 127, 
-     "time": 1573259200
-    }
-   }, 
-   "team": "cyclones"
   }, 
   {
    "lastAccept": 1573231280, 
