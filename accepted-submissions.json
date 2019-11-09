@@ -41,9 +41,9 @@
    "team": "RPISEC"
   }, 
   {
-   "lastAccept": 1573239514, 
+   "lastAccept": 1573280833, 
    "pos": 2, 
-   "score": 1366, 
+   "score": 1772, 
    "taskStats": {
     "full_troll": {
      "points": 326, 
@@ -56,6 +56,10 @@
     "g00d_b0y": {
      "points": 112, 
      "time": 1573231449
+    }, 
+    "i_shall_never_be_anything": {
+     "points": 406, 
+     "time": 1573280833
     }, 
     "random_vault": {
      "points": 435, 
@@ -195,7 +199,7 @@
   {
    "lastAccept": 1573274949, 
    "pos": 8, 
-   "score": 931, 
+   "score": 917, 
    "taskStats": {
     "full_troll": {
      "points": 326, 
@@ -206,7 +210,7 @@
      "time": 1573249875
     }, 
     "i_shall_never_be_anything": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573274949
     }, 
     "the_last_resort": {
@@ -219,7 +223,7 @@
   {
    "lastAccept": 1573276570, 
    "pos": 9, 
-   "score": 931, 
+   "score": 917, 
    "taskStats": {
     "full_troll": {
      "points": 326, 
@@ -230,7 +234,7 @@
      "time": 1573276570
     }, 
     "i_shall_never_be_anything": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573274454
     }, 
     "the_last_resort": {
@@ -363,14 +367,14 @@
   {
    "lastAccept": 1573252744, 
    "pos": 16, 
-   "score": 605, 
+   "score": 591, 
    "taskStats": {
     "g00d_b0y": {
      "points": 112, 
      "time": 1573248084
     }, 
     "i_shall_never_be_anything": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573252744
     }, 
     "the_last_resort": {
@@ -383,14 +387,14 @@
   {
    "lastAccept": 1573266763, 
    "pos": 17, 
-   "score": 605, 
+   "score": 591, 
    "taskStats": {
     "g00d_b0y": {
      "points": 112, 
      "time": 1573231293
     }, 
     "i_shall_never_be_anything": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573266763
     }, 
     "the_last_resort": {
@@ -543,10 +547,10 @@
   {
    "lastAccept": 1573279377, 
    "pos": 25, 
-   "score": 493, 
+   "score": 479, 
    "taskStats": {
     "i_shall_never_be_anything": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573277540
     }, 
     "the_last_resort": {
