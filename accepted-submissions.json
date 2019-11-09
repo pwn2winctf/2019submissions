@@ -43,7 +43,7 @@
   {
    "lastAccept": 1573283838, 
    "pos": 2, 
-   "score": 2166, 
+   "score": 2154, 
    "taskStats": {
     "full_troll": {
      "points": 320, 
@@ -58,7 +58,7 @@
      "time": 1573231449
     }, 
     "i_shall_never_be_anything": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573280833
     }, 
     "random_vault": {
@@ -153,8 +153,32 @@
    "team": "justCatTheFish"
   }, 
   {
-   "lastAccept": 1573264269, 
+   "lastAccept": 1573287427, 
    "pos": 6, 
+   "score": 979, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 108, 
+     "time": 1573279739
+    }, 
+    "i_shall_never_be_anything": {
+     "points": 394, 
+     "time": 1573287427
+    }, 
+    "roots_before_branches": {
+     "points": 406, 
+     "time": 1573280244
+    }, 
+    "the_last_resort": {
+     "points": 71, 
+     "time": 1573266849
+    }
+   }, 
+   "team": "Shellphish Grill Team"
+  }, 
+  {
+   "lastAccept": 1573264269, 
+   "pos": 7, 
    "score": 952, 
    "taskStats": {
     "cloud_admin": {
@@ -178,7 +202,7 @@
   }, 
   {
    "lastAccept": 1573264446, 
-   "pos": 7, 
+   "pos": 8, 
    "score": 934, 
    "taskStats": {
     "full_troll": {
@@ -202,8 +226,8 @@
   }, 
   {
    "lastAccept": 1573274949, 
-   "pos": 8, 
-   "score": 905, 
+   "pos": 9, 
+   "score": 893, 
    "taskStats": {
     "full_troll": {
      "points": 320, 
@@ -214,7 +238,7 @@
      "time": 1573249875
     }, 
     "i_shall_never_be_anything": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573274949
     }, 
     "the_last_resort": {
@@ -226,8 +250,8 @@
   }, 
   {
    "lastAccept": 1573276570, 
-   "pos": 9, 
-   "score": 905, 
+   "pos": 10, 
+   "score": 893, 
    "taskStats": {
     "full_troll": {
      "points": 320, 
@@ -238,7 +262,7 @@
      "time": 1573276570
     }, 
     "i_shall_never_be_anything": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573274454
     }, 
     "the_last_resort": {
@@ -250,7 +274,7 @@
   }, 
   {
    "lastAccept": 1573249940, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 679, 
    "taskStats": {
     "g00d_b0y": {
@@ -270,7 +294,7 @@
   }, 
   {
    "lastAccept": 1573261706, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 679, 
    "taskStats": {
     "astrobot": {
@@ -290,7 +314,7 @@
   }, 
   {
    "lastAccept": 1573242319, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 599, 
    "taskStats": {
     "future_message_pt1": {
@@ -310,7 +334,7 @@
   }, 
   {
    "lastAccept": 1573249792, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 599, 
    "taskStats": {
     "future_message_pt1": {
@@ -330,7 +354,7 @@
   }, 
   {
    "lastAccept": 1573245898, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 585, 
    "taskStats": {
     "g00d_b0y": {
@@ -349,68 +373,8 @@
    "team": "[USP] Ganesh"
   }, 
   {
-   "lastAccept": 1573252744, 
-   "pos": 15, 
-   "score": 585, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 108, 
-     "time": 1573248084
-    }, 
-    "i_shall_never_be_anything": {
-     "points": 406, 
-     "time": 1573252744
-    }, 
-    "the_last_resort": {
-     "points": 71, 
-     "time": 1573234301
-    }
-   }, 
-   "team": "room2042"
-  }, 
-  {
-   "lastAccept": 1573266763, 
-   "pos": 16, 
-   "score": 585, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 108, 
-     "time": 1573231293
-    }, 
-    "i_shall_never_be_anything": {
-     "points": 406, 
-     "time": 1573266763
-    }, 
-    "the_last_resort": {
-     "points": 71, 
-     "time": 1573232244
-    }
-   }, 
-   "team": "Alephfs"
-  }, 
-  {
-   "lastAccept": 1573280244, 
-   "pos": 17, 
-   "score": 585, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 108, 
-     "time": 1573279739
-    }, 
-    "roots_before_branches": {
-     "points": 406, 
-     "time": 1573280244
-    }, 
-    "the_last_resort": {
-     "points": 71, 
-     "time": 1573266849
-    }
-   }, 
-   "team": "Shellphish Grill Team"
-  }, 
-  {
    "lastAccept": 1573282762, 
-   "pos": 18, 
+   "pos": 16, 
    "score": 585, 
    "taskStats": {
     "g00d_b0y": {
@@ -427,6 +391,46 @@
     }
    }, 
    "team": "Shingeki_No_Chikungunya"
+  }, 
+  {
+   "lastAccept": 1573252744, 
+   "pos": 17, 
+   "score": 573, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 108, 
+     "time": 1573248084
+    }, 
+    "i_shall_never_be_anything": {
+     "points": 394, 
+     "time": 1573252744
+    }, 
+    "the_last_resort": {
+     "points": 71, 
+     "time": 1573234301
+    }
+   }, 
+   "team": "room2042"
+  }, 
+  {
+   "lastAccept": 1573266763, 
+   "pos": 18, 
+   "score": 573, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 108, 
+     "time": 1573231293
+    }, 
+    "i_shall_never_be_anything": {
+     "points": 394, 
+     "time": 1573266763
+    }, 
+    "the_last_resort": {
+     "points": 71, 
+     "time": 1573232244
+    }
+   }, 
+   "team": "Alephfs"
   }, 
   {
    "lastAccept": 1573246734, 
@@ -571,10 +575,10 @@
   {
    "lastAccept": 1573279377, 
    "pos": 26, 
-   "score": 477, 
+   "score": 465, 
    "taskStats": {
     "i_shall_never_be_anything": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573277540
     }, 
     "the_last_resort": {
