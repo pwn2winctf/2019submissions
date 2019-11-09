@@ -1,49 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1573260341, 
+   "lastAccept": 1573309756, 
    "pos": 1, 
-   "score": 2526, 
-   "taskStats": {
-    "full_troll": {
-     "points": 283, 
-     "time": 1573239530
-    }, 
-    "future_message_pt1": {
-     "points": 363, 
-     "time": 1573246480
-    }, 
-    "future_message_pt2": {
-     "points": 474, 
-     "time": 1573257383
-    }, 
-    "future_message_pt3": {
-     "points": 500, 
-     "time": 1573260341
-    }, 
-    "g00d_b0y": {
-     "points": 93, 
-     "time": 1573236673
-    }, 
-    "random_vault": {
-     "points": 383, 
-     "time": 1573243403
-    }, 
-    "roots_before_branches": {
-     "points": 373, 
-     "time": 1573243507
-    }, 
-    "the_last_resort": {
-     "points": 57, 
-     "time": 1573237044
-    }
-   }, 
-   "team": "RPISEC"
-  }, 
-  {
-   "lastAccept": 1573304720, 
-   "pos": 2, 
-   "score": 2366, 
+   "score": 2840, 
    "taskStats": {
     "full_troll": {
      "points": 283, 
@@ -56,6 +16,10 @@
     "future_message_pt2": {
      "points": 474, 
      "time": 1573304720
+    }, 
+    "future_message_pt3": {
+     "points": 474, 
+     "time": 1573309756
     }, 
     "g00d_b0y": {
      "points": 93, 
@@ -79,6 +43,46 @@
     }
    }, 
    "team": "Balsn"
+  }, 
+  {
+   "lastAccept": 1573260341, 
+   "pos": 2, 
+   "score": 2500, 
+   "taskStats": {
+    "full_troll": {
+     "points": 283, 
+     "time": 1573239530
+    }, 
+    "future_message_pt1": {
+     "points": 363, 
+     "time": 1573246480
+    }, 
+    "future_message_pt2": {
+     "points": 474, 
+     "time": 1573257383
+    }, 
+    "future_message_pt3": {
+     "points": 474, 
+     "time": 1573260341
+    }, 
+    "g00d_b0y": {
+     "points": 93, 
+     "time": 1573236673
+    }, 
+    "random_vault": {
+     "points": 383, 
+     "time": 1573243403
+    }, 
+    "roots_before_branches": {
+     "points": 373, 
+     "time": 1573243507
+    }, 
+    "the_last_resort": {
+     "points": 57, 
+     "time": 1573237044
+    }
+   }, 
+   "team": "RPISEC"
   }, 
   {
    "lastAccept": 1573309748, 
