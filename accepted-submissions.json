@@ -1,8 +1,52 @@
 {
  "standings": [
   {
-   "lastAccept": 1573309756, 
+   "lastAccept": 1573319300, 
    "pos": 1, 
+   "score": 2898, 
+   "taskStats": {
+    "full_troll": {
+     "points": 267, 
+     "time": 1573239530
+    }, 
+    "future_message_pt1": {
+     "points": 355, 
+     "time": 1573246480
+    }, 
+    "future_message_pt2": {
+     "points": 453, 
+     "time": 1573257383
+    }, 
+    "future_message_pt3": {
+     "points": 453, 
+     "time": 1573260341
+    }, 
+    "future_message_pt4": {
+     "points": 500, 
+     "time": 1573319300
+    }, 
+    "g00d_b0y": {
+     "points": 91, 
+     "time": 1573236673
+    }, 
+    "random_vault": {
+     "points": 363, 
+     "time": 1573243403
+    }, 
+    "roots_before_branches": {
+     "points": 363, 
+     "time": 1573243507
+    }, 
+    "the_last_resort": {
+     "points": 53, 
+     "time": 1573237044
+    }
+   }, 
+   "team": "RPISEC"
+  }, 
+  {
+   "lastAccept": 1573309756, 
+   "pos": 2, 
    "score": 2724, 
    "taskStats": {
     "full_troll": {
@@ -43,46 +87,6 @@
     }
    }, 
    "team": "Balsn"
-  }, 
-  {
-   "lastAccept": 1573260341, 
-   "pos": 2, 
-   "score": 2398, 
-   "taskStats": {
-    "full_troll": {
-     "points": 267, 
-     "time": 1573239530
-    }, 
-    "future_message_pt1": {
-     "points": 355, 
-     "time": 1573246480
-    }, 
-    "future_message_pt2": {
-     "points": 453, 
-     "time": 1573257383
-    }, 
-    "future_message_pt3": {
-     "points": 453, 
-     "time": 1573260341
-    }, 
-    "g00d_b0y": {
-     "points": 91, 
-     "time": 1573236673
-    }, 
-    "random_vault": {
-     "points": 363, 
-     "time": 1573243403
-    }, 
-    "roots_before_branches": {
-     "points": 363, 
-     "time": 1573243507
-    }, 
-    "the_last_resort": {
-     "points": 53, 
-     "time": 1573237044
-    }
-   }, 
-   "team": "RPISEC"
   }, 
   {
    "lastAccept": 1573316547, 
@@ -3235,6 +3239,7 @@
   "future_message_pt2", 
   "future_message_pt3", 
   "astrobot", 
-  "baby_recruiter"
+  "baby_recruiter", 
+  "future_message_pt4"
  ]
 }
