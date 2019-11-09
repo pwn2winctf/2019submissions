@@ -2735,6 +2735,18 @@
     }
    }, 
    "team": "ustadYUSUF"
+  }, 
+  {
+   "lastAccept": 1573294067, 
+   "pos": 172, 
+   "score": 65, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 65, 
+     "time": 1573294067
+    }
+   }, 
+   "team": "Spotless"
   }
  ], 
  "tasks": [
