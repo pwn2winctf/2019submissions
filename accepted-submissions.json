@@ -3563,6 +3563,18 @@
     }
    }, 
    "team": "Mars Explorer"
+  }, 
+  {
+   "lastAccept": 1573343109, 
+   "pos": 205, 
+   "score": 50, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573343109
+    }
+   }, 
+   "team": "ScarletAndGrey"
   }
  ], 
  "tasks": [
