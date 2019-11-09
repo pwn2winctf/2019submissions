@@ -62,5 +62,9 @@
  {
   "msg": "Future Message challenges are not ok, we will fix it asap", 
   "time": 1573276962
+ }, 
+ {
+  "msg": "[AstroBot] Alternative IP with better latency for brazilians teams: 200.136.213.39", 
+  "time": 1573294928
  }
 ]
