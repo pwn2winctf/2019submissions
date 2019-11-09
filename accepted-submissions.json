@@ -2335,6 +2335,18 @@
     }
    }, 
    "team": "furi"
+  }, 
+  {
+   "lastAccept": 1573269993, 
+   "pos": 151, 
+   "score": 80, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 80, 
+     "time": 1573269993
+    }
+   }, 
+   "team": "GRIS"
   }
  ], 
  "tasks": [
