@@ -957,9 +957,9 @@
    "team": "ROPperoni"
   }, 
   {
-   "lastAccept": 1573339593, 
+   "lastAccept": 1573340692, 
    "pos": 33, 
-   "score": 586, 
+   "score": 636, 
    "taskStats": {
     "full_troll": {
      "points": 246, 
@@ -968,6 +968,10 @@
     "random_vault": {
      "points": 340, 
      "time": 1573339593
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573340692
     }
    }, 
    "team": "The Flat Network Society"
