@@ -2787,6 +2787,18 @@
     }
    }, 
    "team": "pwntheTowerOfCrhackers"
+  }, 
+  {
+   "lastAccept": 1573295559, 
+   "pos": 175, 
+   "score": 63, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 63, 
+     "time": 1573295559
+    }
+   }, 
+   "team": "Mbelgedes"
   }
  ], 
  "tasks": [
