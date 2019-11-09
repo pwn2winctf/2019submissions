@@ -3,7 +3,7 @@
   {
    "lastAccept": 1573309756, 
    "pos": 1, 
-   "score": 2835, 
+   "score": 2814, 
    "taskStats": {
     "full_troll": {
      "points": 279, 
@@ -14,7 +14,7 @@
      "time": 1573238181
     }, 
     "future_message_pt2": {
-     "points": 474, 
+     "points": 453, 
      "time": 1573304720
     }, 
     "future_message_pt3": {
@@ -47,7 +47,7 @@
   {
    "lastAccept": 1573260341, 
    "pos": 2, 
-   "score": 2495, 
+   "score": 2474, 
    "taskStats": {
     "full_troll": {
      "points": 279, 
@@ -58,7 +58,7 @@
      "time": 1573246480
     }, 
     "future_message_pt2": {
-     "points": 474, 
+     "points": 453, 
      "time": 1573257383
     }, 
     "future_message_pt3": {
@@ -161,9 +161,9 @@
    "team": "OpenToAll"
   }, 
   {
-   "lastAccept": 1573306326, 
+   "lastAccept": 1573311608, 
    "pos": 5, 
-   "score": 1504, 
+   "score": 1957, 
    "taskStats": {
     "full_troll": {
      "points": 279, 
@@ -172,6 +172,10 @@
     "future_message_pt1": {
      "points": 363, 
      "time": 1573306326
+    }, 
+    "future_message_pt2": {
+     "points": 453, 
+     "time": 1573311608
     }, 
     "g00d_b0y": {
      "points": 93, 
