@@ -3,14 +3,14 @@
   {
    "lastAccept": 1573329006, 
    "pos": 1, 
-   "score": 3038, 
+   "score": 3032, 
    "taskStats": {
     "full_troll": {
      "points": 246, 
      "time": 1573297906
     }, 
     "future_message_pt1": {
-     "points": 326, 
+     "points": 320, 
      "time": 1573306326
     }, 
     "future_message_pt2": {
@@ -95,14 +95,14 @@
   {
    "lastAccept": 1573319300, 
    "pos": 3, 
-   "score": 2730, 
+   "score": 2724, 
    "taskStats": {
     "full_troll": {
      "points": 246, 
      "time": 1573239530
     }, 
     "future_message_pt1": {
-     "points": 326, 
+     "points": 320, 
      "time": 1573246480
     }, 
     "future_message_pt2": {
@@ -139,7 +139,7 @@
   {
    "lastAccept": 1573341266, 
    "pos": 4, 
-   "score": 2657, 
+   "score": 2651, 
    "taskStats": {
     "baby_recruiter": {
      "points": 303, 
@@ -154,7 +154,7 @@
      "time": 1573319006
     }, 
     "future_message_pt1": {
-     "points": 326, 
+     "points": 320, 
      "time": 1573341266
     }, 
     "g00d_b0y": {
@@ -183,14 +183,14 @@
   {
    "lastAccept": 1573309756, 
    "pos": 5, 
-   "score": 2564, 
+   "score": 2558, 
    "taskStats": {
     "full_troll": {
      "points": 246, 
      "time": 1573234004
     }, 
     "future_message_pt1": {
-     "points": 326, 
+     "points": 320, 
      "time": 1573238181
     }, 
     "future_message_pt2": {
@@ -227,7 +227,7 @@
   {
    "lastAccept": 1573339918, 
    "pos": 6, 
-   "score": 2432, 
+   "score": 2426, 
    "taskStats": {
     "baby_recruiter": {
      "points": 303, 
@@ -238,7 +238,7 @@
      "time": 1573274158
     }, 
     "future_message_pt1": {
-     "points": 326, 
+     "points": 320, 
      "time": 1573267925
     }, 
     "future_message_pt2": {
@@ -271,7 +271,7 @@
   {
    "lastAccept": 1573310081, 
    "pos": 7, 
-   "score": 2092, 
+   "score": 2086, 
    "taskStats": {
     "baby_recruiter": {
      "points": 303, 
@@ -282,7 +282,7 @@
      "time": 1573303581
     }, 
     "future_message_pt1": {
-     "points": 326, 
+     "points": 320, 
      "time": 1573307916
     }, 
     "g00d_b0y": {
@@ -311,14 +311,14 @@
   {
    "lastAccept": 1573321316, 
    "pos": 8, 
-   "score": 1507, 
+   "score": 1501, 
    "taskStats": {
     "full_troll": {
      "points": 246, 
      "time": 1573321316
     }, 
     "future_message_pt1": {
-     "points": 326, 
+     "points": 320, 
      "time": 1573321087
     }, 
     "hardware_trojan_pt1": {
@@ -335,14 +335,14 @@
   {
    "lastAccept": 1573324952, 
    "pos": 9, 
-   "score": 1401, 
+   "score": 1395, 
    "taskStats": {
     "full_troll": {
      "points": 246, 
      "time": 1573251448
     }, 
     "future_message_pt1": {
-     "points": 326, 
+     "points": 320, 
      "time": 1573324952
     }, 
     "g00d_b0y": {
@@ -365,36 +365,8 @@
    "team": "STT"
   }, 
   {
-   "lastAccept": 1573335957, 
-   "pos": 10, 
-   "score": 1315, 
-   "taskStats": {
-    "future_message_pt1": {
-     "points": 326, 
-     "time": 1573318213
-    }, 
-    "future_message_pt2": {
-     "points": 420, 
-     "time": 1573325720
-    }, 
-    "future_message_pt3": {
-     "points": 435, 
-     "time": 1573335957
-    }, 
-    "g00d_b0y": {
-     "points": 84, 
-     "time": 1573246963
-    }, 
-    "the_last_resort": {
-     "points": 50, 
-     "time": 1573247291
-    }
-   }, 
-   "team": "Made In MIM"
-  }, 
-  {
    "lastAccept": 1573336993, 
-   "pos": 11, 
+   "pos": 10, 
    "score": 1312, 
    "taskStats": {
     "g00d_b0y": {
@@ -421,16 +393,44 @@
    "team": "mode13h"
   }, 
   {
+   "lastAccept": 1573335957, 
+   "pos": 11, 
+   "score": 1309, 
+   "taskStats": {
+    "future_message_pt1": {
+     "points": 320, 
+     "time": 1573318213
+    }, 
+    "future_message_pt2": {
+     "points": 420, 
+     "time": 1573325720
+    }, 
+    "future_message_pt3": {
+     "points": 435, 
+     "time": 1573335957
+    }, 
+    "g00d_b0y": {
+     "points": 84, 
+     "time": 1573246963
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573247291
+    }
+   }, 
+   "team": "Made In MIM"
+  }, 
+  {
    "lastAccept": 1573334686, 
    "pos": 12, 
-   "score": 1289, 
+   "score": 1283, 
    "taskStats": {
     "federated_sophia": {
      "points": 474, 
      "time": 1573333096
     }, 
     "future_message_pt1": {
-     "points": 326, 
+     "points": 320, 
      "time": 1573334686
     }, 
     "g00d_b0y": {
@@ -479,14 +479,14 @@
   {
    "lastAccept": 1573333930, 
    "pos": 14, 
-   "score": 1118, 
+   "score": 1112, 
    "taskStats": {
     "baby_recruiter": {
      "points": 303, 
      "time": 1573333930
     }, 
     "future_message_pt1": {
-     "points": 326, 
+     "points": 320, 
      "time": 1573304433
     }, 
     "g00d_b0y": {
@@ -647,14 +647,14 @@
   {
    "lastAccept": 1573315065, 
    "pos": 20, 
-   "score": 1014, 
+   "score": 1008, 
    "taskStats": {
     "full_troll": {
      "points": 246, 
      "time": 1573315065
     }, 
     "future_message_pt1": {
-     "points": 326, 
+     "points": 320, 
      "time": 1573242319
     }, 
     "g00d_b0y": {
@@ -673,8 +673,32 @@
    "team": "shablul"
   }, 
   {
-   "lastAccept": 1573331617, 
+   "lastAccept": 1573341427, 
    "pos": 21, 
+   "score": 956, 
+   "taskStats": {
+    "full_troll": {
+     "points": 246, 
+     "time": 1573302958
+    }, 
+    "future_message_pt1": {
+     "points": 320, 
+     "time": 1573341427
+    }, 
+    "random_vault": {
+     "points": 340, 
+     "time": 1573339593
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573340692
+    }
+   }, 
+   "team": "The Flat Network Society"
+  }, 
+  {
+   "lastAccept": 1573331617, 
+   "pos": 22, 
    "score": 942, 
    "taskStats": {
     "g00d_b0y": {
@@ -698,7 +722,7 @@
   }, 
   {
    "lastAccept": 1573313739, 
-   "pos": 22, 
+   "pos": 23, 
    "score": 937, 
    "taskStats": {
     "astrobot": {
@@ -722,7 +746,7 @@
   }, 
   {
    "lastAccept": 1573264269, 
-   "pos": 23, 
+   "pos": 24, 
    "score": 833, 
    "taskStats": {
     "cloud_admin": {
@@ -746,7 +770,7 @@
   }, 
   {
    "lastAccept": 1573303496, 
-   "pos": 24, 
+   "pos": 25, 
    "score": 745, 
    "taskStats": {
     "baby_recruiter": {
@@ -770,7 +794,7 @@
   }, 
   {
    "lastAccept": 1573339656, 
-   "pos": 25, 
+   "pos": 26, 
    "score": 745, 
    "taskStats": {
     "baby_recruiter": {
@@ -794,15 +818,15 @@
   }, 
   {
    "lastAccept": 1573300944, 
-   "pos": 26, 
-   "score": 706, 
+   "pos": 27, 
+   "score": 700, 
    "taskStats": {
     "full_troll": {
      "points": 246, 
      "time": 1573285364
     }, 
     "future_message_pt1": {
-     "points": 326, 
+     "points": 320, 
      "time": 1573300827
     }, 
     "g00d_b0y": {
@@ -818,15 +842,15 @@
   }, 
   {
    "lastAccept": 1573335098, 
-   "pos": 27, 
-   "score": 706, 
+   "pos": 28, 
+   "score": 700, 
    "taskStats": {
     "full_troll": {
      "points": 246, 
      "time": 1573335098
     }, 
     "future_message_pt1": {
-     "points": 326, 
+     "points": 320, 
      "time": 1573249792
     }, 
     "g00d_b0y": {
@@ -842,7 +866,7 @@
   }, 
   {
    "lastAccept": 1573274949, 
-   "pos": 28, 
+   "pos": 29, 
    "score": 688, 
    "taskStats": {
     "full_troll": {
@@ -866,7 +890,7 @@
   }, 
   {
    "lastAccept": 1573276570, 
-   "pos": 29, 
+   "pos": 30, 
    "score": 688, 
    "taskStats": {
     "full_troll": {
@@ -890,7 +914,7 @@
   }, 
   {
    "lastAccept": 1573310821, 
-   "pos": 30, 
+   "pos": 31, 
    "score": 688, 
    "taskStats": {
     "full_troll": {
@@ -914,7 +938,7 @@
   }, 
   {
    "lastAccept": 1573308538, 
-   "pos": 31, 
+   "pos": 32, 
    "score": 683, 
    "taskStats": {
     "baby_recruiter": {
@@ -938,7 +962,7 @@
   }, 
   {
    "lastAccept": 1573334213, 
-   "pos": 32, 
+   "pos": 33, 
    "score": 683, 
    "taskStats": {
     "baby_recruiter": {
@@ -959,26 +983,6 @@
     }
    }, 
    "team": "ROPperoni"
-  }, 
-  {
-   "lastAccept": 1573340692, 
-   "pos": 33, 
-   "score": 636, 
-   "taskStats": {
-    "full_troll": {
-     "points": 246, 
-     "time": 1573302958
-    }, 
-    "random_vault": {
-     "points": 340, 
-     "time": 1573339593
-    }, 
-    "the_last_resort": {
-     "points": 50, 
-     "time": 1573340692
-    }
-   }, 
-   "team": "The Flat Network Society"
   }, 
   {
    "lastAccept": 1573327011, 
@@ -1155,10 +1159,10 @@
   {
    "lastAccept": 1573290287, 
    "pos": 43, 
-   "score": 410, 
+   "score": 404, 
    "taskStats": {
     "future_message_pt1": {
-     "points": 326, 
+     "points": 320, 
      "time": 1573290287
     }, 
     "g00d_b0y": {
