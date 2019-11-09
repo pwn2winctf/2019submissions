@@ -80,15 +80,11 @@
   "time": 1573313748
  }, 
  {
-  "msg": "Hint for Harpa Hyper Login: even quantum Systems are just Linear operators in disguise", 
+  "msg": "Hint for Harpa Hyper Login: even quantum Systems are just Linear operators in disguise. Quantum Information algorithms can be implemented following any convention for the order of qubits in the registers", 
   "time": 1573315631
  }, 
  {
-  "msg": "Hint for Harpa Hyper Login: Quantum Information algorithms can be implemented following any convention for the order of qubits in the registers", 
-  "time": 1573320935
- }, 
- {
-  "msg": "Federated Sophia is not ok now, we are working on it", 
+  "msg": "Federated Sophia main server should be ok now.", 
   "time": 1573322316
  }
 ]
