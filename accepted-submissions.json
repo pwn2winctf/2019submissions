@@ -193,16 +193,40 @@
    "team": "STT"
   }, 
   {
-   "lastAccept": 1573274454, 
+   "lastAccept": 1573274949, 
    "pos": 8, 
-   "score": 856, 
+   "score": 954, 
+   "taskStats": {
+    "full_troll": {
+     "points": 326, 
+     "time": 1573273583
+    }, 
+    "g00d_b0y": {
+     "points": 116, 
+     "time": 1573249875
+    }, 
+    "i_shall_never_be_anything": {
+     "points": 435, 
+     "time": 1573274949
+    }, 
+    "the_last_resort": {
+     "points": 77, 
+     "time": 1573245268
+    }
+   }, 
+   "team": "noraneco"
+  }, 
+  {
+   "lastAccept": 1573274454, 
+   "pos": 9, 
+   "score": 838, 
    "taskStats": {
     "full_troll": {
      "points": 326, 
      "time": 1573268994
     }, 
     "i_shall_never_be_anything": {
-     "points": 453, 
+     "points": 435, 
      "time": 1573274454
     }, 
     "the_last_resort": {
@@ -214,7 +238,7 @@
   }, 
   {
    "lastAccept": 1573249940, 
-   "pos": 9, 
+   "pos": 10, 
    "score": 693, 
    "taskStats": {
     "g00d_b0y": {
@@ -234,7 +258,7 @@
   }, 
   {
    "lastAccept": 1573261706, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 693, 
    "taskStats": {
     "astrobot": {
@@ -254,7 +278,7 @@
   }, 
   {
    "lastAccept": 1573245898, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 646, 
    "taskStats": {
     "g00d_b0y": {
@@ -274,15 +298,15 @@
   }, 
   {
    "lastAccept": 1573252744, 
-   "pos": 12, 
-   "score": 646, 
+   "pos": 13, 
+   "score": 628, 
    "taskStats": {
     "g00d_b0y": {
      "points": 116, 
      "time": 1573248084
     }, 
     "i_shall_never_be_anything": {
-     "points": 453, 
+     "points": 435, 
      "time": 1573252744
     }, 
     "the_last_resort": {
@@ -294,15 +318,15 @@
   }, 
   {
    "lastAccept": 1573266763, 
-   "pos": 13, 
-   "score": 646, 
+   "pos": 14, 
+   "score": 628, 
    "taskStats": {
     "g00d_b0y": {
      "points": 116, 
      "time": 1573231293
     }, 
     "i_shall_never_be_anything": {
-     "points": 453, 
+     "points": 435, 
      "time": 1573266763
     }, 
     "the_last_resort": {
@@ -314,7 +338,7 @@
   }, 
   {
    "lastAccept": 1573242319, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 613, 
    "taskStats": {
     "future_message_pt1": {
@@ -334,7 +358,7 @@
   }, 
   {
    "lastAccept": 1573249792, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 613, 
    "taskStats": {
     "future_message_pt1": {
@@ -354,7 +378,7 @@
   }, 
   {
    "lastAccept": 1573246734, 
-   "pos": 16, 
+   "pos": 17, 
    "score": 519, 
    "taskStats": {
     "full_troll": {
@@ -374,7 +398,7 @@
   }, 
   {
    "lastAccept": 1573248757, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 519, 
    "taskStats": {
     "full_troll": {
@@ -394,7 +418,7 @@
   }, 
   {
    "lastAccept": 1573254269, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 519, 
    "taskStats": {
     "full_troll": {
@@ -414,7 +438,7 @@
   }, 
   {
    "lastAccept": 1573256190, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 519, 
    "taskStats": {
     "full_troll": {
@@ -434,7 +458,7 @@
   }, 
   {
    "lastAccept": 1573273540, 
-   "pos": 20, 
+   "pos": 21, 
    "score": 519, 
    "taskStats": {
     "full_troll": {
@@ -454,7 +478,7 @@
   }, 
   {
    "lastAccept": 1573273571, 
-   "pos": 21, 
+   "pos": 22, 
    "score": 519, 
    "taskStats": {
     "full_troll": {
@@ -471,26 +495,6 @@
     }
    }, 
    "team": "10sec"
-  }, 
-  {
-   "lastAccept": 1573273583, 
-   "pos": 22, 
-   "score": 519, 
-   "taskStats": {
-    "full_troll": {
-     "points": 326, 
-     "time": 1573273583
-    }, 
-    "g00d_b0y": {
-     "points": 116, 
-     "time": 1573249875
-    }, 
-    "the_last_resort": {
-     "points": 77, 
-     "time": 1573245268
-    }
-   }, 
-   "team": "noraneco"
   }, 
   {
    "lastAccept": 1573274298, 
