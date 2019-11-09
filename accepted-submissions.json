@@ -3,7 +3,7 @@
   {
    "lastAccept": 1573260341, 
    "pos": 1, 
-   "score": 2589, 
+   "score": 2563, 
    "taskStats": {
     "full_troll": {
      "points": 288, 
@@ -14,7 +14,7 @@
      "time": 1573246480
     }, 
     "future_message_pt2": {
-     "points": 500, 
+     "points": 474, 
      "time": 1573257383
     }, 
     "future_message_pt3": {
@@ -41,9 +41,9 @@
    "team": "RPISEC"
   }, 
   {
-   "lastAccept": 1573283838, 
+   "lastAccept": 1573304720, 
    "pos": 2, 
-   "score": 1952, 
+   "score": 2426, 
    "taskStats": {
     "full_troll": {
      "points": 288, 
@@ -52,6 +52,10 @@
     "future_message_pt1": {
      "points": 383, 
      "time": 1573238181
+    }, 
+    "future_message_pt2": {
+     "points": 474, 
+     "time": 1573304720
     }, 
     "g00d_b0y": {
      "points": 94, 
