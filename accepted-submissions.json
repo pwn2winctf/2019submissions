@@ -87,10 +87,10 @@
   {
    "lastAccept": 1573310081, 
    "pos": 3, 
-   "score": 2353, 
+   "score": 2342, 
    "taskStats": {
     "baby_recruiter": {
-     "points": 394, 
+     "points": 383, 
      "time": 1573310081
     }, 
     "full_troll": {
@@ -313,8 +313,32 @@
    "team": "10sec"
   }, 
   {
-   "lastAccept": 1573304433, 
+   "lastAccept": 1573313739, 
    "pos": 10, 
+   "score": 1031, 
+   "taskStats": {
+    "astrobot": {
+     "points": 500, 
+     "time": 1573261706
+    }, 
+    "baby_recruiter": {
+     "points": 383, 
+     "time": 1573313739
+    }, 
+    "g00d_b0y": {
+     "points": 93, 
+     "time": 1573232011
+    }, 
+    "the_last_resort": {
+     "points": 55, 
+     "time": 1573231908
+    }
+   }, 
+   "team": "MV9rwGOf08"
+  }, 
+  {
+   "lastAccept": 1573304433, 
+   "pos": 11, 
    "score": 884, 
    "taskStats": {
     "future_message_pt1": {
@@ -338,7 +362,7 @@
   }, 
   {
    "lastAccept": 1573264269, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 876, 
    "taskStats": {
     "cloud_admin": {
@@ -362,11 +386,11 @@
   }, 
   {
    "lastAccept": 1573303496, 
-   "pos": 12, 
-   "score": 868, 
+   "pos": 13, 
+   "score": 857, 
    "taskStats": {
     "baby_recruiter": {
-     "points": 394, 
+     "points": 383, 
      "time": 1573303496
     }, 
     "g00d_b0y": {
@@ -386,11 +410,11 @@
   }, 
   {
    "lastAccept": 1573304656, 
-   "pos": 13, 
-   "score": 868, 
+   "pos": 14, 
+   "score": 857, 
    "taskStats": {
     "baby_recruiter": {
-     "points": 394, 
+     "points": 383, 
      "time": 1573293790
     }, 
     "g00d_b0y": {
@@ -410,7 +434,7 @@
   }, 
   {
    "lastAccept": 1573287427, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 847, 
    "taskStats": {
     "g00d_b0y": {
@@ -434,7 +458,7 @@
   }, 
   {
    "lastAccept": 1573309546, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 837, 
    "taskStats": {
     "future_message_pt1": {
@@ -458,11 +482,11 @@
   }, 
   {
    "lastAccept": 1573306226, 
-   "pos": 16, 
-   "score": 817, 
+   "pos": 17, 
+   "score": 806, 
    "taskStats": {
     "baby_recruiter": {
-     "points": 394, 
+     "points": 383, 
      "time": 1573305348
     }, 
     "full_troll": {
@@ -482,11 +506,11 @@
   }, 
   {
    "lastAccept": 1573308538, 
-   "pos": 17, 
-   "score": 817, 
+   "pos": 18, 
+   "score": 806, 
    "taskStats": {
     "baby_recruiter": {
-     "points": 394, 
+     "points": 383, 
      "time": 1573308538
     }, 
     "full_troll": {
@@ -506,7 +530,7 @@
   }, 
   {
    "lastAccept": 1573264446, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 796, 
    "taskStats": {
     "full_troll": {
@@ -530,7 +554,7 @@
   }, 
   {
    "lastAccept": 1573300944, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 786, 
    "taskStats": {
     "full_troll": {
@@ -554,7 +578,7 @@
   }, 
   {
    "lastAccept": 1573274949, 
-   "pos": 20, 
+   "pos": 21, 
    "score": 749, 
    "taskStats": {
     "full_troll": {
@@ -578,7 +602,7 @@
   }, 
   {
    "lastAccept": 1573276570, 
-   "pos": 21, 
+   "pos": 22, 
    "score": 749, 
    "taskStats": {
     "full_troll": {
@@ -602,7 +626,7 @@
   }, 
   {
    "lastAccept": 1573310821, 
-   "pos": 22, 
+   "pos": 23, 
    "score": 749, 
    "taskStats": {
     "full_troll": {
@@ -626,7 +650,7 @@
   }, 
   {
    "lastAccept": 1573249940, 
-   "pos": 23, 
+   "pos": 24, 
    "score": 648, 
    "taskStats": {
     "g00d_b0y": {
@@ -645,32 +669,12 @@
    "team": "mode13h"
   }, 
   {
-   "lastAccept": 1573261706, 
-   "pos": 24, 
-   "score": 648, 
-   "taskStats": {
-    "astrobot": {
-     "points": 500, 
-     "time": 1573261706
-    }, 
-    "g00d_b0y": {
-     "points": 93, 
-     "time": 1573232011
-    }, 
-    "the_last_resort": {
-     "points": 55, 
-     "time": 1573231908
-    }
-   }, 
-   "team": "MV9rwGOf08"
-  }, 
-  {
    "lastAccept": 1573312673, 
    "pos": 25, 
-   "score": 542, 
+   "score": 531, 
    "taskStats": {
     "baby_recruiter": {
-     "points": 394, 
+     "points": 383, 
      "time": 1573312673
     }, 
     "g00d_b0y": {
@@ -783,10 +787,10 @@
   {
    "lastAccept": 1573303881, 
    "pos": 31, 
-   "score": 449, 
+   "score": 438, 
    "taskStats": {
     "baby_recruiter": {
-     "points": 394, 
+     "points": 383, 
      "time": 1573303546
     }, 
     "the_last_resort": {
