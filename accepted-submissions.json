@@ -3535,6 +3535,18 @@
     }
    }, 
    "team": "Jennycitos"
+  }, 
+  {
+   "lastAccept": 1573340341, 
+   "pos": 204, 
+   "score": 50, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573340341
+    }
+   }, 
+   "team": "Mars Explorer"
   }
  ], 
  "tasks": [
