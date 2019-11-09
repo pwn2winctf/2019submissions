@@ -2839,6 +2839,18 @@
     }
    }, 
    "team": "Mbelgedes"
+  }, 
+  {
+   "lastAccept": 1573297530, 
+   "pos": 178, 
+   "score": 61, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 61, 
+     "time": 1573297530
+    }
+   }, 
+   "team": "413x01"
   }
  ], 
  "tasks": [
