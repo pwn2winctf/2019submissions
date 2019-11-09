@@ -3,7 +3,7 @@
   {
    "lastAccept": 1573319300, 
    "pos": 1, 
-   "score": 2847, 
+   "score": 2829, 
    "taskStats": {
     "full_troll": {
      "points": 260, 
@@ -14,7 +14,7 @@
      "time": 1573246480
     }, 
     "future_message_pt2": {
-     "points": 453, 
+     "points": 435, 
      "time": 1573257383
     }, 
     "future_message_pt3": {
@@ -47,7 +47,7 @@
   {
    "lastAccept": 1573324228, 
    "pos": 2, 
-   "score": 2810, 
+   "score": 2792, 
    "taskStats": {
     "full_troll": {
      "points": 260, 
@@ -58,7 +58,7 @@
      "time": 1573306326
     }, 
     "future_message_pt2": {
-     "points": 453, 
+     "points": 435, 
      "time": 1573311608
     }, 
     "future_message_pt3": {
@@ -91,7 +91,7 @@
   {
    "lastAccept": 1573309756, 
    "pos": 3, 
-   "score": 2699, 
+   "score": 2681, 
    "taskStats": {
     "full_troll": {
      "points": 260, 
@@ -102,7 +102,7 @@
      "time": 1573238181
     }, 
     "future_message_pt2": {
-     "points": 453, 
+     "points": 435, 
      "time": 1573304720
     }, 
     "future_message_pt3": {
@@ -473,8 +473,32 @@
    "team": "MV9rwGOf08"
   }, 
   {
-   "lastAccept": 1573264269, 
+   "lastAccept": 1573325720, 
    "pos": 15, 
+   "score": 916, 
+   "taskStats": {
+    "future_message_pt1": {
+     "points": 340, 
+     "time": 1573318213
+    }, 
+    "future_message_pt2": {
+     "points": 435, 
+     "time": 1573325720
+    }, 
+    "g00d_b0y": {
+     "points": 91, 
+     "time": 1573246963
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573247291
+    }
+   }, 
+   "team": "Made In MIM"
+  }, 
+  {
+   "lastAccept": 1573264269, 
+   "pos": 16, 
    "score": 854, 
    "taskStats": {
     "cloud_admin": {
@@ -498,7 +522,7 @@
   }, 
   {
    "lastAccept": 1573304433, 
-   "pos": 16, 
+   "pos": 17, 
    "score": 844, 
    "taskStats": {
     "future_message_pt1": {
@@ -522,7 +546,7 @@
   }, 
   {
    "lastAccept": 1573287427, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 830, 
    "taskStats": {
     "g00d_b0y": {
@@ -546,7 +570,7 @@
   }, 
   {
    "lastAccept": 1573303496, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 807, 
    "taskStats": {
     "baby_recruiter": {
@@ -570,7 +594,7 @@
   }, 
   {
    "lastAccept": 1573304656, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 807, 
    "taskStats": {
     "baby_recruiter": {
@@ -594,7 +618,7 @@
   }, 
   {
    "lastAccept": 1573300944, 
-   "pos": 20, 
+   "pos": 21, 
    "score": 741, 
    "taskStats": {
     "full_troll": {
@@ -618,7 +642,7 @@
   }, 
   {
    "lastAccept": 1573308538, 
-   "pos": 21, 
+   "pos": 22, 
    "score": 741, 
    "taskStats": {
     "baby_recruiter": {
@@ -642,7 +666,7 @@
   }, 
   {
    "lastAccept": 1573322982, 
-   "pos": 22, 
+   "pos": 23, 
    "score": 741, 
    "taskStats": {
     "baby_recruiter": {
@@ -666,7 +690,7 @@
   }, 
   {
    "lastAccept": 1573274949, 
-   "pos": 23, 
+   "pos": 24, 
    "score": 727, 
    "taskStats": {
     "full_troll": {
@@ -690,7 +714,7 @@
   }, 
   {
    "lastAccept": 1573276570, 
-   "pos": 24, 
+   "pos": 25, 
    "score": 727, 
    "taskStats": {
     "full_troll": {
@@ -714,7 +738,7 @@
   }, 
   {
    "lastAccept": 1573310821, 
-   "pos": 25, 
+   "pos": 26, 
    "score": 727, 
    "taskStats": {
     "full_troll": {
@@ -738,7 +762,7 @@
   }, 
   {
    "lastAccept": 1573316630, 
-   "pos": 26, 
+   "pos": 27, 
    "score": 650, 
    "taskStats": {
     "baby_recruiter": {
@@ -758,7 +782,7 @@
   }, 
   {
    "lastAccept": 1573249940, 
-   "pos": 27, 
+   "pos": 28, 
    "score": 594, 
    "taskStats": {
     "g00d_b0y": {
@@ -778,7 +802,7 @@
   }, 
   {
    "lastAccept": 1573282762, 
-   "pos": 28, 
+   "pos": 29, 
    "score": 504, 
    "taskStats": {
     "g00d_b0y": {
@@ -798,7 +822,7 @@
   }, 
   {
    "lastAccept": 1573307462, 
-   "pos": 29, 
+   "pos": 30, 
    "score": 504, 
    "taskStats": {
     "g00d_b0y": {
@@ -818,7 +842,7 @@
   }, 
   {
    "lastAccept": 1573319944, 
-   "pos": 30, 
+   "pos": 31, 
    "score": 503, 
    "taskStats": {
     "random_crypto": {
@@ -834,7 +858,7 @@
   }, 
   {
    "lastAccept": 1573324488, 
-   "pos": 31, 
+   "pos": 32, 
    "score": 503, 
    "taskStats": {
     "real_ec": {
@@ -850,7 +874,7 @@
   }, 
   {
    "lastAccept": 1573249792, 
-   "pos": 32, 
+   "pos": 33, 
    "score": 481, 
    "taskStats": {
     "future_message_pt1": {
@@ -870,7 +894,7 @@
   }, 
   {
    "lastAccept": 1573312673, 
-   "pos": 33, 
+   "pos": 34, 
    "score": 481, 
    "taskStats": {
     "baby_recruiter": {
@@ -890,7 +914,7 @@
   }, 
   {
    "lastAccept": 1573316280, 
-   "pos": 34, 
+   "pos": 35, 
    "score": 481, 
    "taskStats": {
     "baby_recruiter": {
@@ -910,7 +934,7 @@
   }, 
   {
    "lastAccept": 1573317875, 
-   "pos": 35, 
+   "pos": 36, 
    "score": 481, 
    "taskStats": {
     "baby_recruiter": {
@@ -927,26 +951,6 @@
     }
    }, 
    "team": "VSCOPWN"
-  }, 
-  {
-   "lastAccept": 1573318213, 
-   "pos": 36, 
-   "score": 481, 
-   "taskStats": {
-    "future_message_pt1": {
-     "points": 340, 
-     "time": 1573318213
-    }, 
-    "g00d_b0y": {
-     "points": 91, 
-     "time": 1573246963
-    }, 
-    "the_last_resort": {
-     "points": 50, 
-     "time": 1573247291
-    }
-   }, 
-   "team": "Made In MIM"
   }, 
   {
    "lastAccept": 1573266763, 
