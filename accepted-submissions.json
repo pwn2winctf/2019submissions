@@ -3,10 +3,10 @@
   {
    "lastAccept": 1573260341, 
    "pos": 1, 
-   "score": 2834, 
+   "score": 2827, 
    "taskStats": {
     "full_troll": {
-     "points": 333, 
+     "points": 326, 
      "time": 1573239530
     }, 
     "future_message_pt1": {
@@ -43,10 +43,10 @@
   {
    "lastAccept": 1573274158, 
    "pos": 2, 
-   "score": 1399, 
+   "score": 1392, 
    "taskStats": {
     "full_troll": {
-     "points": 333, 
+     "points": 326, 
      "time": 1573274158
     }, 
     "future_message_pt1": {
@@ -71,10 +71,10 @@
   {
    "lastAccept": 1573239514, 
    "pos": 3, 
-   "score": 1381, 
+   "score": 1374, 
    "taskStats": {
     "full_troll": {
-     "points": 333, 
+     "points": 326, 
      "time": 1573234004
     }, 
     "future_message_pt1": {
@@ -147,14 +147,14 @@
   {
    "lastAccept": 1573264269, 
    "pos": 6, 
-   "score": 979, 
+   "score": 972, 
    "taskStats": {
     "cloud_admin": {
      "points": 453, 
      "time": 1573255853
     }, 
     "full_troll": {
-     "points": 333, 
+     "points": 326, 
      "time": 1573264269
     }, 
     "g00d_b0y": {
@@ -171,10 +171,10 @@
   {
    "lastAccept": 1573264446, 
    "pos": 7, 
-   "score": 961, 
+   "score": 954, 
    "taskStats": {
     "full_troll": {
-     "points": 333, 
+     "points": 326, 
      "time": 1573251448
     }, 
     "g00d_b0y": {
@@ -335,10 +335,10 @@
   {
    "lastAccept": 1573246734, 
    "pos": 15, 
-   "score": 526, 
+   "score": 519, 
    "taskStats": {
     "full_troll": {
-     "points": 333, 
+     "points": 326, 
      "time": 1573246734
     }, 
     "g00d_b0y": {
@@ -355,10 +355,10 @@
   {
    "lastAccept": 1573248757, 
    "pos": 16, 
-   "score": 526, 
+   "score": 519, 
    "taskStats": {
     "full_troll": {
-     "points": 333, 
+     "points": 326, 
      "time": 1573248757
     }, 
     "g00d_b0y": {
@@ -375,10 +375,10 @@
   {
    "lastAccept": 1573254269, 
    "pos": 17, 
-   "score": 526, 
+   "score": 519, 
    "taskStats": {
     "full_troll": {
-     "points": 333, 
+     "points": 326, 
      "time": 1573252690
     }, 
     "g00d_b0y": {
@@ -395,10 +395,10 @@
   {
    "lastAccept": 1573256190, 
    "pos": 18, 
-   "score": 526, 
+   "score": 519, 
    "taskStats": {
     "full_troll": {
-     "points": 333, 
+     "points": 326, 
      "time": 1573256190
     }, 
     "g00d_b0y": {
@@ -415,10 +415,10 @@
   {
    "lastAccept": 1573273540, 
    "pos": 19, 
-   "score": 526, 
+   "score": 519, 
    "taskStats": {
     "full_troll": {
-     "points": 333, 
+     "points": 326, 
      "time": 1573273060
     }, 
     "g00d_b0y": {
@@ -435,10 +435,10 @@
   {
    "lastAccept": 1573273571, 
    "pos": 20, 
-   "score": 526, 
+   "score": 519, 
    "taskStats": {
     "full_troll": {
-     "points": 333, 
+     "points": 326, 
      "time": 1573273571
     }, 
     "g00d_b0y": {
@@ -455,10 +455,10 @@
   {
    "lastAccept": 1573273583, 
    "pos": 21, 
-   "score": 526, 
+   "score": 519, 
    "taskStats": {
     "full_troll": {
-     "points": 333, 
+     "points": 326, 
      "time": 1573273583
     }, 
     "g00d_b0y": {
@@ -473,12 +473,32 @@
    "team": "noraneco"
   }, 
   {
-   "lastAccept": 1573268661, 
+   "lastAccept": 1573274298, 
    "pos": 22, 
-   "score": 410, 
+   "score": 519, 
    "taskStats": {
     "full_troll": {
-     "points": 333, 
+     "points": 326, 
+     "time": 1573274298
+    }, 
+    "g00d_b0y": {
+     "points": 116, 
+     "time": 1573232019
+    }, 
+    "the_last_resort": {
+     "points": 77, 
+     "time": 1573231370
+    }
+   }, 
+   "team": "******"
+  }, 
+  {
+   "lastAccept": 1573268661, 
+   "pos": 23, 
+   "score": 403, 
+   "taskStats": {
+    "full_troll": {
+     "points": 326, 
      "time": 1573268661
     }, 
     "the_last_resort": {
@@ -490,11 +510,11 @@
   }, 
   {
    "lastAccept": 1573268994, 
-   "pos": 23, 
-   "score": 410, 
+   "pos": 24, 
+   "score": 403, 
    "taskStats": {
     "full_troll": {
-     "points": 333, 
+     "points": 326, 
      "time": 1573268994
     }, 
     "the_last_resort": {
@@ -506,7 +526,7 @@
   }, 
   {
    "lastAccept": 1573231287, 
-   "pos": 24, 
+   "pos": 25, 
    "score": 193, 
    "taskStats": {
     "g00d_b0y": {
@@ -522,7 +542,7 @@
   }, 
   {
    "lastAccept": 1573231332, 
-   "pos": 25, 
+   "pos": 26, 
    "score": 193, 
    "taskStats": {
     "g00d_b0y": {
@@ -538,7 +558,7 @@
   }, 
   {
    "lastAccept": 1573231373, 
-   "pos": 26, 
+   "pos": 27, 
    "score": 193, 
    "taskStats": {
     "g00d_b0y": {
@@ -554,7 +574,7 @@
   }, 
   {
    "lastAccept": 1573231385, 
-   "pos": 27, 
+   "pos": 28, 
    "score": 193, 
    "taskStats": {
     "g00d_b0y": {
@@ -570,7 +590,7 @@
   }, 
   {
    "lastAccept": 1573231432, 
-   "pos": 28, 
+   "pos": 29, 
    "score": 193, 
    "taskStats": {
     "g00d_b0y": {
@@ -586,7 +606,7 @@
   }, 
   {
    "lastAccept": 1573231501, 
-   "pos": 29, 
+   "pos": 30, 
    "score": 193, 
    "taskStats": {
     "g00d_b0y": {
@@ -602,7 +622,7 @@
   }, 
   {
    "lastAccept": 1573231520, 
-   "pos": 30, 
+   "pos": 31, 
    "score": 193, 
    "taskStats": {
     "g00d_b0y": {
@@ -618,7 +638,7 @@
   }, 
   {
    "lastAccept": 1573231583, 
-   "pos": 31, 
+   "pos": 32, 
    "score": 193, 
    "taskStats": {
     "g00d_b0y": {
@@ -634,7 +654,7 @@
   }, 
   {
    "lastAccept": 1573231603, 
-   "pos": 32, 
+   "pos": 33, 
    "score": 193, 
    "taskStats": {
     "g00d_b0y": {
@@ -650,7 +670,7 @@
   }, 
   {
    "lastAccept": 1573231619, 
-   "pos": 33, 
+   "pos": 34, 
    "score": 193, 
    "taskStats": {
     "g00d_b0y": {
@@ -666,7 +686,7 @@
   }, 
   {
    "lastAccept": 1573231629, 
-   "pos": 34, 
+   "pos": 35, 
    "score": 193, 
    "taskStats": {
     "g00d_b0y": {
@@ -682,7 +702,7 @@
   }, 
   {
    "lastAccept": 1573231640, 
-   "pos": 35, 
+   "pos": 36, 
    "score": 193, 
    "taskStats": {
     "g00d_b0y": {
@@ -698,7 +718,7 @@
   }, 
   {
    "lastAccept": 1573231792, 
-   "pos": 36, 
+   "pos": 37, 
    "score": 193, 
    "taskStats": {
     "g00d_b0y": {
@@ -714,7 +734,7 @@
   }, 
   {
    "lastAccept": 1573231833, 
-   "pos": 37, 
+   "pos": 38, 
    "score": 193, 
    "taskStats": {
     "g00d_b0y": {
@@ -730,7 +750,7 @@
   }, 
   {
    "lastAccept": 1573231995, 
-   "pos": 38, 
+   "pos": 39, 
    "score": 193, 
    "taskStats": {
     "g00d_b0y": {
@@ -743,22 +763,6 @@
     }
    }, 
    "team": "Bisounours"
-  }, 
-  {
-   "lastAccept": 1573232019, 
-   "pos": 39, 
-   "score": 193, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 116, 
-     "time": 1573232019
-    }, 
-    "the_last_resort": {
-     "points": 77, 
-     "time": 1573231370
-    }
-   }, 
-   "team": "******"
   }, 
   {
    "lastAccept": 1573232211, 
