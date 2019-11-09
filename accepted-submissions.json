@@ -2423,6 +2423,18 @@
     }
    }, 
    "team": "c6a7"
+  }, 
+  {
+   "lastAccept": 1573274652, 
+   "pos": 155, 
+   "score": 77, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 77, 
+     "time": 1573274652
+    }
+   }, 
+   "team": "\u0430\u043f\u0435\u043b\u044c\u0441\u0438\u043d"
   }
  ], 
  "tasks": [
