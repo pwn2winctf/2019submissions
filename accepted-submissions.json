@@ -2695,6 +2695,18 @@
     }
    }, 
    "team": "NIS"
+  }, 
+  {
+   "lastAccept": 1573293769, 
+   "pos": 169, 
+   "score": 67, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 67, 
+     "time": 1573293769
+    }
+   }, 
+   "team": "vubar"
   }
  ], 
  "tasks": [
