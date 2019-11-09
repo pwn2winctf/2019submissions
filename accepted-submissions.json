@@ -3203,6 +3203,18 @@
     }
    }, 
    "team": "MYAGER"
+  }, 
+  {
+   "lastAccept": 1573318354, 
+   "pos": 192, 
+   "score": 53, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 53, 
+     "time": 1573318354
+    }
+   }, 
+   "team": "wine"
   }
  ], 
  "tasks": [
