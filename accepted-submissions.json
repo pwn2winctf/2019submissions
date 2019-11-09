@@ -521,13 +521,17 @@
    "team": "******"
   }, 
   {
-   "lastAccept": 1573277540, 
+   "lastAccept": 1573279377, 
    "pos": 24, 
-   "score": 420, 
+   "score": 494, 
    "taskStats": {
     "i_shall_never_be_anything": {
      "points": 420, 
      "time": 1573277540
+    }, 
+    "the_last_resort": {
+     "points": 74, 
+     "time": 1573279377
     }
    }, 
    "team": "nizkkk"
