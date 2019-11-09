@@ -3,7 +3,7 @@
   {
    "lastAccept": 1573260341, 
    "pos": 1, 
-   "score": 2884, 
+   "score": 2866, 
    "taskStats": {
     "full_troll": {
      "points": 363, 
@@ -26,7 +26,7 @@
      "time": 1573236673
     }, 
     "random_vault": {
-     "points": 453, 
+     "points": 435, 
      "time": 1573243403
     }, 
     "roots_before_branches": {
@@ -43,7 +43,7 @@
   {
    "lastAccept": 1573239514, 
    "pos": 2, 
-   "score": 1431, 
+   "score": 1413, 
    "taskStats": {
     "full_troll": {
      "points": 363, 
@@ -58,7 +58,7 @@
      "time": 1573231449
     }, 
     "random_vault": {
-     "points": 453, 
+     "points": 435, 
      "time": 1573239514
     }, 
     "the_last_resort": {
@@ -93,8 +93,32 @@
    "team": "OpenToAll"
   }, 
   {
-   "lastAccept": 1573267925, 
+   "lastAccept": 1573272164, 
    "pos": 4, 
+   "score": 1083, 
+   "taskStats": {
+    "cloud_admin": {
+     "points": 453, 
+     "time": 1573247229
+    }, 
+    "g00d_b0y": {
+     "points": 117, 
+     "time": 1573240151
+    }, 
+    "random_vault": {
+     "points": 435, 
+     "time": 1573272164
+    }, 
+    "the_last_resort": {
+     "points": 78, 
+     "time": 1573233165
+    }
+   }, 
+   "team": "justCatTheFish"
+  }, 
+  {
+   "lastAccept": 1573267925, 
+   "pos": 5, 
    "score": 1068, 
    "taskStats": {
     "future_message_pt1": {
@@ -118,7 +142,7 @@
   }, 
   {
    "lastAccept": 1573264269, 
-   "pos": 5, 
+   "pos": 6, 
    "score": 1011, 
    "taskStats": {
     "cloud_admin": {
@@ -142,8 +166,8 @@
   }, 
   {
    "lastAccept": 1573264446, 
-   "pos": 6, 
-   "score": 1011, 
+   "pos": 7, 
+   "score": 993, 
    "taskStats": {
     "full_troll": {
      "points": 363, 
@@ -154,7 +178,7 @@
      "time": 1573235169
     }, 
     "random_vault": {
-     "points": 453, 
+     "points": 435, 
      "time": 1573264446
     }, 
     "the_last_resort": {
@@ -166,7 +190,7 @@
   }, 
   {
    "lastAccept": 1573249940, 
-   "pos": 7, 
+   "pos": 8, 
    "score": 695, 
    "taskStats": {
     "g00d_b0y": {
@@ -186,7 +210,7 @@
   }, 
   {
    "lastAccept": 1573261706, 
-   "pos": 8, 
+   "pos": 9, 
    "score": 695, 
    "taskStats": {
     "astrobot": {
@@ -206,7 +230,7 @@
   }, 
   {
    "lastAccept": 1573252744, 
-   "pos": 9, 
+   "pos": 10, 
    "score": 669, 
    "taskStats": {
     "g00d_b0y": {
@@ -226,7 +250,7 @@
   }, 
   {
    "lastAccept": 1573266763, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 669, 
    "taskStats": {
     "g00d_b0y": {
@@ -246,7 +270,7 @@
   }, 
   {
    "lastAccept": 1573245898, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 648, 
    "taskStats": {
     "g00d_b0y": {
@@ -263,26 +287,6 @@
     }
    }, 
    "team": "[USP] Ganesh"
-  }, 
-  {
-   "lastAccept": 1573247229, 
-   "pos": 12, 
-   "score": 648, 
-   "taskStats": {
-    "cloud_admin": {
-     "points": 453, 
-     "time": 1573247229
-    }, 
-    "g00d_b0y": {
-     "points": 117, 
-     "time": 1573240151
-    }, 
-    "the_last_resort": {
-     "points": 78, 
-     "time": 1573233165
-    }
-   }, 
-   "team": "justCatTheFish"
   }, 
   {
    "lastAccept": 1573242319, 
