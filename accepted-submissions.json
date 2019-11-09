@@ -2871,6 +2871,18 @@
     }
    }, 
    "team": "flatbrew coalition"
+  }, 
+  {
+   "lastAccept": 1573299913, 
+   "pos": 180, 
+   "score": 60, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 60, 
+     "time": 1573299913
+    }
+   }, 
+   "team": "\ud835\ude65\ud835\ude5e\ud835\ude6f\ud835\ude6f\ud835\ude56\ud835\ude69\ud835\ude66\ud835\ude61 \u0295 \u2022\u0301\u0608\u2022\u0300)"
   }
  ], 
  "tasks": [
