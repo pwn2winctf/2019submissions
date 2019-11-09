@@ -3,14 +3,14 @@
   {
    "lastAccept": 1573260341, 
    "pos": 1, 
-   "score": 2557, 
+   "score": 2547, 
    "taskStats": {
     "full_troll": {
      "points": 283, 
      "time": 1573239530
     }, 
     "future_message_pt1": {
-     "points": 383, 
+     "points": 373, 
      "time": 1573246480
     }, 
     "future_message_pt2": {
@@ -43,14 +43,14 @@
   {
    "lastAccept": 1573304720, 
    "pos": 2, 
-   "score": 2420, 
+   "score": 2410, 
    "taskStats": {
     "full_troll": {
      "points": 283, 
      "time": 1573234004
     }, 
     "future_message_pt1": {
-     "points": 383, 
+     "points": 373, 
      "time": 1573238181
     }, 
     "future_message_pt2": {
@@ -145,8 +145,40 @@
    "team": "CL34R"
   }, 
   {
-   "lastAccept": 1573304226, 
+   "lastAccept": 1573306326, 
    "pos": 5, 
+   "score": 1553, 
+   "taskStats": {
+    "full_troll": {
+     "points": 283, 
+     "time": 1573297906
+    }, 
+    "future_message_pt1": {
+     "points": 373, 
+     "time": 1573306326
+    }, 
+    "g00d_b0y": {
+     "points": 93, 
+     "time": 1573232182
+    }, 
+    "i_shall_never_be_anything": {
+     "points": 363, 
+     "time": 1573297409
+    }, 
+    "roots_before_branches": {
+     "points": 383, 
+     "time": 1573303521
+    }, 
+    "the_last_resort": {
+     "points": 58, 
+     "time": 1573231332
+    }
+   }, 
+   "team": "$wag"
+  }, 
+  {
+   "lastAccept": 1573304226, 
+   "pos": 6, 
    "score": 1370, 
    "taskStats": {
     "cloud_admin": {
@@ -174,15 +206,15 @@
   }, 
   {
    "lastAccept": 1573274158, 
-   "pos": 6, 
-   "score": 1200, 
+   "pos": 7, 
+   "score": 1190, 
    "taskStats": {
     "full_troll": {
      "points": 283, 
      "time": 1573274158
     }, 
     "future_message_pt1": {
-     "points": 383, 
+     "points": 373, 
      "time": 1573267925
     }, 
     "g00d_b0y": {
@@ -199,34 +231,6 @@
     }
    }, 
    "team": "FireShell"
-  }, 
-  {
-   "lastAccept": 1573303521, 
-   "pos": 7, 
-   "score": 1180, 
-   "taskStats": {
-    "full_troll": {
-     "points": 283, 
-     "time": 1573297906
-    }, 
-    "g00d_b0y": {
-     "points": 93, 
-     "time": 1573232182
-    }, 
-    "i_shall_never_be_anything": {
-     "points": 363, 
-     "time": 1573297409
-    }, 
-    "roots_before_branches": {
-     "points": 383, 
-     "time": 1573303521
-    }, 
-    "the_last_resort": {
-     "points": 58, 
-     "time": 1573231332
-    }
-   }, 
-   "team": "$wag"
   }, 
   {
    "lastAccept": 1573303496, 
@@ -279,10 +283,10 @@
   {
    "lastAccept": 1573304433, 
    "pos": 10, 
-   "score": 917, 
+   "score": 907, 
    "taskStats": {
     "future_message_pt1": {
-     "points": 383, 
+     "points": 373, 
      "time": 1573304433
     }, 
     "g00d_b0y": {
@@ -421,32 +425,8 @@
    "team": "LEGOFAN"
   }, 
   {
-   "lastAccept": 1573300944, 
-   "pos": 16, 
-   "score": 817, 
-   "taskStats": {
-    "full_troll": {
-     "points": 283, 
-     "time": 1573285364
-    }, 
-    "future_message_pt1": {
-     "points": 383, 
-     "time": 1573300827
-    }, 
-    "g00d_b0y": {
-     "points": 93, 
-     "time": 1573300944
-    }, 
-    "the_last_resort": {
-     "points": 58, 
-     "time": 1573265479
-    }
-   }, 
-   "team": "efiens"
-  }, 
-  {
    "lastAccept": 1573302745, 
-   "pos": 17, 
+   "pos": 16, 
    "score": 817, 
    "taskStats": {
     "full_troll": {
@@ -467,6 +447,30 @@
     }
    }, 
    "team": "10sec"
+  }, 
+  {
+   "lastAccept": 1573300944, 
+   "pos": 17, 
+   "score": 807, 
+   "taskStats": {
+    "full_troll": {
+     "points": 283, 
+     "time": 1573285364
+    }, 
+    "future_message_pt1": {
+     "points": 373, 
+     "time": 1573300827
+    }, 
+    "g00d_b0y": {
+     "points": 93, 
+     "time": 1573300944
+    }, 
+    "the_last_resort": {
+     "points": 58, 
+     "time": 1573265479
+    }
+   }, 
+   "team": "efiens"
   }, 
   {
    "lastAccept": 1573274949, 
@@ -557,48 +561,8 @@
    "team": "MV9rwGOf08"
   }, 
   {
-   "lastAccept": 1573242319, 
-   "pos": 22, 
-   "score": 534, 
-   "taskStats": {
-    "future_message_pt1": {
-     "points": 383, 
-     "time": 1573242319
-    }, 
-    "g00d_b0y": {
-     "points": 93, 
-     "time": 1573234691
-    }, 
-    "the_last_resort": {
-     "points": 58, 
-     "time": 1573233239
-    }
-   }, 
-   "team": "shablul"
-  }, 
-  {
-   "lastAccept": 1573249792, 
-   "pos": 23, 
-   "score": 534, 
-   "taskStats": {
-    "future_message_pt1": {
-     "points": 383, 
-     "time": 1573249792
-    }, 
-    "g00d_b0y": {
-     "points": 93, 
-     "time": 1573231639
-    }, 
-    "the_last_resort": {
-     "points": 58, 
-     "time": 1573231689
-    }
-   }, 
-   "team": "teampowerprinter"
-  }, 
-  {
    "lastAccept": 1573282762, 
-   "pos": 24, 
+   "pos": 22, 
    "score": 534, 
    "taskStats": {
     "g00d_b0y": {
@@ -615,6 +579,46 @@
     }
    }, 
    "team": "Shingeki_No_Chikungunya"
+  }, 
+  {
+   "lastAccept": 1573242319, 
+   "pos": 23, 
+   "score": 524, 
+   "taskStats": {
+    "future_message_pt1": {
+     "points": 373, 
+     "time": 1573242319
+    }, 
+    "g00d_b0y": {
+     "points": 93, 
+     "time": 1573234691
+    }, 
+    "the_last_resort": {
+     "points": 58, 
+     "time": 1573233239
+    }
+   }, 
+   "team": "shablul"
+  }, 
+  {
+   "lastAccept": 1573249792, 
+   "pos": 24, 
+   "score": 524, 
+   "taskStats": {
+    "future_message_pt1": {
+     "points": 373, 
+     "time": 1573249792
+    }, 
+    "g00d_b0y": {
+     "points": 93, 
+     "time": 1573231639
+    }, 
+    "the_last_resort": {
+     "points": 58, 
+     "time": 1573231689
+    }
+   }, 
+   "team": "teampowerprinter"
   }, 
   {
    "lastAccept": 1573266763, 
@@ -655,10 +659,10 @@
   {
    "lastAccept": 1573290287, 
    "pos": 27, 
-   "score": 476, 
+   "score": 466, 
    "taskStats": {
     "future_message_pt1": {
-     "points": 383, 
+     "points": 373, 
      "time": 1573290287
     }, 
     "g00d_b0y": {
