@@ -127,10 +127,10 @@
   {
    "lastAccept": 1573310081, 
    "pos": 4, 
-   "score": 2305, 
+   "score": 2297, 
    "taskStats": {
     "baby_recruiter": {
-     "points": 363, 
+     "points": 355, 
      "time": 1573310081
     }, 
     "full_troll": {
@@ -261,36 +261,8 @@
    "team": "justCatTheFish"
   }, 
   {
-   "lastAccept": 1573315311, 
-   "pos": 8, 
-   "score": 1142, 
-   "taskStats": {
-    "baby_recruiter": {
-     "points": 363, 
-     "time": 1573305348
-    }, 
-    "full_troll": {
-     "points": 271, 
-     "time": 1573305108
-    }, 
-    "g00d_b0y": {
-     "points": 91, 
-     "time": 1573306226
-    }, 
-    "random_vault": {
-     "points": 363, 
-     "time": 1573315311
-    }, 
-    "the_last_resort": {
-     "points": 54, 
-     "time": 1573295176
-    }
-   }, 
-   "team": "pwntheTowerOfCrhackers"
-  }, 
-  {
    "lastAccept": 1573317680, 
-   "pos": 9, 
+   "pos": 8, 
    "score": 1142, 
    "taskStats": {
     "full_troll": {
@@ -315,6 +287,34 @@
     }
    }, 
    "team": "STT"
+  }, 
+  {
+   "lastAccept": 1573315311, 
+   "pos": 9, 
+   "score": 1134, 
+   "taskStats": {
+    "baby_recruiter": {
+     "points": 355, 
+     "time": 1573305348
+    }, 
+    "full_troll": {
+     "points": 271, 
+     "time": 1573305108
+    }, 
+    "g00d_b0y": {
+     "points": 91, 
+     "time": 1573306226
+    }, 
+    "random_vault": {
+     "points": 363, 
+     "time": 1573315311
+    }, 
+    "the_last_resort": {
+     "points": 54, 
+     "time": 1573295176
+    }
+   }, 
+   "team": "pwntheTowerOfCrhackers"
   }, 
   {
    "lastAccept": 1573313247, 
@@ -403,14 +403,14 @@
   {
    "lastAccept": 1573313739, 
    "pos": 13, 
-   "score": 1008, 
+   "score": 1000, 
    "taskStats": {
     "astrobot": {
      "points": 500, 
      "time": 1573261706
     }, 
     "baby_recruiter": {
-     "points": 363, 
+     "points": 355, 
      "time": 1573313739
     }, 
     "g00d_b0y": {
@@ -499,10 +499,10 @@
   {
    "lastAccept": 1573303496, 
    "pos": 17, 
-   "score": 834, 
+   "score": 826, 
    "taskStats": {
     "baby_recruiter": {
-     "points": 363, 
+     "points": 355, 
      "time": 1573303496
     }, 
     "g00d_b0y": {
@@ -523,10 +523,10 @@
   {
    "lastAccept": 1573304656, 
    "pos": 18, 
-   "score": 834, 
+   "score": 826, 
    "taskStats": {
     "baby_recruiter": {
-     "points": 363, 
+     "points": 355, 
      "time": 1573293790
     }, 
     "g00d_b0y": {
@@ -571,10 +571,10 @@
   {
    "lastAccept": 1573308538, 
    "pos": 20, 
-   "score": 779, 
+   "score": 771, 
    "taskStats": {
     "baby_recruiter": {
-     "points": 363, 
+     "points": 355, 
      "time": 1573308538
     }, 
     "full_troll": {
@@ -667,10 +667,10 @@
   {
    "lastAccept": 1573316630, 
    "pos": 24, 
-   "score": 688, 
+   "score": 680, 
    "taskStats": {
     "baby_recruiter": {
-     "points": 363, 
+     "points": 355, 
      "time": 1573316630
     }, 
     "full_troll": {
@@ -767,10 +767,10 @@
   {
    "lastAccept": 1573312673, 
    "pos": 29, 
-   "score": 508, 
+   "score": 500, 
    "taskStats": {
     "baby_recruiter": {
-     "points": 363, 
+     "points": 355, 
      "time": 1573312673
     }, 
     "g00d_b0y": {
@@ -787,10 +787,10 @@
   {
    "lastAccept": 1573316280, 
    "pos": 30, 
-   "score": 508, 
+   "score": 500, 
    "taskStats": {
     "baby_recruiter": {
-     "points": 363, 
+     "points": 355, 
      "time": 1573316280
     }, 
     "g00d_b0y": {
@@ -805,8 +805,28 @@
    "team": "flagbot"
   }, 
   {
-   "lastAccept": 1573266763, 
+   "lastAccept": 1573317875, 
    "pos": 31, 
+   "score": 500, 
+   "taskStats": {
+    "baby_recruiter": {
+     "points": 355, 
+     "time": 1573317875
+    }, 
+    "g00d_b0y": {
+     "points": 91, 
+     "time": 1573231640
+    }, 
+    "the_last_resort": {
+     "points": 54, 
+     "time": 1573231751
+    }
+   }, 
+   "team": "VSCOPWN"
+  }, 
+  {
+   "lastAccept": 1573266763, 
+   "pos": 32, 
    "score": 471, 
    "taskStats": {
     "g00d_b0y": {
@@ -826,7 +846,7 @@
   }, 
   {
    "lastAccept": 1573290287, 
-   "pos": 32, 
+   "pos": 33, 
    "score": 454, 
    "taskStats": {
     "future_message_pt1": {
@@ -839,22 +859,6 @@
     }
    }, 
    "team": "Harekaze"
-  }, 
-  {
-   "lastAccept": 1573303881, 
-   "pos": 33, 
-   "score": 417, 
-   "taskStats": {
-    "baby_recruiter": {
-     "points": 363, 
-     "time": 1573303546
-    }, 
-    "the_last_resort": {
-     "points": 54, 
-     "time": 1573303881
-    }
-   }, 
-   "team": "entr0py"
   }, 
   {
    "lastAccept": 1573246734, 
@@ -977,8 +981,24 @@
    "team": "CSI"
   }, 
   {
-   "lastAccept": 1573279377, 
+   "lastAccept": 1573303881, 
    "pos": 40, 
+   "score": 409, 
+   "taskStats": {
+    "baby_recruiter": {
+     "points": 355, 
+     "time": 1573303546
+    }, 
+    "the_last_resort": {
+     "points": 54, 
+     "time": 1573303881
+    }
+   }, 
+   "team": "entr0py"
+  }, 
+  {
+   "lastAccept": 1573279377, 
+   "pos": 41, 
    "score": 380, 
    "taskStats": {
     "i_shall_never_be_anything": {
@@ -994,7 +1014,7 @@
   }, 
   {
    "lastAccept": 1573312902, 
-   "pos": 41, 
+   "pos": 42, 
    "score": 325, 
    "taskStats": {
     "full_troll": {
@@ -1010,7 +1030,7 @@
   }, 
   {
    "lastAccept": 1573302958, 
-   "pos": 42, 
+   "pos": 43, 
    "score": 271, 
    "taskStats": {
     "full_troll": {
@@ -1022,7 +1042,7 @@
   }, 
   {
    "lastAccept": 1573231287, 
-   "pos": 43, 
+   "pos": 44, 
    "score": 145, 
    "taskStats": {
     "g00d_b0y": {
@@ -1038,7 +1058,7 @@
   }, 
   {
    "lastAccept": 1573231373, 
-   "pos": 44, 
+   "pos": 45, 
    "score": 145, 
    "taskStats": {
     "g00d_b0y": {
@@ -1054,7 +1074,7 @@
   }, 
   {
    "lastAccept": 1573231385, 
-   "pos": 45, 
+   "pos": 46, 
    "score": 145, 
    "taskStats": {
     "g00d_b0y": {
@@ -1070,7 +1090,7 @@
   }, 
   {
    "lastAccept": 1573231432, 
-   "pos": 46, 
+   "pos": 47, 
    "score": 145, 
    "taskStats": {
     "g00d_b0y": {
@@ -1086,7 +1106,7 @@
   }, 
   {
    "lastAccept": 1573231501, 
-   "pos": 47, 
+   "pos": 48, 
    "score": 145, 
    "taskStats": {
     "g00d_b0y": {
@@ -1102,7 +1122,7 @@
   }, 
   {
    "lastAccept": 1573231520, 
-   "pos": 48, 
+   "pos": 49, 
    "score": 145, 
    "taskStats": {
     "g00d_b0y": {
@@ -1118,7 +1138,7 @@
   }, 
   {
    "lastAccept": 1573231583, 
-   "pos": 49, 
+   "pos": 50, 
    "score": 145, 
    "taskStats": {
     "g00d_b0y": {
@@ -1134,7 +1154,7 @@
   }, 
   {
    "lastAccept": 1573231603, 
-   "pos": 50, 
+   "pos": 51, 
    "score": 145, 
    "taskStats": {
     "g00d_b0y": {
@@ -1150,7 +1170,7 @@
   }, 
   {
    "lastAccept": 1573231629, 
-   "pos": 51, 
+   "pos": 52, 
    "score": 145, 
    "taskStats": {
     "g00d_b0y": {
@@ -1163,22 +1183,6 @@
     }
    }, 
    "team": "technic"
-  }, 
-  {
-   "lastAccept": 1573231640, 
-   "pos": 52, 
-   "score": 145, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 91, 
-     "time": 1573231640
-    }, 
-    "the_last_resort": {
-     "points": 54, 
-     "time": 1573231751
-    }
-   }, 
-   "team": "VSCOPWN"
   }, 
   {
    "lastAccept": 1573231792, 
