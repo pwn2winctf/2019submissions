@@ -3,14 +3,14 @@
   {
    "lastAccept": 1573319300, 
    "pos": 1, 
-   "score": 2854, 
+   "score": 2847, 
    "taskStats": {
     "full_troll": {
      "points": 260, 
      "time": 1573239530
     }, 
     "future_message_pt1": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573246480
     }, 
     "future_message_pt2": {
@@ -47,14 +47,14 @@
   {
    "lastAccept": 1573324228, 
    "pos": 2, 
-   "score": 2817, 
+   "score": 2810, 
    "taskStats": {
     "full_troll": {
      "points": 260, 
      "time": 1573297906
     }, 
     "future_message_pt1": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573306326
     }, 
     "future_message_pt2": {
@@ -91,14 +91,14 @@
   {
    "lastAccept": 1573309756, 
    "pos": 3, 
-   "score": 2706, 
+   "score": 2699, 
    "taskStats": {
     "full_troll": {
      "points": 260, 
      "time": 1573234004
     }, 
     "future_message_pt1": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573238181
     }, 
     "future_message_pt2": {
@@ -175,7 +175,7 @@
   {
    "lastAccept": 1573310081, 
    "pos": 5, 
-   "score": 2237, 
+   "score": 2230, 
    "taskStats": {
     "baby_recruiter": {
      "points": 347, 
@@ -186,7 +186,7 @@
      "time": 1573303581
     }, 
     "future_message_pt1": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573307916
     }, 
     "g00d_b0y": {
@@ -247,14 +247,14 @@
   {
    "lastAccept": 1573321316, 
    "pos": 7, 
-   "score": 1560, 
+   "score": 1553, 
    "taskStats": {
     "full_troll": {
      "points": 260, 
      "time": 1573321316
     }, 
     "future_message_pt1": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573321087
     }, 
     "hardware_trojan_pt1": {
@@ -271,14 +271,14 @@
   {
    "lastAccept": 1573312350, 
    "pos": 8, 
-   "score": 1474, 
+   "score": 1467, 
    "taskStats": {
     "full_troll": {
      "points": 260, 
      "time": 1573274158
     }, 
     "future_message_pt1": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573267925
     }, 
     "g00d_b0y": {
@@ -301,13 +301,17 @@
    "team": "FireShell"
   }, 
   {
-   "lastAccept": 1573317680, 
+   "lastAccept": 1573324952, 
    "pos": 9, 
-   "score": 1127, 
+   "score": 1467, 
    "taskStats": {
     "full_troll": {
      "points": 260, 
      "time": 1573251448
+    }, 
+    "future_message_pt1": {
+     "points": 340, 
+     "time": 1573324952
     }, 
     "g00d_b0y": {
      "points": 91, 
@@ -415,14 +419,14 @@
   {
    "lastAccept": 1573315065, 
    "pos": 13, 
-   "score": 1074, 
+   "score": 1067, 
    "taskStats": {
     "full_troll": {
      "points": 260, 
      "time": 1573315065
     }, 
     "future_message_pt1": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573242319
     }, 
     "g00d_b0y": {
@@ -491,10 +495,10 @@
   {
    "lastAccept": 1573304433, 
    "pos": 16, 
-   "score": 851, 
+   "score": 844, 
    "taskStats": {
     "future_message_pt1": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573304433
     }, 
     "g00d_b0y": {
@@ -585,32 +589,8 @@
    "team": "vm00s3"
   }, 
   {
-   "lastAccept": 1573300944, 
-   "pos": 20, 
-   "score": 748, 
-   "taskStats": {
-    "full_troll": {
-     "points": 260, 
-     "time": 1573285364
-    }, 
-    "future_message_pt1": {
-     "points": 347, 
-     "time": 1573300827
-    }, 
-    "g00d_b0y": {
-     "points": 91, 
-     "time": 1573300944
-    }, 
-    "the_last_resort": {
-     "points": 50, 
-     "time": 1573265479
-    }
-   }, 
-   "team": "efiens"
-  }, 
-  {
    "lastAccept": 1573308538, 
-   "pos": 21, 
+   "pos": 20, 
    "score": 748, 
    "taskStats": {
     "baby_recruiter": {
@@ -634,7 +614,7 @@
   }, 
   {
    "lastAccept": 1573322982, 
-   "pos": 22, 
+   "pos": 21, 
    "score": 748, 
    "taskStats": {
     "baby_recruiter": {
@@ -655,6 +635,30 @@
     }
    }, 
    "team": "NoPwnIntended"
+  }, 
+  {
+   "lastAccept": 1573300944, 
+   "pos": 22, 
+   "score": 741, 
+   "taskStats": {
+    "full_troll": {
+     "points": 260, 
+     "time": 1573285364
+    }, 
+    "future_message_pt1": {
+     "points": 340, 
+     "time": 1573300827
+    }, 
+    "g00d_b0y": {
+     "points": 91, 
+     "time": 1573300944
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573265479
+    }
+   }, 
+   "team": "efiens"
   }, 
   {
    "lastAccept": 1573274949, 
@@ -841,28 +845,8 @@
    "team": "Kernel Sanders,"
   }, 
   {
-   "lastAccept": 1573249792, 
-   "pos": 32, 
-   "score": 488, 
-   "taskStats": {
-    "future_message_pt1": {
-     "points": 347, 
-     "time": 1573249792
-    }, 
-    "g00d_b0y": {
-     "points": 91, 
-     "time": 1573231639
-    }, 
-    "the_last_resort": {
-     "points": 50, 
-     "time": 1573231689
-    }
-   }, 
-   "team": "teampowerprinter"
-  }, 
-  {
    "lastAccept": 1573312673, 
-   "pos": 33, 
+   "pos": 32, 
    "score": 488, 
    "taskStats": {
     "baby_recruiter": {
@@ -882,7 +866,7 @@
   }, 
   {
    "lastAccept": 1573316280, 
-   "pos": 34, 
+   "pos": 33, 
    "score": 488, 
    "taskStats": {
     "baby_recruiter": {
@@ -902,7 +886,7 @@
   }, 
   {
    "lastAccept": 1573317875, 
-   "pos": 35, 
+   "pos": 34, 
    "score": 488, 
    "taskStats": {
     "baby_recruiter": {
@@ -921,12 +905,32 @@
    "team": "VSCOPWN"
   }, 
   {
-   "lastAccept": 1573318213, 
-   "pos": 36, 
-   "score": 488, 
+   "lastAccept": 1573249792, 
+   "pos": 35, 
+   "score": 481, 
    "taskStats": {
     "future_message_pt1": {
-     "points": 347, 
+     "points": 340, 
+     "time": 1573249792
+    }, 
+    "g00d_b0y": {
+     "points": 91, 
+     "time": 1573231639
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573231689
+    }
+   }, 
+   "team": "teampowerprinter"
+  }, 
+  {
+   "lastAccept": 1573318213, 
+   "pos": 36, 
+   "score": 481, 
+   "taskStats": {
+    "future_message_pt1": {
+     "points": 340, 
      "time": 1573318213
     }, 
     "g00d_b0y": {
@@ -963,10 +967,10 @@
   {
    "lastAccept": 1573290287, 
    "pos": 38, 
-   "score": 438, 
+   "score": 431, 
    "taskStats": {
     "future_message_pt1": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573290287
     }, 
     "g00d_b0y": {
