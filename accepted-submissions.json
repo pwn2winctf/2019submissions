@@ -941,8 +941,24 @@
    "team": "ROPperoni"
   }, 
   {
-   "lastAccept": 1573302958, 
+   "lastAccept": 1573312902, 
    "pos": 40, 
+   "score": 331, 
+   "taskStats": {
+    "full_troll": {
+     "points": 275, 
+     "time": 1573312467
+    }, 
+    "the_last_resort": {
+     "points": 56, 
+     "time": 1573312902
+    }
+   }, 
+   "team": "Mashiro"
+  }, 
+  {
+   "lastAccept": 1573302958, 
+   "pos": 41, 
    "score": 275, 
    "taskStats": {
     "full_troll": {
@@ -951,18 +967,6 @@
     }
    }, 
    "team": "The Flat Network Society"
-  }, 
-  {
-   "lastAccept": 1573312467, 
-   "pos": 41, 
-   "score": 275, 
-   "taskStats": {
-    "full_troll": {
-     "points": 275, 
-     "time": 1573312467
-    }
-   }, 
-   "team": "Mashiro"
   }, 
   {
    "lastAccept": 1573231287, 
