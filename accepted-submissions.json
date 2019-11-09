@@ -3,7 +3,7 @@
   {
    "lastAccept": 1573319300, 
    "pos": 1, 
-   "score": 2882, 
+   "score": 2856, 
    "taskStats": {
     "full_troll": {
      "points": 260, 
@@ -22,7 +22,7 @@
      "time": 1573260341
     }, 
     "future_message_pt4": {
-     "points": 500, 
+     "points": 474, 
      "time": 1573319300
     }, 
     "g00d_b0y": {
@@ -45,8 +45,52 @@
    "team": "RPISEC"
   }, 
   {
-   "lastAccept": 1573309756, 
+   "lastAccept": 1573324228, 
    "pos": 2, 
+   "score": 2819, 
+   "taskStats": {
+    "full_troll": {
+     "points": 260, 
+     "time": 1573297906
+    }, 
+    "future_message_pt1": {
+     "points": 347, 
+     "time": 1573306326
+    }, 
+    "future_message_pt2": {
+     "points": 453, 
+     "time": 1573311608
+    }, 
+    "future_message_pt3": {
+     "points": 453, 
+     "time": 1573316547
+    }, 
+    "future_message_pt4": {
+     "points": 474, 
+     "time": 1573324228
+    }, 
+    "g00d_b0y": {
+     "points": 91, 
+     "time": 1573232182
+    }, 
+    "i_shall_never_be_anything": {
+     "points": 326, 
+     "time": 1573297409
+    }, 
+    "roots_before_branches": {
+     "points": 363, 
+     "time": 1573303521
+    }, 
+    "the_last_resort": {
+     "points": 52, 
+     "time": 1573231332
+    }
+   }, 
+   "team": "$wag"
+  }, 
+  {
+   "lastAccept": 1573309756, 
+   "pos": 3, 
    "score": 2708, 
    "taskStats": {
     "full_troll": {
@@ -87,46 +131,6 @@
     }
    }, 
    "team": "Balsn"
-  }, 
-  {
-   "lastAccept": 1573316547, 
-   "pos": 3, 
-   "score": 2345, 
-   "taskStats": {
-    "full_troll": {
-     "points": 260, 
-     "time": 1573297906
-    }, 
-    "future_message_pt1": {
-     "points": 347, 
-     "time": 1573306326
-    }, 
-    "future_message_pt2": {
-     "points": 453, 
-     "time": 1573311608
-    }, 
-    "future_message_pt3": {
-     "points": 453, 
-     "time": 1573316547
-    }, 
-    "g00d_b0y": {
-     "points": 91, 
-     "time": 1573232182
-    }, 
-    "i_shall_never_be_anything": {
-     "points": 326, 
-     "time": 1573297409
-    }, 
-    "roots_before_branches": {
-     "points": 363, 
-     "time": 1573303521
-    }, 
-    "the_last_resort": {
-     "points": 52, 
-     "time": 1573231332
-    }
-   }, 
-   "team": "$wag"
   }, 
   {
    "lastAccept": 1573310081, 
