@@ -2187,6 +2187,18 @@
     }
    }, 
    "team": "Kernel Sanders,"
+  }, 
+  {
+   "lastAccept": 1573262837, 
+   "pos": 142, 
+   "score": 88, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 88, 
+     "time": 1573262837
+    }
+   }, 
+   "team": "polygl0ts"
   }
  ], 
  "tasks": [
