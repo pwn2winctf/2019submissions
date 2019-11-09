@@ -86,5 +86,9 @@
  {
   "msg": "Hint for Harpa Hyper Login: Quantum Information algorithms can be implemented following any convention for the order of qubits in the registers", 
   "time": 1573320935
+ }, 
+ {
+  "msg": "Federated Sophia is not ok now, we are working on it", 
+  "time": 1573322316
  }
 ]
