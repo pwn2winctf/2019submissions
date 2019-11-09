@@ -533,8 +533,32 @@
    "team": "MV9rwGOf08"
   }, 
   {
-   "lastAccept": 1573325720, 
+   "lastAccept": 1573331617, 
    "pos": 17, 
+   "score": 964, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 88, 
+     "time": 1573231293
+    }, 
+    "i_shall_never_be_anything": {
+     "points": 326, 
+     "time": 1573266763
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573232244
+    }, 
+    "vamos_pra_russia": {
+     "points": 500, 
+     "time": 1573331617
+    }
+   }, 
+   "team": "Alephfs"
+  }, 
+  {
+   "lastAccept": 1573325720, 
+   "pos": 18, 
    "score": 913, 
    "taskStats": {
     "future_message_pt1": {
@@ -558,7 +582,7 @@
   }, 
   {
    "lastAccept": 1573264269, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 844, 
    "taskStats": {
     "cloud_admin": {
@@ -582,7 +606,7 @@
   }, 
   {
    "lastAccept": 1573304433, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 833, 
    "taskStats": {
     "future_message_pt1": {
@@ -606,7 +630,7 @@
   }, 
   {
    "lastAccept": 1573287427, 
-   "pos": 20, 
+   "pos": 21, 
    "score": 819, 
    "taskStats": {
     "g00d_b0y": {
@@ -630,7 +654,7 @@
   }, 
   {
    "lastAccept": 1573303496, 
-   "pos": 21, 
+   "pos": 22, 
    "score": 797, 
    "taskStats": {
     "baby_recruiter": {
@@ -654,7 +678,7 @@
   }, 
   {
    "lastAccept": 1573300944, 
-   "pos": 22, 
+   "pos": 23, 
    "score": 731, 
    "taskStats": {
     "full_troll": {
@@ -678,7 +702,7 @@
   }, 
   {
    "lastAccept": 1573308538, 
-   "pos": 23, 
+   "pos": 24, 
    "score": 724, 
    "taskStats": {
     "baby_recruiter": {
@@ -702,7 +726,7 @@
   }, 
   {
    "lastAccept": 1573322982, 
-   "pos": 24, 
+   "pos": 25, 
    "score": 724, 
    "taskStats": {
     "baby_recruiter": {
@@ -726,7 +750,7 @@
   }, 
   {
    "lastAccept": 1573274949, 
-   "pos": 25, 
+   "pos": 26, 
    "score": 717, 
    "taskStats": {
     "full_troll": {
@@ -750,7 +774,7 @@
   }, 
   {
    "lastAccept": 1573276570, 
-   "pos": 26, 
+   "pos": 27, 
    "score": 717, 
    "taskStats": {
     "full_troll": {
@@ -774,7 +798,7 @@
   }, 
   {
    "lastAccept": 1573310821, 
-   "pos": 27, 
+   "pos": 28, 
    "score": 717, 
    "taskStats": {
     "full_troll": {
@@ -798,7 +822,7 @@
   }, 
   {
    "lastAccept": 1573316630, 
-   "pos": 28, 
+   "pos": 29, 
    "score": 636, 
    "taskStats": {
     "baby_recruiter": {
@@ -818,7 +842,7 @@
   }, 
   {
    "lastAccept": 1573327011, 
-   "pos": 29, 
+   "pos": 30, 
    "score": 573, 
    "taskStats": {
     "g00d_b0y": {
@@ -838,7 +862,7 @@
   }, 
   {
    "lastAccept": 1573282762, 
-   "pos": 30, 
+   "pos": 31, 
    "score": 493, 
    "taskStats": {
     "g00d_b0y": {
@@ -858,7 +882,7 @@
   }, 
   {
    "lastAccept": 1573307462, 
-   "pos": 31, 
+   "pos": 32, 
    "score": 493, 
    "taskStats": {
     "g00d_b0y": {
@@ -878,7 +902,7 @@
   }, 
   {
    "lastAccept": 1573319944, 
-   "pos": 32, 
+   "pos": 33, 
    "score": 485, 
    "taskStats": {
     "random_crypto": {
@@ -894,7 +918,7 @@
   }, 
   {
    "lastAccept": 1573324488, 
-   "pos": 33, 
+   "pos": 34, 
    "score": 485, 
    "taskStats": {
     "real_ec": {
@@ -910,7 +934,7 @@
   }, 
   {
    "lastAccept": 1573249792, 
-   "pos": 34, 
+   "pos": 35, 
    "score": 478, 
    "taskStats": {
     "future_message_pt1": {
@@ -930,7 +954,7 @@
   }, 
   {
    "lastAccept": 1573312673, 
-   "pos": 35, 
+   "pos": 36, 
    "score": 471, 
    "taskStats": {
     "baby_recruiter": {
@@ -950,7 +974,7 @@
   }, 
   {
    "lastAccept": 1573316280, 
-   "pos": 36, 
+   "pos": 37, 
    "score": 471, 
    "taskStats": {
     "baby_recruiter": {
@@ -970,7 +994,7 @@
   }, 
   {
    "lastAccept": 1573317875, 
-   "pos": 37, 
+   "pos": 38, 
    "score": 471, 
    "taskStats": {
     "baby_recruiter": {
@@ -990,7 +1014,7 @@
   }, 
   {
    "lastAccept": 1573329139, 
-   "pos": 38, 
+   "pos": 39, 
    "score": 471, 
    "taskStats": {
     "baby_recruiter": {
@@ -1007,26 +1031,6 @@
     }
    }, 
    "team": "SIGFLAG"
-  }, 
-  {
-   "lastAccept": 1573266763, 
-   "pos": 39, 
-   "score": 464, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 88, 
-     "time": 1573231293
-    }, 
-    "i_shall_never_be_anything": {
-     "points": 326, 
-     "time": 1573266763
-    }, 
-    "the_last_resort": {
-     "points": 50, 
-     "time": 1573232244
-    }
-   }, 
-   "team": "Alephfs"
   }, 
   {
    "lastAccept": 1573290287, 
@@ -3443,6 +3447,7 @@
   "future_message_pt4", 
   "hardware_trojan_pt1", 
   "rmbellious", 
-  "federated_sophia"
+  "federated_sophia", 
+  "vamos_pra_russia"
  ]
 }
