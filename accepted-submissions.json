@@ -51,7 +51,7 @@
   {
    "lastAccept": 1573329006, 
    "pos": 2, 
-   "score": 2998, 
+   "score": 2984, 
    "taskStats": {
     "full_troll": {
      "points": 243, 
@@ -62,7 +62,7 @@
      "time": 1573306326
     }, 
     "future_message_pt2": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573311608
     }, 
     "future_message_pt3": {
@@ -99,7 +99,7 @@
   {
    "lastAccept": 1573344701, 
    "pos": 3, 
-   "score": 2817, 
+   "score": 2803, 
    "taskStats": {
     "baby_recruiter": {
      "points": 293, 
@@ -114,7 +114,7 @@
      "time": 1573267925
     }, 
     "future_message_pt2": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573332650
     }, 
     "future_message_pt3": {
@@ -147,7 +147,7 @@
   {
    "lastAccept": 1573319300, 
    "pos": 4, 
-   "score": 2700, 
+   "score": 2686, 
    "taskStats": {
     "full_troll": {
      "points": 243, 
@@ -158,7 +158,7 @@
      "time": 1573246480
     }, 
     "future_message_pt2": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573257383
     }, 
     "future_message_pt3": {
@@ -235,7 +235,7 @@
   {
    "lastAccept": 1573309756, 
    "pos": 6, 
-   "score": 2524, 
+   "score": 2510, 
    "taskStats": {
     "full_troll": {
      "points": 243, 
@@ -246,7 +246,7 @@
      "time": 1573238181
     }, 
     "future_message_pt2": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573304720
     }, 
     "future_message_pt3": {
@@ -277,9 +277,9 @@
    "team": "Balsn"
   }, 
   {
-   "lastAccept": 1573310081, 
+   "lastAccept": 1573349825, 
    "pos": 7, 
-   "score": 2057, 
+   "score": 2463, 
    "taskStats": {
     "baby_recruiter": {
      "points": 293, 
@@ -292,6 +292,10 @@
     "future_message_pt1": {
      "points": 314, 
      "time": 1573307916
+    }, 
+    "future_message_pt2": {
+     "points": 406, 
+     "time": 1573349825
     }, 
     "g00d_b0y": {
      "points": 84, 
@@ -401,36 +405,8 @@
    "team": "mode13h"
   }, 
   {
-   "lastAccept": 1573335957, 
-   "pos": 11, 
-   "score": 1288, 
-   "taskStats": {
-    "future_message_pt1": {
-     "points": 314, 
-     "time": 1573318213
-    }, 
-    "future_message_pt2": {
-     "points": 420, 
-     "time": 1573325720
-    }, 
-    "future_message_pt3": {
-     "points": 420, 
-     "time": 1573335957
-    }, 
-    "g00d_b0y": {
-     "points": 84, 
-     "time": 1573246963
-    }, 
-    "the_last_resort": {
-     "points": 50, 
-     "time": 1573247291
-    }
-   }, 
-   "team": "Made In MIM"
-  }, 
-  {
    "lastAccept": 1573334686, 
-   "pos": 12, 
+   "pos": 11, 
    "score": 1277, 
    "taskStats": {
     "federated_sophia": {
@@ -455,6 +431,34 @@
     }
    }, 
    "team": "\ud835\ude65\ud835\ude5e\ud835\ude6f\ud835\ude6f\ud835\ude56\ud835\ude69\ud835\ude66\ud835\ude61 \u0295 \u2022\u0301\u0608\u2022\u0300)"
+  }, 
+  {
+   "lastAccept": 1573335957, 
+   "pos": 12, 
+   "score": 1274, 
+   "taskStats": {
+    "future_message_pt1": {
+     "points": 314, 
+     "time": 1573318213
+    }, 
+    "future_message_pt2": {
+     "points": 406, 
+     "time": 1573325720
+    }, 
+    "future_message_pt3": {
+     "points": 420, 
+     "time": 1573335957
+    }, 
+    "g00d_b0y": {
+     "points": 84, 
+     "time": 1573246963
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573247291
+    }
+   }, 
+   "team": "Made In MIM"
   }, 
   {
    "lastAccept": 1573348714, 
