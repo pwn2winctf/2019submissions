@@ -51,7 +51,7 @@
   {
    "lastAccept": 1573329006, 
    "pos": 2, 
-   "score": 2949, 
+   "score": 2937, 
    "taskStats": {
     "full_troll": {
      "points": 234, 
@@ -62,7 +62,7 @@
      "time": 1573306326
     }, 
     "future_message_pt2": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573311608
     }, 
     "future_message_pt3": {
@@ -99,7 +99,7 @@
   {
    "lastAccept": 1573351768, 
    "pos": 3, 
-   "score": 2830, 
+   "score": 2818, 
    "taskStats": {
     "baby_recruiter": {
      "points": 275, 
@@ -114,7 +114,7 @@
      "time": 1573307916
     }, 
     "future_message_pt2": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573349825
     }, 
     "future_message_pt3": {
@@ -147,7 +147,7 @@
   {
    "lastAccept": 1573344701, 
    "pos": 4, 
-   "score": 2750, 
+   "score": 2738, 
    "taskStats": {
     "baby_recruiter": {
      "points": 275, 
@@ -162,7 +162,7 @@
      "time": 1573267925
     }, 
     "future_message_pt2": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573332650
     }, 
     "future_message_pt3": {
@@ -195,7 +195,7 @@
   {
    "lastAccept": 1573352175, 
    "pos": 5, 
-   "score": 2750, 
+   "score": 2738, 
    "taskStats": {
     "baby_recruiter": {
      "points": 275, 
@@ -210,7 +210,7 @@
      "time": 1573238181
     }, 
     "future_message_pt2": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573304720
     }, 
     "future_message_pt3": {
@@ -243,7 +243,7 @@
   {
    "lastAccept": 1573319300, 
    "pos": 6, 
-   "score": 2651, 
+   "score": 2639, 
    "taskStats": {
     "full_troll": {
      "points": 234, 
@@ -254,7 +254,7 @@
      "time": 1573246480
     }, 
     "future_message_pt2": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573257383
     }, 
     "future_message_pt3": {
@@ -329,9 +329,9 @@
    "team": "justCatTheFish"
   }, 
   {
-   "lastAccept": 1573351926, 
+   "lastAccept": 1573354812, 
    "pos": 8, 
-   "score": 1660, 
+   "score": 2054, 
    "taskStats": {
     "cloud_admin": {
      "points": 435, 
@@ -344,6 +344,10 @@
     "future_message_pt1": {
      "points": 303, 
      "time": 1573341427
+    }, 
+    "future_message_pt2": {
+     "points": 394, 
+     "time": 1573354812
     }, 
     "i_shall_never_be_anything": {
      "points": 298, 
@@ -507,14 +511,14 @@
   {
    "lastAccept": 1573335957, 
    "pos": 14, 
-   "score": 1248, 
+   "score": 1236, 
    "taskStats": {
     "future_message_pt1": {
      "points": 303, 
      "time": 1573318213
     }, 
     "future_message_pt2": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573325720
     }, 
     "future_message_pt3": {
