@@ -1545,8 +1545,24 @@
    "team": "The Additional Payphones"
   }, 
   {
-   "lastAccept": 1573348175, 
+   "lastAccept": 1573366960, 
    "pos": 59, 
+   "score": 278, 
+   "taskStats": {
+    "full_troll": {
+     "points": 228, 
+     "time": 1573366571
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573366960
+    }
+   }, 
+   "team": "pewpewpew"
+  }, 
+  {
+   "lastAccept": 1573348175, 
+   "pos": 60, 
    "score": 275, 
    "taskStats": {
     "baby_recruiter": {
@@ -1558,7 +1574,7 @@
   }, 
   {
    "lastAccept": 1573320512, 
-   "pos": 60, 
+   "pos": 61, 
    "score": 228, 
    "taskStats": {
     "full_troll": {
@@ -1570,7 +1586,7 @@
   }, 
   {
    "lastAccept": 1573345684, 
-   "pos": 61, 
+   "pos": 62, 
    "score": 228, 
    "taskStats": {
     "full_troll": {
@@ -1579,18 +1595,6 @@
     }
    }, 
    "team": "Dashu"
-  }, 
-  {
-   "lastAccept": 1573366571, 
-   "pos": 62, 
-   "score": 228, 
-   "taskStats": {
-    "full_troll": {
-     "points": 228, 
-     "time": 1573366571
-    }
-   }, 
-   "team": "pewpewpew"
   }, 
   {
    "lastAccept": 1573231287, 
