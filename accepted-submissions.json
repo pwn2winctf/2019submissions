@@ -465,8 +465,40 @@
    "team": "Shellphish Grill Team"
   }, 
   {
-   "lastAccept": 1573321316, 
+   "lastAccept": 1573378620, 
    "pos": 11, 
+   "score": 1464, 
+   "taskStats": {
+    "future_message_pt1": {
+     "points": 303, 
+     "time": 1573342089
+    }, 
+    "future_message_pt2": {
+     "points": 355, 
+     "time": 1573375612
+    }, 
+    "future_message_pt3": {
+     "points": 383, 
+     "time": 1573375656
+    }, 
+    "g00d_b0y": {
+     "points": 80, 
+     "time": 1573378620
+    }, 
+    "i_shall_never_be_anything": {
+     "points": 293, 
+     "time": 1573349057
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573313010
+    }
+   }, 
+   "team": "YoloSw4g"
+  }, 
+  {
+   "lastAccept": 1573321316, 
+   "pos": 12, 
    "score": 1425, 
    "taskStats": {
     "full_troll": {
@@ -487,34 +519,6 @@
     }
    }, 
    "team": "dcua"
-  }, 
-  {
-   "lastAccept": 1573375656, 
-   "pos": 12, 
-   "score": 1384, 
-   "taskStats": {
-    "future_message_pt1": {
-     "points": 303, 
-     "time": 1573342089
-    }, 
-    "future_message_pt2": {
-     "points": 355, 
-     "time": 1573375612
-    }, 
-    "future_message_pt3": {
-     "points": 383, 
-     "time": 1573375656
-    }, 
-    "i_shall_never_be_anything": {
-     "points": 293, 
-     "time": 1573349057
-    }, 
-    "the_last_resort": {
-     "points": 50, 
-     "time": 1573313010
-    }
-   }, 
-   "team": "YoloSw4g"
   }, 
   {
    "lastAccept": 1573360729, 
