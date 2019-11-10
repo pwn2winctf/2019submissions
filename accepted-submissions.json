@@ -59,7 +59,7 @@
   {
    "lastAccept": 1573367889, 
    "pos": 2, 
-   "score": 3482, 
+   "score": 3475, 
    "taskStats": {
     "baby_recruiter": {
      "points": 271, 
@@ -78,7 +78,7 @@
      "time": 1573341266
     }, 
     "future_message_pt2": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573357354
     }, 
     "future_message_pt3": {
@@ -115,7 +115,7 @@
   {
    "lastAccept": 1573375898, 
    "pos": 3, 
-   "score": 3370, 
+   "score": 3363, 
    "taskStats": {
     "baby_recruiter": {
      "points": 271, 
@@ -130,7 +130,7 @@
      "time": 1573238181
     }, 
     "future_message_pt2": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573304720
     }, 
     "future_message_pt3": {
@@ -171,7 +171,7 @@
   {
    "lastAccept": 1573381043, 
    "pos": 4, 
-   "score": 3341, 
+   "score": 3334, 
    "taskStats": {
     "baby_recruiter": {
      "points": 271, 
@@ -186,7 +186,7 @@
      "time": 1573307916
     }, 
     "future_message_pt2": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573349825
     }, 
     "future_message_pt3": {
@@ -227,7 +227,7 @@
   {
    "lastAccept": 1573367456, 
    "pos": 5, 
-   "score": 2844, 
+   "score": 2837, 
    "taskStats": {
     "full_troll": {
      "points": 225, 
@@ -238,7 +238,7 @@
      "time": 1573246480
     }, 
     "future_message_pt2": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573257383
     }, 
     "future_message_pt3": {
@@ -275,7 +275,7 @@
   {
    "lastAccept": 1573329006, 
    "pos": 6, 
-   "score": 2726, 
+   "score": 2719, 
    "taskStats": {
     "full_troll": {
      "points": 225, 
@@ -286,7 +286,7 @@
      "time": 1573306326
     }, 
     "future_message_pt2": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573311608
     }, 
     "future_message_pt3": {
@@ -323,7 +323,7 @@
   {
    "lastAccept": 1573344701, 
    "pos": 7, 
-   "score": 2562, 
+   "score": 2555, 
    "taskStats": {
     "baby_recruiter": {
      "points": 271, 
@@ -338,7 +338,7 @@
      "time": 1573267925
     }, 
     "future_message_pt2": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573332650
     }, 
     "future_message_pt3": {
@@ -371,7 +371,7 @@
   {
    "lastAccept": 1573396123, 
    "pos": 8, 
-   "score": 2274, 
+   "score": 2267, 
    "taskStats": {
     "baby_recruiter": {
      "points": 271, 
@@ -386,7 +386,7 @@
      "time": 1573324952
     }, 
     "future_message_pt2": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573369333
     }, 
     "future_message_pt3": {
@@ -415,7 +415,7 @@
   {
    "lastAccept": 1573354812, 
    "pos": 9, 
-   "score": 1926, 
+   "score": 1919, 
    "taskStats": {
     "cloud_admin": {
      "points": 420, 
@@ -430,7 +430,7 @@
      "time": 1573341427
     }, 
     "future_message_pt2": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573354812
     }, 
     "i_shall_never_be_anything": {
@@ -491,7 +491,7 @@
   {
    "lastAccept": 1573396428, 
    "pos": 11, 
-   "score": 1829, 
+   "score": 1822, 
    "taskStats": {
     "baby_recruiter": {
      "points": 271, 
@@ -502,7 +502,7 @@
      "time": 1573351262
     }, 
     "future_message_pt2": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573387525
     }, 
     "future_message_pt3": {
@@ -527,7 +527,7 @@
   {
    "lastAccept": 1573388237, 
    "pos": 12, 
-   "score": 1662, 
+   "score": 1655, 
    "taskStats": {
     "baby_recruiter": {
      "points": 271, 
@@ -542,7 +542,7 @@
      "time": 1573300827
     }, 
     "future_message_pt2": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573361217
     }, 
     "g00d_b0y": {
@@ -563,14 +563,14 @@
   {
    "lastAccept": 1573379058, 
    "pos": 13, 
-   "score": 1597, 
+   "score": 1590, 
    "taskStats": {
     "future_message_pt1": {
      "points": 288, 
      "time": 1573318213
     }, 
     "future_message_pt2": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573325720
     }, 
     "future_message_pt3": {
@@ -593,16 +593,52 @@
    "team": "Made In MIM"
   }, 
   {
-   "lastAccept": 1573378620, 
+   "lastAccept": 1573398025, 
    "pos": 14, 
-   "score": 1411, 
+   "score": 1557, 
+   "taskStats": {
+    "baby_recruiter": {
+     "points": 271, 
+     "time": 1573305348
+    }, 
+    "full_troll": {
+     "points": 225, 
+     "time": 1573305108
+    }, 
+    "future_message_pt1": {
+     "points": 288, 
+     "time": 1573390900
+    }, 
+    "future_message_pt2": {
+     "points": 340, 
+     "time": 1573398025
+    }, 
+    "g00d_b0y": {
+     "points": 75, 
+     "time": 1573306226
+    }, 
+    "random_vault": {
+     "points": 308, 
+     "time": 1573315311
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573295176
+    }
+   }, 
+   "team": "pwntheTowerOfCrhackers"
+  }, 
+  {
+   "lastAccept": 1573378620, 
+   "pos": 15, 
+   "score": 1404, 
    "taskStats": {
     "future_message_pt1": {
      "points": 288, 
      "time": 1573342089
     }, 
     "future_message_pt2": {
-     "points": 347, 
+     "points": 340, 
      "time": 1573375612
     }, 
     "future_message_pt3": {
@@ -626,7 +662,7 @@
   }, 
   {
    "lastAccept": 1573321316, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 1386, 
    "taskStats": {
     "full_troll": {
@@ -650,7 +686,7 @@
   }, 
   {
    "lastAccept": 1573360729, 
-   "pos": 16, 
+   "pos": 17, 
    "score": 1339, 
    "taskStats": {
     "baby_recruiter": {
@@ -682,7 +718,7 @@
   }, 
   {
    "lastAccept": 1573396131, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 1329, 
    "taskStats": {
     "baby_recruiter": {
@@ -714,7 +750,7 @@
   }, 
   {
    "lastAccept": 1573377483, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 1319, 
    "taskStats": {
     "full_troll": {
@@ -743,38 +779,6 @@
     }
    }, 
    "team": "LEGOFAN"
-  }, 
-  {
-   "lastAccept": 1573390900, 
-   "pos": 19, 
-   "score": 1217, 
-   "taskStats": {
-    "baby_recruiter": {
-     "points": 271, 
-     "time": 1573305348
-    }, 
-    "full_troll": {
-     "points": 225, 
-     "time": 1573305108
-    }, 
-    "future_message_pt1": {
-     "points": 288, 
-     "time": 1573390900
-    }, 
-    "g00d_b0y": {
-     "points": 75, 
-     "time": 1573306226
-    }, 
-    "random_vault": {
-     "points": 308, 
-     "time": 1573315311
-    }, 
-    "the_last_resort": {
-     "points": 50, 
-     "time": 1573295176
-    }
-   }, 
-   "team": "pwntheTowerOfCrhackers"
   }, 
   {
    "lastAccept": 1573334686, 
