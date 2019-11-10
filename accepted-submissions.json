@@ -1,125 +1,17 @@
 {
  "standings": [
   {
-   "lastAccept": 1573396104, 
+   "lastAccept": 1573401655, 
    "pos": 1, 
-   "score": 3698, 
-   "taskStats": {
-    "baby_recruiter": {
-     "points": 271, 
-     "time": 1573344534
-    }, 
-    "cloud_admin": {
-     "points": 420, 
-     "time": 1573250221
-    }, 
-    "federated_sophia": {
-     "points": 453, 
-     "time": 1573396104
-    }, 
-    "full_troll": {
-     "points": 225, 
-     "time": 1573292124
-    }, 
-    "g00d_b0y": {
-     "points": 74, 
-     "time": 1573235615
-    }, 
-    "i_shall_never_be_anything": {
-     "points": 283, 
-     "time": 1573309748
-    }, 
-    "random_crypto": {
-     "points": 394, 
-     "time": 1573257061
-    }, 
-    "random_vault": {
-     "points": 308, 
-     "time": 1573303566
-    }, 
-    "real_ec": {
-     "points": 373, 
-     "time": 1573388525
-    }, 
-    "rmbellious": {
-     "points": 500, 
-     "time": 1573324623
-    }, 
-    "roots_before_branches": {
-     "points": 347, 
-     "time": 1573331118
-    }, 
-    "the_last_resort": {
-     "points": 50, 
-     "time": 1573235386
-    }
-   }, 
-   "team": "OpenToAll"
-  }, 
-  {
-   "lastAccept": 1573367889, 
-   "pos": 2, 
-   "score": 3462, 
-   "taskStats": {
-    "baby_recruiter": {
-     "points": 271, 
-     "time": 1573339148
-    }, 
-    "cloud_admin": {
-     "points": 420, 
-     "time": 1573247229
-    }, 
-    "full_troll": {
-     "points": 225, 
-     "time": 1573319006
-    }, 
-    "future_message_pt1": {
-     "points": 288, 
-     "time": 1573341266
-    }, 
-    "future_message_pt2": {
-     "points": 333, 
-     "time": 1573357354
-    }, 
-    "future_message_pt3": {
-     "points": 363, 
-     "time": 1573365203
-    }, 
-    "g00d_b0y": {
-     "points": 74, 
-     "time": 1573240151
-    }, 
-    "i_shall_never_be_anything": {
-     "points": 283, 
-     "time": 1573367889
-    }, 
-    "matroska": {
-     "points": 500, 
-     "time": 1573332145
-    }, 
-    "random_vault": {
-     "points": 308, 
-     "time": 1573272164
-    }, 
-    "roots_before_branches": {
-     "points": 347, 
-     "time": 1573304226
-    }, 
-    "the_last_resort": {
-     "points": 50, 
-     "time": 1573233165
-    }
-   }, 
-   "team": "justCatTheFish"
-  }, 
-  {
-   "lastAccept": 1573375898, 
-   "pos": 3, 
-   "score": 3350, 
+   "score": 3756, 
    "taskStats": {
     "baby_recruiter": {
      "points": 271, 
      "time": 1573352175
+    }, 
+    "cloud_admin": {
+     "points": 406, 
+     "time": 1573401655
     }, 
     "full_troll": {
      "points": 225, 
@@ -167,6 +59,118 @@
     }
    }, 
    "team": "Balsn"
+  }, 
+  {
+   "lastAccept": 1573396104, 
+   "pos": 2, 
+   "score": 3684, 
+   "taskStats": {
+    "baby_recruiter": {
+     "points": 271, 
+     "time": 1573344534
+    }, 
+    "cloud_admin": {
+     "points": 406, 
+     "time": 1573250221
+    }, 
+    "federated_sophia": {
+     "points": 453, 
+     "time": 1573396104
+    }, 
+    "full_troll": {
+     "points": 225, 
+     "time": 1573292124
+    }, 
+    "g00d_b0y": {
+     "points": 74, 
+     "time": 1573235615
+    }, 
+    "i_shall_never_be_anything": {
+     "points": 283, 
+     "time": 1573309748
+    }, 
+    "random_crypto": {
+     "points": 394, 
+     "time": 1573257061
+    }, 
+    "random_vault": {
+     "points": 308, 
+     "time": 1573303566
+    }, 
+    "real_ec": {
+     "points": 373, 
+     "time": 1573388525
+    }, 
+    "rmbellious": {
+     "points": 500, 
+     "time": 1573324623
+    }, 
+    "roots_before_branches": {
+     "points": 347, 
+     "time": 1573331118
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573235386
+    }
+   }, 
+   "team": "OpenToAll"
+  }, 
+  {
+   "lastAccept": 1573367889, 
+   "pos": 3, 
+   "score": 3448, 
+   "taskStats": {
+    "baby_recruiter": {
+     "points": 271, 
+     "time": 1573339148
+    }, 
+    "cloud_admin": {
+     "points": 406, 
+     "time": 1573247229
+    }, 
+    "full_troll": {
+     "points": 225, 
+     "time": 1573319006
+    }, 
+    "future_message_pt1": {
+     "points": 288, 
+     "time": 1573341266
+    }, 
+    "future_message_pt2": {
+     "points": 333, 
+     "time": 1573357354
+    }, 
+    "future_message_pt3": {
+     "points": 363, 
+     "time": 1573365203
+    }, 
+    "g00d_b0y": {
+     "points": 74, 
+     "time": 1573240151
+    }, 
+    "i_shall_never_be_anything": {
+     "points": 283, 
+     "time": 1573367889
+    }, 
+    "matroska": {
+     "points": 500, 
+     "time": 1573332145
+    }, 
+    "random_vault": {
+     "points": 308, 
+     "time": 1573272164
+    }, 
+    "roots_before_branches": {
+     "points": 347, 
+     "time": 1573304226
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573233165
+    }
+   }, 
+   "team": "justCatTheFish"
   }, 
   {
    "lastAccept": 1573381043, 
@@ -371,10 +375,10 @@
   {
    "lastAccept": 1573400151, 
    "pos": 8, 
-   "score": 2301, 
+   "score": 2287, 
    "taskStats": {
     "cloud_admin": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573351926
     }, 
     "full_troll": {
@@ -727,14 +731,14 @@
   {
    "lastAccept": 1573396131, 
    "pos": 18, 
-   "score": 1328, 
+   "score": 1314, 
    "taskStats": {
     "baby_recruiter": {
      "points": 271, 
      "time": 1573308538
     }, 
     "cloud_admin": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573380484
     }, 
     "full_troll": {
@@ -1119,10 +1123,10 @@
   {
    "lastAccept": 1573264269, 
    "pos": 32, 
-   "score": 769, 
+   "score": 755, 
    "taskStats": {
     "cloud_admin": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573255853
     }, 
     "full_troll": {
