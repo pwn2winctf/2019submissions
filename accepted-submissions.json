@@ -3045,8 +3045,24 @@
    "team": "zehrileLau(n)de"
   }, 
   {
-   "lastAccept": 1573232900, 
+   "lastAccept": 1573354593, 
    "pos": 156, 
+   "score": 133, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 83, 
+     "time": 1573353379
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573354593
+    }
+   }, 
+   "team": "Nipple Kings"
+  }, 
+  {
+   "lastAccept": 1573232900, 
+   "pos": 157, 
    "score": 83, 
    "taskStats": {
     "g00d_b0y": {
@@ -3055,18 +3071,6 @@
     }
    }, 
    "team": "[c0rrupted_6ata]"
-  }, 
-  {
-   "lastAccept": 1573353379, 
-   "pos": 157, 
-   "score": 83, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 83, 
-     "time": 1573353379
-    }
-   }, 
-   "team": "Nipple Kings"
   }, 
   {
    "lastAccept": 1573231280, 
