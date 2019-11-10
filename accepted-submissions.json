@@ -3811,6 +3811,18 @@
     }
    }, 
    "team": "CyberKnights"
+  }, 
+  {
+   "lastAccept": 1573373964, 
+   "pos": 214, 
+   "score": 50, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573373964
+    }
+   }, 
+   "team": "onotch"
   }
  ], 
  "tasks": [
