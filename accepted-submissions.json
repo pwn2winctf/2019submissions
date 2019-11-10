@@ -3,14 +3,14 @@
   {
    "lastAccept": 1573344534, 
    "pos": 1, 
-   "score": 3043, 
+   "score": 3025, 
    "taskStats": {
     "baby_recruiter": {
      "points": 288, 
      "time": 1573344534
     }, 
     "cloud_admin": {
-     "points": 453, 
+     "points": 435, 
      "time": 1573250221
     }, 
     "full_troll": {
@@ -239,14 +239,14 @@
   {
    "lastAccept": 1573341266, 
    "pos": 6, 
-   "score": 2618, 
+   "score": 2600, 
    "taskStats": {
     "baby_recruiter": {
      "points": 288, 
      "time": 1573339148
     }, 
     "cloud_admin": {
-     "points": 453, 
+     "points": 435, 
      "time": 1573247229
     }, 
     "full_troll": {
@@ -325,8 +325,40 @@
    "team": "Balsn"
   }, 
   {
-   "lastAccept": 1573321316, 
+   "lastAccept": 1573351926, 
    "pos": 8, 
+   "score": 1671, 
+   "taskStats": {
+    "cloud_admin": {
+     "points": 435, 
+     "time": 1573351926
+    }, 
+    "full_troll": {
+     "points": 240, 
+     "time": 1573302958
+    }, 
+    "future_message_pt1": {
+     "points": 308, 
+     "time": 1573341427
+    }, 
+    "i_shall_never_be_anything": {
+     "points": 298, 
+     "time": 1573348714
+    }, 
+    "random_vault": {
+     "points": 340, 
+     "time": 1573339593
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573340692
+    }
+   }, 
+   "team": "The Flat Network Society"
+  }, 
+  {
+   "lastAccept": 1573321316, 
+   "pos": 9, 
    "score": 1483, 
    "taskStats": {
     "full_troll": {
@@ -350,7 +382,7 @@
   }, 
   {
    "lastAccept": 1573324952, 
-   "pos": 9, 
+   "pos": 10, 
    "score": 1377, 
    "taskStats": {
     "full_troll": {
@@ -382,7 +414,7 @@
   }, 
   {
    "lastAccept": 1573336993, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 1302, 
    "taskStats": {
     "g00d_b0y": {
@@ -410,7 +442,7 @@
   }, 
   {
    "lastAccept": 1573334686, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 1271, 
    "taskStats": {
     "federated_sophia": {
@@ -438,7 +470,7 @@
   }, 
   {
    "lastAccept": 1573335957, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 1254, 
    "taskStats": {
     "future_message_pt1": {
@@ -463,34 +495,6 @@
     }
    }, 
    "team": "Made In MIM"
-  }, 
-  {
-   "lastAccept": 1573348714, 
-   "pos": 13, 
-   "score": 1236, 
-   "taskStats": {
-    "full_troll": {
-     "points": 240, 
-     "time": 1573302958
-    }, 
-    "future_message_pt1": {
-     "points": 308, 
-     "time": 1573341427
-    }, 
-    "i_shall_never_be_anything": {
-     "points": 298, 
-     "time": 1573348714
-    }, 
-    "random_vault": {
-     "points": 340, 
-     "time": 1573339593
-    }, 
-    "the_last_resort": {
-     "points": 50, 
-     "time": 1573340692
-    }
-   }, 
-   "team": "The Flat Network Society"
   }, 
   {
    "lastAccept": 1573326614, 
@@ -767,10 +771,10 @@
   {
    "lastAccept": 1573264269, 
    "pos": 24, 
-   "score": 827, 
+   "score": 809, 
    "taskStats": {
     "cloud_admin": {
-     "points": 453, 
+     "points": 435, 
      "time": 1573255853
     }, 
     "full_troll": {
