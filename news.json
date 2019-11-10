@@ -104,7 +104,7 @@
   "time": 1573374914
  }, 
  {
-  "msg": "Hardware Trojan Part 2 firewall rate limit was relaxed - now we allow 10 SYN / second / IP address. However brute force should not be needed if you do it the right way!", 
+  "msg": "Hardware Trojan Part 2 firewall rate limit was relaxed - now we allow 10 SYN / minute / IP address. However brute force should not be needed if you do it the right way!", 
   "time": 1573376958
  }
 ]
