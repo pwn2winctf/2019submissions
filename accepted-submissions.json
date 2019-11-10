@@ -3987,6 +3987,18 @@
     }
    }, 
    "team": "MAD LADS"
+  }, 
+  {
+   "lastAccept": 1573395912, 
+   "pos": 220, 
+   "score": 50, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573395912
+    }
+   }, 
+   "team": "BRL"
   }
  ], 
  "tasks": [
