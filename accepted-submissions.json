@@ -3249,8 +3249,24 @@
    "team": "APA Razi"
   }, 
   {
-   "lastAccept": 1573232900, 
+   "lastAccept": 1573386326, 
    "pos": 163, 
+   "score": 127, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 77, 
+     "time": 1573386280
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573386326
+    }
+   }, 
+   "team": "y0d31"
+  }, 
+  {
+   "lastAccept": 1573232900, 
+   "pos": 164, 
    "score": 77, 
    "taskStats": {
     "g00d_b0y": {
@@ -3259,18 +3275,6 @@
     }
    }, 
    "team": "[c0rrupted_6ata]"
-  }, 
-  {
-   "lastAccept": 1573386280, 
-   "pos": 164, 
-   "score": 77, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 77, 
-     "time": 1573386280
-    }
-   }, 
-   "team": "y0d31"
   }, 
   {
    "lastAccept": 1573231280, 
