@@ -3775,6 +3775,18 @@
     }
    }, 
    "team": "oZy_Blue"
+  }, 
+  {
+   "lastAccept": 1573368510, 
+   "pos": 212, 
+   "score": 50, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573368510
+    }
+   }, 
+   "team": "keyboard krackers"
   }
  ], 
  "tasks": [
