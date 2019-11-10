@@ -115,7 +115,7 @@
   {
    "lastAccept": 1573375898, 
    "pos": 3, 
-   "score": 3388, 
+   "score": 3370, 
    "taskStats": {
     "baby_recruiter": {
      "points": 271, 
@@ -138,7 +138,7 @@
      "time": 1573309756
     }, 
     "future_message_pt4": {
-     "points": 453, 
+     "points": 435, 
      "time": 1573375898
     }, 
     "g00d_b0y": {
@@ -227,7 +227,7 @@
   {
    "lastAccept": 1573367456, 
    "pos": 5, 
-   "score": 2862, 
+   "score": 2844, 
    "taskStats": {
     "full_troll": {
      "points": 225, 
@@ -246,7 +246,7 @@
      "time": 1573260341
     }, 
     "future_message_pt4": {
-     "points": 453, 
+     "points": 435, 
      "time": 1573319300
     }, 
     "g00d_b0y": {
@@ -275,7 +275,7 @@
   {
    "lastAccept": 1573329006, 
    "pos": 6, 
-   "score": 2744, 
+   "score": 2726, 
    "taskStats": {
     "full_troll": {
      "points": 225, 
@@ -294,7 +294,7 @@
      "time": 1573316547
     }, 
     "future_message_pt4": {
-     "points": 453, 
+     "points": 435, 
      "time": 1573324228
     }, 
     "g00d_b0y": {
@@ -489,8 +489,44 @@
    "team": "Shellphish Grill Team"
   }, 
   {
-   "lastAccept": 1573388237, 
+   "lastAccept": 1573396428, 
    "pos": 11, 
+   "score": 1829, 
+   "taskStats": {
+    "baby_recruiter": {
+     "points": 271, 
+     "time": 1573316280
+    }, 
+    "future_message_pt1": {
+     "points": 288, 
+     "time": 1573351262
+    }, 
+    "future_message_pt2": {
+     "points": 347, 
+     "time": 1573387525
+    }, 
+    "future_message_pt3": {
+     "points": 363, 
+     "time": 1573390201
+    }, 
+    "future_message_pt4": {
+     "points": 435, 
+     "time": 1573396428
+    }, 
+    "g00d_b0y": {
+     "points": 75, 
+     "time": 1573231619
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573231405
+    }
+   }, 
+   "team": "flagbot"
+  }, 
+  {
+   "lastAccept": 1573388237, 
+   "pos": 12, 
    "score": 1662, 
    "taskStats": {
     "baby_recruiter": {
@@ -526,7 +562,7 @@
   }, 
   {
    "lastAccept": 1573379058, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 1597, 
    "taskStats": {
     "future_message_pt1": {
@@ -558,7 +594,7 @@
   }, 
   {
    "lastAccept": 1573378620, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 1411, 
    "taskStats": {
     "future_message_pt1": {
@@ -587,38 +623,6 @@
     }
    }, 
    "team": "YoloSw4g"
-  }, 
-  {
-   "lastAccept": 1573390201, 
-   "pos": 14, 
-   "score": 1394, 
-   "taskStats": {
-    "baby_recruiter": {
-     "points": 271, 
-     "time": 1573316280
-    }, 
-    "future_message_pt1": {
-     "points": 288, 
-     "time": 1573351262
-    }, 
-    "future_message_pt2": {
-     "points": 347, 
-     "time": 1573387525
-    }, 
-    "future_message_pt3": {
-     "points": 363, 
-     "time": 1573390201
-    }, 
-    "g00d_b0y": {
-     "points": 75, 
-     "time": 1573231619
-    }, 
-    "the_last_resort": {
-     "points": 50, 
-     "time": 1573231405
-    }
-   }, 
-   "team": "flagbot"
   }, 
   {
    "lastAccept": 1573321316, 
