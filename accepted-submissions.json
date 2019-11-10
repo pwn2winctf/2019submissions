@@ -1,8 +1,64 @@
 {
  "standings": [
   {
-   "lastAccept": 1573367889, 
+   "lastAccept": 1573396104, 
    "pos": 1, 
+   "score": 3716, 
+   "taskStats": {
+    "baby_recruiter": {
+     "points": 271, 
+     "time": 1573344534
+    }, 
+    "cloud_admin": {
+     "points": 420, 
+     "time": 1573250221
+    }, 
+    "federated_sophia": {
+     "points": 453, 
+     "time": 1573396104
+    }, 
+    "full_troll": {
+     "points": 225, 
+     "time": 1573292124
+    }, 
+    "g00d_b0y": {
+     "points": 75, 
+     "time": 1573235615
+    }, 
+    "i_shall_never_be_anything": {
+     "points": 288, 
+     "time": 1573309748
+    }, 
+    "random_crypto": {
+     "points": 406, 
+     "time": 1573257061
+    }, 
+    "random_vault": {
+     "points": 308, 
+     "time": 1573303566
+    }, 
+    "real_ec": {
+     "points": 373, 
+     "time": 1573388525
+    }, 
+    "rmbellious": {
+     "points": 500, 
+     "time": 1573324623
+    }, 
+    "roots_before_branches": {
+     "points": 347, 
+     "time": 1573331118
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573235386
+    }
+   }, 
+   "team": "OpenToAll"
+  }, 
+  {
+   "lastAccept": 1573367889, 
+   "pos": 2, 
    "score": 3497, 
    "taskStats": {
     "baby_recruiter": {
@@ -58,7 +114,7 @@
   }, 
   {
    "lastAccept": 1573375898, 
-   "pos": 2, 
+   "pos": 3, 
    "score": 3403, 
    "taskStats": {
     "baby_recruiter": {
@@ -114,7 +170,7 @@
   }, 
   {
    "lastAccept": 1573381043, 
-   "pos": 3, 
+   "pos": 4, 
    "score": 3356, 
    "taskStats": {
     "baby_recruiter": {
@@ -167,58 +223,6 @@
     }
    }, 
    "team": "CL34R"
-  }, 
-  {
-   "lastAccept": 1573388525, 
-   "pos": 4, 
-   "score": 3263, 
-   "taskStats": {
-    "baby_recruiter": {
-     "points": 271, 
-     "time": 1573344534
-    }, 
-    "cloud_admin": {
-     "points": 420, 
-     "time": 1573250221
-    }, 
-    "full_troll": {
-     "points": 225, 
-     "time": 1573292124
-    }, 
-    "g00d_b0y": {
-     "points": 75, 
-     "time": 1573235615
-    }, 
-    "i_shall_never_be_anything": {
-     "points": 288, 
-     "time": 1573309748
-    }, 
-    "random_crypto": {
-     "points": 406, 
-     "time": 1573257061
-    }, 
-    "random_vault": {
-     "points": 308, 
-     "time": 1573303566
-    }, 
-    "real_ec": {
-     "points": 373, 
-     "time": 1573388525
-    }, 
-    "rmbellious": {
-     "points": 500, 
-     "time": 1573324623
-    }, 
-    "roots_before_branches": {
-     "points": 347, 
-     "time": 1573331118
-    }, 
-    "the_last_resort": {
-     "points": 50, 
-     "time": 1573235386
-    }
-   }, 
-   "team": "OpenToAll"
   }, 
   {
    "lastAccept": 1573367456, 
@@ -701,36 +705,8 @@
    "team": "LEGOFAN"
   }, 
   {
-   "lastAccept": 1573334686, 
-   "pos": 18, 
-   "score": 1239, 
-   "taskStats": {
-    "federated_sophia": {
-     "points": 474, 
-     "time": 1573333096
-    }, 
-    "future_message_pt1": {
-     "points": 293, 
-     "time": 1573334686
-    }, 
-    "g00d_b0y": {
-     "points": 75, 
-     "time": 1573299993
-    }, 
-    "roots_before_branches": {
-     "points": 347, 
-     "time": 1573307462
-    }, 
-    "the_last_resort": {
-     "points": 50, 
-     "time": 1573299913
-    }
-   }, 
-   "team": "\ud835\ude65\ud835\ude5e\ud835\ude6f\ud835\ude6f\ud835\ude56\ud835\ude69\ud835\ude66\ud835\ude61 \u0295 \u2022\u0301\u0608\u2022\u0300)"
-  }, 
-  {
    "lastAccept": 1573390900, 
-   "pos": 19, 
+   "pos": 18, 
    "score": 1222, 
    "taskStats": {
     "baby_recruiter": {
@@ -759,6 +735,34 @@
     }
    }, 
    "team": "pwntheTowerOfCrhackers"
+  }, 
+  {
+   "lastAccept": 1573334686, 
+   "pos": 19, 
+   "score": 1218, 
+   "taskStats": {
+    "federated_sophia": {
+     "points": 453, 
+     "time": 1573333096
+    }, 
+    "future_message_pt1": {
+     "points": 293, 
+     "time": 1573334686
+    }, 
+    "g00d_b0y": {
+     "points": 75, 
+     "time": 1573299993
+    }, 
+    "roots_before_branches": {
+     "points": 347, 
+     "time": 1573307462
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573299913
+    }
+   }, 
+   "team": "\ud835\ude65\ud835\ude5e\ud835\ude6f\ud835\ude6f\ud835\ude56\ud835\ude69\ud835\ude66\ud835\ude61 \u0295 \u2022\u0301\u0608\u2022\u0300)"
   }, 
   {
    "lastAccept": 1573336993, 
@@ -819,14 +823,14 @@
   {
    "lastAccept": 1573326614, 
    "pos": 22, 
-   "score": 1158, 
+   "score": 1137, 
    "taskStats": {
     "baby_recruiter": {
      "points": 271, 
      "time": 1573293790
     }, 
     "federated_sophia": {
-     "points": 474, 
+     "points": 453, 
      "time": 1573326614
     }, 
     "g00d_b0y": {
