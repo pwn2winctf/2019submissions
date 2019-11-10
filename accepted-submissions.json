@@ -57,8 +57,64 @@
    "team": "justCatTheFish"
   }, 
   {
-   "lastAccept": 1573359978, 
+   "lastAccept": 1573375898, 
    "pos": 2, 
+   "score": 3493, 
+   "taskStats": {
+    "baby_recruiter": {
+     "points": 275, 
+     "time": 1573352175
+    }, 
+    "full_troll": {
+     "points": 228, 
+     "time": 1573234004
+    }, 
+    "future_message_pt1": {
+     "points": 303, 
+     "time": 1573238181
+    }, 
+    "future_message_pt2": {
+     "points": 355, 
+     "time": 1573304720
+    }, 
+    "future_message_pt3": {
+     "points": 383, 
+     "time": 1573309756
+    }, 
+    "future_message_pt4": {
+     "points": 453, 
+     "time": 1573375898
+    }, 
+    "g00d_b0y": {
+     "points": 80, 
+     "time": 1573231449
+    }, 
+    "i_shall_never_be_anything": {
+     "points": 293, 
+     "time": 1573280833
+    }, 
+    "random_vault": {
+     "points": 320, 
+     "time": 1573239514
+    }, 
+    "real_ec": {
+     "points": 406, 
+     "time": 1573371457
+    }, 
+    "roots_before_branches": {
+     "points": 347, 
+     "time": 1573283838
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573234123
+    }
+   }, 
+   "team": "Balsn"
+  }, 
+  {
+   "lastAccept": 1573359978, 
+   "pos": 3, 
    "score": 3054, 
    "taskStats": {
     "baby_recruiter": {
@@ -109,108 +165,8 @@
    "team": "CL34R"
   }, 
   {
-   "lastAccept": 1573371457, 
-   "pos": 3, 
-   "score": 3040, 
-   "taskStats": {
-    "baby_recruiter": {
-     "points": 275, 
-     "time": 1573352175
-    }, 
-    "full_troll": {
-     "points": 228, 
-     "time": 1573234004
-    }, 
-    "future_message_pt1": {
-     "points": 303, 
-     "time": 1573238181
-    }, 
-    "future_message_pt2": {
-     "points": 355, 
-     "time": 1573304720
-    }, 
-    "future_message_pt3": {
-     "points": 383, 
-     "time": 1573309756
-    }, 
-    "g00d_b0y": {
-     "points": 80, 
-     "time": 1573231449
-    }, 
-    "i_shall_never_be_anything": {
-     "points": 293, 
-     "time": 1573280833
-    }, 
-    "random_vault": {
-     "points": 320, 
-     "time": 1573239514
-    }, 
-    "real_ec": {
-     "points": 406, 
-     "time": 1573371457
-    }, 
-    "roots_before_branches": {
-     "points": 347, 
-     "time": 1573283838
-    }, 
-    "the_last_resort": {
-     "points": 50, 
-     "time": 1573234123
-    }
-   }, 
-   "team": "Balsn"
-  }, 
-  {
-   "lastAccept": 1573367456, 
-   "pos": 4, 
-   "score": 2960, 
-   "taskStats": {
-    "full_troll": {
-     "points": 228, 
-     "time": 1573239530
-    }, 
-    "future_message_pt1": {
-     "points": 303, 
-     "time": 1573246480
-    }, 
-    "future_message_pt2": {
-     "points": 355, 
-     "time": 1573257383
-    }, 
-    "future_message_pt3": {
-     "points": 383, 
-     "time": 1573260341
-    }, 
-    "future_message_pt4": {
-     "points": 474, 
-     "time": 1573319300
-    }, 
-    "g00d_b0y": {
-     "points": 80, 
-     "time": 1573236673
-    }, 
-    "random_crypto": {
-     "points": 420, 
-     "time": 1573367456
-    }, 
-    "random_vault": {
-     "points": 320, 
-     "time": 1573243403
-    }, 
-    "roots_before_branches": {
-     "points": 347, 
-     "time": 1573243507
-    }, 
-    "the_last_resort": {
-     "points": 50, 
-     "time": 1573237044
-    }
-   }, 
-   "team": "RPISEC"
-  }, 
-  {
    "lastAccept": 1573344534, 
-   "pos": 5, 
+   "pos": 4, 
    "score": 2948, 
    "taskStats": {
     "baby_recruiter": {
@@ -257,9 +213,57 @@
    "team": "OpenToAll"
   }, 
   {
+   "lastAccept": 1573367456, 
+   "pos": 5, 
+   "score": 2939, 
+   "taskStats": {
+    "full_troll": {
+     "points": 228, 
+     "time": 1573239530
+    }, 
+    "future_message_pt1": {
+     "points": 303, 
+     "time": 1573246480
+    }, 
+    "future_message_pt2": {
+     "points": 355, 
+     "time": 1573257383
+    }, 
+    "future_message_pt3": {
+     "points": 383, 
+     "time": 1573260341
+    }, 
+    "future_message_pt4": {
+     "points": 453, 
+     "time": 1573319300
+    }, 
+    "g00d_b0y": {
+     "points": 80, 
+     "time": 1573236673
+    }, 
+    "random_crypto": {
+     "points": 420, 
+     "time": 1573367456
+    }, 
+    "random_vault": {
+     "points": 320, 
+     "time": 1573243403
+    }, 
+    "roots_before_branches": {
+     "points": 347, 
+     "time": 1573243507
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573237044
+    }
+   }, 
+   "team": "RPISEC"
+  }, 
+  {
    "lastAccept": 1573329006, 
    "pos": 6, 
-   "score": 2833, 
+   "score": 2812, 
    "taskStats": {
     "full_troll": {
      "points": 228, 
@@ -278,7 +282,7 @@
      "time": 1573316547
     }, 
     "future_message_pt4": {
-     "points": 474, 
+     "points": 453, 
      "time": 1573324228
     }, 
     "g00d_b0y": {
