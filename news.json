@@ -90,5 +90,9 @@
  {
   "msg": "More instances (bots) for Botnet challenge are running! Hint: EVERY detail about the environment/network matters, look around carefully! Race condition is not the right approach.", 
   "time": 1573342545
+ }, 
+ {
+  "msg": "Hardware Trojan Part 2 now has two boards at two different physical locations - iot.pwn2.win resolves to 200.136.213.253 and 179.234.188.75", 
+  "time": 1573348817
  }
 ]
