@@ -3943,6 +3943,18 @@
     }
    }, 
    "team": "M1n3cr4ft f4n"
+  }, 
+  {
+   "lastAccept": 1573389400, 
+   "pos": 219, 
+   "score": 50, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573389400
+    }
+   }, 
+   "team": "MAD LADS"
   }
  ], 
  "tasks": [
