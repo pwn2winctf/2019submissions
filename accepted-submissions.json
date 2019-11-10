@@ -1645,8 +1645,24 @@
    "team": "pewpewpew"
   }, 
   {
-   "lastAccept": 1573348175, 
+   "lastAccept": 1573391811, 
    "pos": 60, 
+   "score": 278, 
+   "taskStats": {
+    "full_troll": {
+     "points": 228, 
+     "time": 1573320512
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573391811
+    }
+   }, 
+   "team": "TeamC8"
+  }, 
+  {
+   "lastAccept": 1573348175, 
+   "pos": 61, 
    "score": 271, 
    "taskStats": {
     "baby_recruiter": {
@@ -1655,18 +1671,6 @@
     }
    }, 
    "team": "Nupakachi"
-  }, 
-  {
-   "lastAccept": 1573320512, 
-   "pos": 61, 
-   "score": 228, 
-   "taskStats": {
-    "full_troll": {
-     "points": 228, 
-     "time": 1573320512
-    }
-   }, 
-   "team": "TeamC8"
   }, 
   {
    "lastAccept": 1573345684, 
