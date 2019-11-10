@@ -1,9 +1,61 @@
 {
  "standings": [
   {
-   "lastAccept": 1573359978, 
+   "lastAccept": 1573365203, 
    "pos": 1, 
-   "score": 3120, 
+   "score": 3310, 
+   "taskStats": {
+    "baby_recruiter": {
+     "points": 275, 
+     "time": 1573339148
+    }, 
+    "cloud_admin": {
+     "points": 435, 
+     "time": 1573247229
+    }, 
+    "full_troll": {
+     "points": 231, 
+     "time": 1573319006
+    }, 
+    "future_message_pt1": {
+     "points": 303, 
+     "time": 1573341266
+    }, 
+    "future_message_pt2": {
+     "points": 373, 
+     "time": 1573357354
+    }, 
+    "future_message_pt3": {
+     "points": 394, 
+     "time": 1573365203
+    }, 
+    "g00d_b0y": {
+     "points": 82, 
+     "time": 1573240151
+    }, 
+    "matroska": {
+     "points": 500, 
+     "time": 1573332145
+    }, 
+    "random_vault": {
+     "points": 320, 
+     "time": 1573272164
+    }, 
+    "roots_before_branches": {
+     "points": 347, 
+     "time": 1573304226
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573233165
+    }
+   }, 
+   "team": "justCatTheFish"
+  }, 
+  {
+   "lastAccept": 1573359978, 
+   "pos": 2, 
+   "score": 3108, 
    "taskStats": {
     "baby_recruiter": {
      "points": 275, 
@@ -22,7 +74,7 @@
      "time": 1573349825
     }, 
     "future_message_pt3": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573351768
     }, 
     "g00d_b0y": {
@@ -54,7 +106,7 @@
   }, 
   {
    "lastAccept": 1573344534, 
-   "pos": 2, 
+   "pos": 3, 
    "score": 2973, 
    "taskStats": {
     "baby_recruiter": {
@@ -101,57 +153,9 @@
    "team": "OpenToAll"
   }, 
   {
-   "lastAccept": 1573357354, 
-   "pos": 3, 
-   "score": 2916, 
-   "taskStats": {
-    "baby_recruiter": {
-     "points": 275, 
-     "time": 1573339148
-    }, 
-    "cloud_admin": {
-     "points": 435, 
-     "time": 1573247229
-    }, 
-    "full_troll": {
-     "points": 231, 
-     "time": 1573319006
-    }, 
-    "future_message_pt1": {
-     "points": 303, 
-     "time": 1573341266
-    }, 
-    "future_message_pt2": {
-     "points": 373, 
-     "time": 1573357354
-    }, 
-    "g00d_b0y": {
-     "points": 82, 
-     "time": 1573240151
-    }, 
-    "matroska": {
-     "points": 500, 
-     "time": 1573332145
-    }, 
-    "random_vault": {
-     "points": 320, 
-     "time": 1573272164
-    }, 
-    "roots_before_branches": {
-     "points": 347, 
-     "time": 1573304226
-    }, 
-    "the_last_resort": {
-     "points": 50, 
-     "time": 1573233165
-    }
-   }, 
-   "team": "justCatTheFish"
-  }, 
-  {
    "lastAccept": 1573329006, 
    "pos": 4, 
-   "score": 2884, 
+   "score": 2872, 
    "taskStats": {
     "full_troll": {
      "points": 231, 
@@ -166,7 +170,7 @@
      "time": 1573311608
     }, 
     "future_message_pt3": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573316547
     }, 
     "future_message_pt4": {
@@ -199,7 +203,7 @@
   {
    "lastAccept": 1573344701, 
    "pos": 5, 
-   "score": 2685, 
+   "score": 2673, 
    "taskStats": {
     "baby_recruiter": {
      "points": 275, 
@@ -218,7 +222,7 @@
      "time": 1573332650
     }, 
     "future_message_pt3": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573344701
     }, 
     "g00d_b0y": {
@@ -247,7 +251,7 @@
   {
    "lastAccept": 1573352175, 
    "pos": 6, 
-   "score": 2685, 
+   "score": 2673, 
    "taskStats": {
     "baby_recruiter": {
      "points": 275, 
@@ -266,7 +270,7 @@
      "time": 1573304720
     }, 
     "future_message_pt3": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573309756
     }, 
     "g00d_b0y": {
@@ -295,7 +299,7 @@
   {
    "lastAccept": 1573319300, 
    "pos": 7, 
-   "score": 2586, 
+   "score": 2574, 
    "taskStats": {
     "full_troll": {
      "points": 231, 
@@ -310,7 +314,7 @@
      "time": 1573257383
     }, 
     "future_message_pt3": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573260341
     }, 
     "future_message_pt4": {
@@ -587,7 +591,7 @@
   {
    "lastAccept": 1573335957, 
    "pos": 16, 
-   "score": 1214, 
+   "score": 1202, 
    "taskStats": {
     "future_message_pt1": {
      "points": 303, 
@@ -598,7 +602,7 @@
      "time": 1573325720
     }, 
     "future_message_pt3": {
-     "points": 406, 
+     "points": 394, 
      "time": 1573335957
     }, 
     "g00d_b0y": {
