@@ -3,7 +3,7 @@
   {
    "lastAccept": 1573359978, 
    "pos": 1, 
-   "score": 3150, 
+   "score": 3143, 
    "taskStats": {
     "baby_recruiter": {
      "points": 275, 
@@ -38,7 +38,7 @@
      "time": 1573288913
     }, 
     "random_vault": {
-     "points": 340, 
+     "points": 333, 
      "time": 1573288944
     }, 
     "roots_before_branches": {
@@ -55,7 +55,7 @@
   {
    "lastAccept": 1573344534, 
    "pos": 2, 
-   "score": 2993, 
+   "score": 2986, 
    "taskStats": {
     "baby_recruiter": {
      "points": 275, 
@@ -82,7 +82,7 @@
      "time": 1573257061
     }, 
     "random_vault": {
-     "points": 340, 
+     "points": 333, 
      "time": 1573303566
     }, 
     "rmbellious": {
@@ -103,7 +103,7 @@
   {
    "lastAccept": 1573357354, 
    "pos": 3, 
-   "score": 2946, 
+   "score": 2939, 
    "taskStats": {
     "baby_recruiter": {
      "points": 275, 
@@ -134,7 +134,7 @@
      "time": 1573332145
     }, 
     "random_vault": {
-     "points": 340, 
+     "points": 333, 
      "time": 1573272164
     }, 
     "roots_before_branches": {
@@ -151,7 +151,7 @@
   {
    "lastAccept": 1573329006, 
    "pos": 4, 
-   "score": 2914, 
+   "score": 2907, 
    "taskStats": {
     "full_troll": {
      "points": 231, 
@@ -182,7 +182,7 @@
      "time": 1573297409
     }, 
     "random_vault": {
-     "points": 340, 
+     "points": 333, 
      "time": 1573329006
     }, 
     "roots_before_branches": {
@@ -199,7 +199,7 @@
   {
    "lastAccept": 1573344701, 
    "pos": 5, 
-   "score": 2715, 
+   "score": 2708, 
    "taskStats": {
     "baby_recruiter": {
      "points": 275, 
@@ -230,7 +230,7 @@
      "time": 1573339918
     }, 
     "random_vault": {
-     "points": 340, 
+     "points": 333, 
      "time": 1573312350
     }, 
     "roots_before_branches": {
@@ -247,7 +247,7 @@
   {
    "lastAccept": 1573352175, 
    "pos": 6, 
-   "score": 2715, 
+   "score": 2708, 
    "taskStats": {
     "baby_recruiter": {
      "points": 275, 
@@ -278,7 +278,7 @@
      "time": 1573280833
     }, 
     "random_vault": {
-     "points": 340, 
+     "points": 333, 
      "time": 1573239514
     }, 
     "roots_before_branches": {
@@ -295,7 +295,7 @@
   {
    "lastAccept": 1573319300, 
    "pos": 7, 
-   "score": 2616, 
+   "score": 2609, 
    "taskStats": {
     "full_troll": {
      "points": 231, 
@@ -322,7 +322,7 @@
      "time": 1573236673
     }, 
     "random_vault": {
-     "points": 340, 
+     "points": 333, 
      "time": 1573243403
     }, 
     "roots_before_branches": {
@@ -339,7 +339,7 @@
   {
    "lastAccept": 1573354812, 
    "pos": 8, 
-   "score": 2040, 
+   "score": 2033, 
    "taskStats": {
     "cloud_admin": {
      "points": 435, 
@@ -362,7 +362,7 @@
      "time": 1573348714
     }, 
     "random_vault": {
-     "points": 340, 
+     "points": 333, 
      "time": 1573339593
     }, 
     "the_last_resort": {
@@ -433,9 +433,41 @@
    "team": "dcua"
   }, 
   {
-   "lastAccept": 1573324952, 
+   "lastAccept": 1573360729, 
    "pos": 11, 
-   "score": 1353, 
+   "score": 1390, 
+   "taskStats": {
+    "baby_recruiter": {
+     "points": 275, 
+     "time": 1573333930
+    }, 
+    "future_message_pt1": {
+     "points": 303, 
+     "time": 1573304433
+    }, 
+    "g00d_b0y": {
+     "points": 82, 
+     "time": 1573231398
+    }, 
+    "random_vault": {
+     "points": 333, 
+     "time": 1573360729
+    }, 
+    "roots_before_branches": {
+     "points": 347, 
+     "time": 1573245898
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573231346
+    }
+   }, 
+   "team": "[USP] Ganesh"
+  }, 
+  {
+   "lastAccept": 1573324952, 
+   "pos": 12, 
+   "score": 1346, 
    "taskStats": {
     "full_troll": {
      "points": 231, 
@@ -450,7 +482,7 @@
      "time": 1573235169
     }, 
     "random_vault": {
-     "points": 340, 
+     "points": 333, 
      "time": 1573264446
     }, 
     "roots_before_branches": {
@@ -466,7 +498,7 @@
   }, 
   {
    "lastAccept": 1573336993, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 1285, 
    "taskStats": {
     "g00d_b0y": {
@@ -494,7 +526,7 @@
   }, 
   {
    "lastAccept": 1573334686, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 1256, 
    "taskStats": {
     "federated_sophia": {
@@ -522,7 +554,7 @@
   }, 
   {
    "lastAccept": 1573335957, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 1224, 
    "taskStats": {
     "future_message_pt1": {
@@ -550,7 +582,7 @@
   }, 
   {
    "lastAccept": 1573326614, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 1179, 
    "taskStats": {
     "baby_recruiter": {
@@ -577,37 +609,9 @@
    "team": "vm00s3"
   }, 
   {
-   "lastAccept": 1573333930, 
-   "pos": 16, 
-   "score": 1057, 
-   "taskStats": {
-    "baby_recruiter": {
-     "points": 275, 
-     "time": 1573333930
-    }, 
-    "future_message_pt1": {
-     "points": 303, 
-     "time": 1573304433
-    }, 
-    "g00d_b0y": {
-     "points": 82, 
-     "time": 1573231398
-    }, 
-    "roots_before_branches": {
-     "points": 347, 
-     "time": 1573245898
-    }, 
-    "the_last_resort": {
-     "points": 50, 
-     "time": 1573231346
-    }
-   }, 
-   "team": "[USP] Ganesh"
-  }, 
-  {
    "lastAccept": 1573313247, 
    "pos": 17, 
-   "score": 1001, 
+   "score": 994, 
    "taskStats": {
     "full_troll": {
      "points": 231, 
@@ -622,7 +626,7 @@
      "time": 1573313247
     }, 
     "random_vault": {
-     "points": 340, 
+     "points": 333, 
      "time": 1573289119
     }, 
     "the_last_resort": {
@@ -635,7 +639,7 @@
   {
    "lastAccept": 1573313341, 
    "pos": 18, 
-   "score": 1001, 
+   "score": 994, 
    "taskStats": {
     "full_troll": {
      "points": 231, 
@@ -650,7 +654,7 @@
      "time": 1573313341
     }, 
     "random_vault": {
-     "points": 340, 
+     "points": 333, 
      "time": 1573302745
     }, 
     "the_last_resort": {
@@ -663,7 +667,7 @@
   {
    "lastAccept": 1573315311, 
    "pos": 19, 
-   "score": 978, 
+   "score": 971, 
    "taskStats": {
     "baby_recruiter": {
      "points": 275, 
@@ -678,7 +682,7 @@
      "time": 1573306226
     }, 
     "random_vault": {
-     "points": 340, 
+     "points": 333, 
      "time": 1573315311
     }, 
     "the_last_resort": {
@@ -691,7 +695,7 @@
   {
    "lastAccept": 1573331724, 
    "pos": 20, 
-   "score": 978, 
+   "score": 971, 
    "taskStats": {
     "baby_recruiter": {
      "points": 275, 
@@ -706,7 +710,7 @@
      "time": 1573232068
     }, 
     "random_vault": {
-     "points": 340, 
+     "points": 333, 
      "time": 1573331724
     }, 
     "the_last_resort": {
