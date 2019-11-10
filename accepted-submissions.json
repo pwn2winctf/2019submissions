@@ -1,8 +1,68 @@
 {
  "standings": [
   {
-   "lastAccept": 1573401655, 
+   "lastAccept": 1573402797, 
    "pos": 1, 
+   "score": 3762, 
+   "taskStats": {
+    "baby_recruiter": {
+     "points": 271, 
+     "time": 1573310081
+    }, 
+    "full_troll": {
+     "points": 225, 
+     "time": 1573303581
+    }, 
+    "future_message_pt1": {
+     "points": 288, 
+     "time": 1573307916
+    }, 
+    "future_message_pt2": {
+     "points": 333, 
+     "time": 1573349825
+    }, 
+    "future_message_pt3": {
+     "points": 363, 
+     "time": 1573351768
+    }, 
+    "g00d_b0y": {
+     "points": 74, 
+     "time": 1573289051
+    }, 
+    "i_shall_never_be_anything": {
+     "points": 283, 
+     "time": 1573293341
+    }, 
+    "random_crypto": {
+     "points": 394, 
+     "time": 1573288913
+    }, 
+    "random_vault": {
+     "points": 308, 
+     "time": 1573288944
+    }, 
+    "real_ec": {
+     "points": 373, 
+     "time": 1573381043
+    }, 
+    "roots_before_branches": {
+     "points": 347, 
+     "time": 1573359978
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573289023
+    }, 
+    "vamos_pra_russia": {
+     "points": 453, 
+     "time": 1573402797
+    }
+   }, 
+   "team": "CL34R"
+  }, 
+  {
+   "lastAccept": 1573401655, 
+   "pos": 2, 
    "score": 3756, 
    "taskStats": {
     "baby_recruiter": {
@@ -62,7 +122,7 @@
   }, 
   {
    "lastAccept": 1573396104, 
-   "pos": 2, 
+   "pos": 3, 
    "score": 3684, 
    "taskStats": {
     "baby_recruiter": {
@@ -118,7 +178,7 @@
   }, 
   {
    "lastAccept": 1573367889, 
-   "pos": 3, 
+   "pos": 4, 
    "score": 3448, 
    "taskStats": {
     "baby_recruiter": {
@@ -171,62 +231,6 @@
     }
    }, 
    "team": "justCatTheFish"
-  }, 
-  {
-   "lastAccept": 1573381043, 
-   "pos": 4, 
-   "score": 3309, 
-   "taskStats": {
-    "baby_recruiter": {
-     "points": 271, 
-     "time": 1573310081
-    }, 
-    "full_troll": {
-     "points": 225, 
-     "time": 1573303581
-    }, 
-    "future_message_pt1": {
-     "points": 288, 
-     "time": 1573307916
-    }, 
-    "future_message_pt2": {
-     "points": 333, 
-     "time": 1573349825
-    }, 
-    "future_message_pt3": {
-     "points": 363, 
-     "time": 1573351768
-    }, 
-    "g00d_b0y": {
-     "points": 74, 
-     "time": 1573289051
-    }, 
-    "i_shall_never_be_anything": {
-     "points": 283, 
-     "time": 1573293341
-    }, 
-    "random_crypto": {
-     "points": 394, 
-     "time": 1573288913
-    }, 
-    "random_vault": {
-     "points": 308, 
-     "time": 1573288944
-    }, 
-    "real_ec": {
-     "points": 373, 
-     "time": 1573381043
-    }, 
-    "roots_before_branches": {
-     "points": 347, 
-     "time": 1573359978
-    }, 
-    "the_last_resort": {
-     "points": 50, 
-     "time": 1573289023
-    }
-   }, 
-   "team": "CL34R"
   }, 
   {
    "lastAccept": 1573367456, 
@@ -575,7 +579,7 @@
   {
    "lastAccept": 1573379058, 
    "pos": 13, 
-   "score": 1582, 
+   "score": 1561, 
    "taskStats": {
     "future_message_pt1": {
      "points": 288, 
@@ -598,7 +602,7 @@
      "time": 1573247291
     }, 
     "vamos_pra_russia": {
-     "points": 474, 
+     "points": 453, 
      "time": 1573379058
     }
    }, 
@@ -1079,7 +1083,7 @@
   {
    "lastAccept": 1573331617, 
    "pos": 30, 
-   "score": 881, 
+   "score": 860, 
    "taskStats": {
     "g00d_b0y": {
      "points": 74, 
@@ -1094,7 +1098,7 @@
      "time": 1573232244
     }, 
     "vamos_pra_russia": {
-     "points": 474, 
+     "points": 453, 
      "time": 1573331617
     }
    }, 
