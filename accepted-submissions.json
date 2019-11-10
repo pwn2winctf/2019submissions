@@ -115,7 +115,7 @@
   {
    "lastAccept": 1573381043, 
    "pos": 3, 
-   "score": 3416, 
+   "score": 3402, 
    "taskStats": {
     "baby_recruiter": {
      "points": 271, 
@@ -146,7 +146,7 @@
      "time": 1573293341
     }, 
     "random_crypto": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573288913
     }, 
     "random_vault": {
@@ -171,7 +171,7 @@
   {
    "lastAccept": 1573367456, 
    "pos": 4, 
-   "score": 2922, 
+   "score": 2908, 
    "taskStats": {
     "full_troll": {
      "points": 228, 
@@ -198,7 +198,7 @@
      "time": 1573236673
     }, 
     "random_crypto": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573367456
     }, 
     "random_vault": {
@@ -219,7 +219,7 @@
   {
    "lastAccept": 1573344534, 
    "pos": 5, 
-   "score": 2920, 
+   "score": 2906, 
    "taskStats": {
     "baby_recruiter": {
      "points": 271, 
@@ -242,7 +242,7 @@
      "time": 1573309748
     }, 
     "random_crypto": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573257061
     }, 
     "random_vault": {
@@ -437,8 +437,44 @@
    "team": "STT"
   }, 
   {
-   "lastAccept": 1573379058, 
+   "lastAccept": 1573388237, 
    "pos": 10, 
+   "score": 1682, 
+   "taskStats": {
+    "baby_recruiter": {
+     "points": 271, 
+     "time": 1573353148
+    }, 
+    "full_troll": {
+     "points": 228, 
+     "time": 1573285364
+    }, 
+    "future_message_pt1": {
+     "points": 303, 
+     "time": 1573300827
+    }, 
+    "future_message_pt2": {
+     "points": 347, 
+     "time": 1573361217
+    }, 
+    "g00d_b0y": {
+     "points": 77, 
+     "time": 1573300944
+    }, 
+    "random_crypto": {
+     "points": 406, 
+     "time": 1573388237
+    }, 
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573265479
+    }
+   }, 
+   "team": "efiens"
+  }, 
+  {
+   "lastAccept": 1573379058, 
+   "pos": 11, 
    "score": 1634, 
    "taskStats": {
     "future_message_pt1": {
@@ -470,7 +506,7 @@
   }, 
   {
    "lastAccept": 1573357606, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 1569, 
    "taskStats": {
     "baby_recruiter": {
@@ -506,7 +542,7 @@
   }, 
   {
    "lastAccept": 1573378620, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 1453, 
    "taskStats": {
     "future_message_pt1": {
@@ -538,7 +574,7 @@
   }, 
   {
    "lastAccept": 1573321316, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 1414, 
    "taskStats": {
     "full_troll": {
@@ -562,7 +598,7 @@
   }, 
   {
    "lastAccept": 1573360729, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 1362, 
    "taskStats": {
     "baby_recruiter": {
@@ -594,7 +630,7 @@
   }, 
   {
    "lastAccept": 1573377483, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 1345, 
    "taskStats": {
     "full_troll": {
@@ -623,38 +659,6 @@
     }
    }, 
    "team": "LEGOFAN"
-  }, 
-  {
-   "lastAccept": 1573361217, 
-   "pos": 16, 
-   "score": 1276, 
-   "taskStats": {
-    "baby_recruiter": {
-     "points": 271, 
-     "time": 1573353148
-    }, 
-    "full_troll": {
-     "points": 228, 
-     "time": 1573285364
-    }, 
-    "future_message_pt1": {
-     "points": 303, 
-     "time": 1573300827
-    }, 
-    "future_message_pt2": {
-     "points": 347, 
-     "time": 1573361217
-    }, 
-    "g00d_b0y": {
-     "points": 77, 
-     "time": 1573300944
-    }, 
-    "the_last_resort": {
-     "points": 50, 
-     "time": 1573265479
-    }
-   }, 
-   "team": "efiens"
   }, 
   {
    "lastAccept": 1573334686, 
@@ -687,7 +691,7 @@
   {
    "lastAccept": 1573336993, 
    "pos": 18, 
-   "score": 1223, 
+   "score": 1209, 
    "taskStats": {
     "g00d_b0y": {
      "points": 77, 
@@ -698,7 +702,7 @@
      "time": 1573336993
     }, 
     "random_crypto": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573327131
     }, 
     "real_ec": {
@@ -1015,10 +1019,10 @@
   {
    "lastAccept": 1573357886, 
    "pos": 30, 
-   "score": 853, 
+   "score": 839, 
    "taskStats": {
     "random_crypto": {
-     "points": 420, 
+     "points": 406, 
      "time": 1573319944
     }, 
     "real_ec": {
