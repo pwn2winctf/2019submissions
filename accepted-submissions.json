@@ -3795,6 +3795,18 @@
     }
    }, 
    "team": "oZy_Blue"
+  }, 
+  {
+   "lastAccept": 1573369399, 
+   "pos": 213, 
+   "score": 50, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573369399
+    }
+   }, 
+   "team": "CyberKnights"
   }
  ], 
  "tasks": [
