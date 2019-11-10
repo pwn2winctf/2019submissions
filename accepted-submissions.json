@@ -3715,6 +3715,18 @@
     }
    }, 
    "team": "ScarletAndGrey"
+  }, 
+  {
+   "lastAccept": 1573359230, 
+   "pos": 210, 
+   "score": 50, 
+   "taskStats": {
+    "the_last_resort": {
+     "points": 50, 
+     "time": 1573359230
+    }
+   }, 
+   "team": "oZy_Blue"
   }
  ], 
  "tasks": [
